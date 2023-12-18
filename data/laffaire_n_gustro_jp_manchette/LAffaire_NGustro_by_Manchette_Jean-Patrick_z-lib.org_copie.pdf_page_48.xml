@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>LAffaire_NGustro_by_Manchette_Jean-Patrick_z-lib.org_copie.pdf_page_48.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1726" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1727" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT670" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT671" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="35"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        
+        <TextBlock HPOS="263"
+                   VPOS="192"
+                   WIDTH="2093"
+                   HEIGHT="1781"
+                   ID="eSc_textblock_59e14e0e"
+                   TAGREFS="BT1726">
+          <Shape><Polygon POINTS="263 192 263 1973 2356 1973 2356 192"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_96bbe05c"
+                    TAGREFS="LT670"
+                    BASELINE="310 352 2236 357" 
+                    HPOS="308"
+                    VPOS="299"
+                    WIDTH="1928"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="2178 308 2151 308 2123 308 2096 308 2068 308 2041 308 2013 308 1986 308 1958 308 1931 308 1903 308 1876 308 1848 308 1821 308 1793 308 1766 308 1738 305 1711 305 1683 305 1655 305 1628 305 1600 305 1573 305 1545 305 1518 305 1490 305 1463 305 1435 305 1408 305 1380 305 1353 305 1325 305 1298 305 1270 302 1243 302 1215 302 1188 302 1160 302 1133 302 1105 302 1078 302 1050 302 1023 302 995 302 968 302 940 302 913 302 885 302 858 302 830 302 803 302 786 299 310 299 310 352 308 360 2230 365 2236 357 2233 308 2206 308"/></Shape>
+	    <String CONTENT="est ministre. Le flingue a changé depuis les premiers temps. Tout au début,"
+                    HPOS="308"
+                    VPOS="299"
+                    WIDTH="1928"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d321bce0"
+                    TAGREFS="LT670"
+                    BASELINE="308 429 2239 423" 
+                    HPOS="305"
+                    VPOS="357"
+                    WIDTH="1934"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1518 357 1515 357 1477 371 1350 357 1347 357 1240 374 1185 360 1182 360 1180 360 1177 360 1149 374 1017 360 1015 360 938 374 885 360 883 360 880 360 877 360 874 360 852 374 745 360 742 360 739 360 737 360 717 374 577 360 574 360 484 374 349 360 346 360 343 360 305 374 308 429 308 440 2236 434 2239 423 2233 374 1521 357 1518 357"/></Shape>
+	    <String CONTENT="c’était un brave P38. A présent, le maréchal s’intéresse beaucoup plus au"
+                    HPOS="305"
+                    VPOS="357"
+                    WIDTH="1934"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43448454"
+                    TAGREFS="LT670"
+                    BASELINE="308 497 2239 497" 
+                    HPOS="308"
+                    VPOS="448"
+                    WIDTH="1931"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="308 497 308 511 2239 511 2239 497 2239 448 308 448 308 497"/></Shape>
+	    <String CONTENT="côté décoratif de l’arme. C’est pourquoi il porte une réplique du Colt"
+                    HPOS="308"
+                    VPOS="448"
+                    WIDTH="1931"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9356201"
+                    TAGREFS="LT670"
+                    BASELINE="310 572 2236 572" 
+                    HPOS="310"
+                    VPOS="511"
+                    WIDTH="1926"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="310 572 310 580 2233 585 2236 572 2214 517 310 511 310 572"/></Shape>
+	    <String CONTENT="2 Peacemaker calibre 45 du célèbre shérif Wyatt Earp, avec un très long"
+                    HPOS="310"
+                    VPOS="511"
+                    WIDTH="1926"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d52bb597"
+                    TAGREFS="LT670"
+                    BASELINE="310 643 2239 638" 
+                    HPOS="308"
+                    VPOS="588"
+                    WIDTH="1931"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="310 643 310 651 2239 646 2239 638 2230 588 308 591 310 643"/></Shape>
+	    <String CONTENT="canon, une crosse en noyer, et un extracteur collectif qui est une hérésie du."
+                    HPOS="308"
+                    VPOS="588"
+                    WIDTH="1931"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7dd93579"
+                    TAGREFS="LT670"
+                    BASELINE="310 717 1686 712" 
+                    HPOS="308"
+                    VPOS="660"
+                    WIDTH="1378"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="310 717 310 737 1683 726 1686 712 1677 660 308 662 310 717"/></Shape>
+	    <String CONTENT="point de vue historique, mais une hérésie bien pratique."
+                    HPOS="308"
+                    VPOS="660"
+                    WIDTH="1378"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f511f50a"
+                    TAGREFS="LT670"
+                    BASELINE="404 781 2233 789" 
+                    HPOS="401"
+                    VPOS="717"
+                    WIDTH="1832"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="927 717 910 717 877 728 869 728 861 728 819 717 816 717 789 717 761 717 734 717 706 717 704 717 404 723 404 781 401 789 2228 797 2233 789 2230 737 2153 720 2151 720 1966 734 1950 734 1947 734 1914 720 1911 720 1749 720 1746 720 1744 720 1741 720 1741 723 1730 731 1727 734 1722 731 1666 720 1664 720 1661 720 1639 731 1633 734 1620 731 1545 717 1543 717 1540 717 1499 731 1496 731 1493 731 1457 717 1455 717 1452 717 1449 717 1422 731 1419 731 1416 731 1375 717 1372 717 1369 717 1303 731 1290 731 1270 728 1169 717 1166 717 1163 717 1160 717 1144 728 1136 731 960 731 954 728 932 717 927 717"/></Shape>
+	    <String CONTENT="Le Colt. Oufiri le glisse sous le coussin du divan. La bretelle mexicaine."
+                    HPOS="401"
+                    VPOS="717"
+                    WIDTH="1832"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8af8cb7d"
+                    TAGREFS="LT670"
+                    BASELINE="308 858 2236 858" 
+                    HPOS="308"
+                    VPOS="803"
+                    WIDTH="1928"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="308 858 308 871 2236 871 2236 858 2233 805 308 803 308 858"/></Shape>
+	    <String CONTENT="il la pose sur le divan. Il desserre sa cravate, s’étire, remet sa pipe entre ses"
+                    HPOS="308"
+                    VPOS="803"
+                    WIDTH="1928"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_96e4e50b"
+                    TAGREFS="LT670"
+                    BASELINE="308 929 2236 929" 
+                    HPOS="308"
+                    VPOS="880"
+                    WIDTH="1928"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="308 929 308 943 2236 943 2236 929 2233 880 308 880 308 929"/></Shape>
+	    <String CONTENT=" dents et la rallume. Il inspire profondément. Au dernier moment avant de"
+                    HPOS="308"
+                    VPOS="880"
+                    WIDTH="1928"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_802bf5ce"
+                    TAGREFS="LT670"
+                    BASELINE="310 995 2236 1001" 
+                    HPOS="308"
+                    VPOS="946"
+                    WIDTH="1928"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="2217 948 310 946 310 995 308 1006 2230 1012 2236 1001 2233 987 2217 948"/></Shape>
+	    <String CONTENT="s’allonger, il reprend le petit magnétophone et il l’emporte avec lui sur le"
+                    HPOS="308"
+                    VPOS="946"
+                    WIDTH="1928"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_246921e6"
+                    TAGREFS="LT670"
+                    BASELINE="308 1072 1755 1072" 
+                    HPOS="308"
+                    VPOS="1023"
+                    WIDTH="1447"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="308 1072 308 1086 1755 1086 1755 1072 1755 1023 308 1023 308 1072"/></Shape>
+	    <String CONTENT=" divan. Butron l’amise. Il ne sait pas exactement pourquoi."
+                    HPOS="308"
+                    VPOS="1023"
+                    WIDTH="1447"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58f36e55"
+                    TAGREFS="LT670"
+                    BASELINE="404 1144 2236 1138" 
+                    HPOS="401"
+                    VPOS="1091"
+                    WIDTH="1835"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="404 1144 404 1157 2233 1152 2236 1138 2228 1091 401 1091 404 1144"/></Shape>
+	    <String CONTENT="Il s’étend et il écoute la bande d’une oreille distraite, heureux de sentir."
+                    HPOS="401"
+                    VPOS="1091"
+                    WIDTH="1835"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_24405f5c"
+                    TAGREFS="LT670"
+                    BASELINE="310 1215 2236 1215" 
+                    HPOS="310"
+                    VPOS="1168"
+                    WIDTH="1926"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="310 1215 310 1229 2236 1229 2236 1215 2217 1168 310 1168 310 1215"/></Shape>
+	    <String CONTENT="ses muscles se détendre, son esprit s’apaiser. La perception qu’il a des¬"
+                    HPOS="310"
+                    VPOS="1168"
+                    WIDTH="1926"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1f5613b4"
+                    TAGREFS="LT670"
+                    BASELINE="310 1289 2236 1289" 
+                    HPOS="310"
+                    VPOS="1240"
+                    WIDTH="1926"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="310 1289 310 1303 2236 1303 2236 1289 2217 1240 310 1240 310 1289"/></Shape>
+	    <String CONTENT="choses demeure, mais elle perd tout caractère d’urgence et acquiert une."
+                    HPOS="310"
+                    VPOS="1240"
+                    WIDTH="1926"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cff75cd3"
+                    TAGREFS="LT670"
+                    BASELINE="310 1358 993 1358" 
+                    HPOS="310"
+                    VPOS="1311"
+                    WIDTH="683"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="310 1358 310 1375 993 1375 993 1358 993 1311 310 1311 310 1358"/></Shape>
+	    <String CONTENT=" connotation nettement gaie."
+                    HPOS="310"
+                    VPOS="1311"
+                    WIDTH="683"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f4c6347"
+                    TAGREFS="LT670"
+                    BASELINE="404 1430 2239 1430" 
+                    HPOS="404"
+                    VPOS="1380"
+                    WIDTH="1835"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="404 1430 404 1446 2239 1446 2239 1430 2239 1380 404 1380 404 1430"/></Shape>
+	    <String CONTENT="1 Ainsi, par exemple, lorsque le maréchal entend, avec une acuité auditive"
+                    HPOS="404"
+                    VPOS="1380"
+                    WIDTH="1835"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b42eb0b"
+                    TAGREFS="LT670"
+                    BASELINE="310 1504 2236 1498" 
+                    HPOS="308"
+                    VPOS="1438"
+                    WIDTH="1928"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="310 1504 310 1518 2233 1512 2236 1498 2230 1452 1350 1438 1347 1438 1232 1452 462 1441 459 1441 308 1454 310 1504"/></Shape>
+	    <String CONTENT="nouvelle, grincer un somuier, au-dessus, il sourit béatemient. Il se représente."
+                    HPOS="308"
+                    VPOS="1438"
+                    WIDTH="1928"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c621a6ad"
+                    TAGREFS="LT670"
+                    BASELINE="310 1575 2241 1575" 
+                    HPOS="310"
+                    VPOS="1518"
+                    WIDTH="1931"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="2217 1523 310 1518 310 1575 310 1589 2241 1589 2241 1575 2236 1575 2217 1523"/></Shape>
+	    <String CONTENT="nle colonel Jumbo, tout nu, ayant perdu toute dignité, les fossettes qu’il a aux."
+                    HPOS="310"
+                    VPOS="1518"
+                    WIDTH="1931"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_639bbee8"
+                    TAGREFS="LT670"
+                    BASELINE="310 1647 2236 1647" 
+                    HPOS="310"
+                    VPOS="1597"
+                    WIDTH="1926"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="310 1647 310 1661 2236 1661 2236 1647 2214 1597 310 1597 310 1647"/></Shape>
+	    <String CONTENT=" fesses emplies de sueur, et qui besogne Josyane. Tant d’efforts pour si peu de."
+                    HPOS="310"
+                    VPOS="1597"
+                    WIDTH="1926"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_907e071b"
+                    TAGREFS="LT670"
+                    BASELINE="310 1721 2239 1721" 
+                    HPOS="310"
+                    VPOS="1669"
+                    WIDTH="1929"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="2236 1721 2214 1669 310 1669 310 1721 310 1735 2239 1735 2239 1721 2236 1710 2236 1721"/></Shape>
+	    <String CONTENT="choses. La face d’Oufiri est entièrement étirée dans le sens latéral par la."
+                    HPOS="310"
+                    VPOS="1669"
+                    WIDTH="1929"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02fd71aa"
+                    TAGREFS="LT670"
+                    BASELINE="308 1793 2236 1793" 
+                    HPOS="308"
+                    VPOS="1727"
+                    WIDTH="1928"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="308 1793 308 1815 2236 1804 2236 1793 2233 1740 2156 1727 2153 1727 2087 1740 2032 1727 2030 1727 2027 1727 2024 1727 1994 1740 1991 1740 1845 1727 1843 1727 1840 1727 1837 1727 1815 1740 1790 1727 1788 1727 1785 1727 1782 1727 1741 1740 1711 1727 1708 1727 1705 1727 1507 1740 1482 1740 1474 1740 1427 1727 1424 1727 1422 1727 1419 1727 1391 1740 1389 1743 1193 1743 1188 1738 1169 1727 1166 1727 1163 1727 1160 1727 1042 1738 1015 1740 990 1738 896 1727 894 1727 830 1738 811 1743 591 1743 585 1738 574 1727 572 1727 569 1727 566 1727 308 1735 308 1793"/></Shape>
+	    <String CONTENT="joie. Jumbo est un Nègre stupide, pense le maréchal. Il écoute la pièce"
+                    HPOS="308"
+                    VPOS="1727"
+                    WIDTH="1928"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d993f371"
+                    TAGREFS="LT670"
+                    BASELINE="313 1864 1268 1864" 
+                    HPOS="313"
+                    VPOS="1815"
+                    WIDTH="955"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="313 1864 313 1881 1268 1878 1268 1864 1268 1815 332 1815 313 1864"/></Shape>
+	    <String CONTENT="S’emplir de ses propres éclats de rire."
+                    HPOS="313"
+                    VPOS="1815"
+                    WIDTH="955"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
