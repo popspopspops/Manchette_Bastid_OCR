@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>LAffaire_NGustro_by_Manchette_Jean-Patrick_z-lib.org_copie.pdf_page_16.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1726" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1727" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT670" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT671" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        
+        <TextBlock HPOS="296"
+                   VPOS="269"
+                   WIDTH="1961"
+                   HEIGHT="1695"
+                   ID="eSc_textblock_517c8152"
+                   TAGREFS="BT1726">
+          <Shape><Polygon POINTS="296 269 306 1960 2257 1964 2252 293"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f264780c"
+                    TAGREFS="LT670"
+                    BASELINE="308 354 2233 354" 
+                    HPOS="308"
+                    VPOS="299"
+                    WIDTH="1925"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="2178 308 2151 308 2123 308 2096 308 2068 308 2041 308 2013 308 1986 308 1958 308 1931 308 1903 308 1876 308 1848 308 1821 308 1793 308 1766 308 1738 305 1711 305 1683 305 1655 305 1628 305 1600 305 1573 305 1545 305 1518 305 1490 305 1463 305 1435 305 1408 305 1380 305 1350 305 1325 305 1295 305 1270 302 1243 302 1215 302 1188 302 1160 302 1133 302 1105 302 1078 302 1050 302 1023 302 1001 302 976 305 960 302 940 302 913 302 885 302 858 302 844 302 833 305 825 302 803 302 775 299 748 299 720 299 693 299 665 299 638 299 610 299 583 299 574 299 558 305 497 299 473 299 445 299 418 299 390 299 363 299 357 299 308 305 308 354 308 368 2233 368 2233 354 2233 308 2206 305 2206 308"/></Shape>
+	    <String CONTENT=" au Iycée Corneille. Ses professeurs le jugent d’une extrême paresse."
+                    HPOS="308"
+                    VPOS="299"
+                    WIDTH="1925"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8069088a"
+                    TAGREFS="LT670"
+                    BASELINE="310 426 2236 426" 
+                    HPOS="310"
+                    VPOS="376"
+                    WIDTH="1926"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="310 426 310 440 2236 440 2236 426 2236 376 310 376 310 426"/></Shape>
+	    <String CONTENT="Certains font mention de son intelligence; tous, de sa passivité. Peut-être le"
+                    HPOS="310"
+                    VPOS="376"
+                    WIDTH="1926"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6a4ee4d0"
+                    TAGREFS="LT670"
+                    BASELINE="310 495 2230 500" 
+                    HPOS="308"
+                    VPOS="440"
+                    WIDTH="1922"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="310 495 308 503 2225 508 2230 500 2225 440 310 440 310 495"/></Shape>
+	    <String CONTENT="changement de régime disciplinaire a-t-il été néfaste à Butron. Cependant, il"
+                    HPOS="308"
+                    VPOS="440"
+                    WIDTH="1922"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b7a34351"
+                    TAGREFS="LT670"
+                    BASELINE="310 572 2233 566" 
+                    HPOS="308"
+                    VPOS="503"
+                    WIDTH="1925"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="310 572 310 580 2228 583 2233 566 2228 522 1837 503 1834 503 1650 519 1617 503 1614 503 1611 503 1303 519 1276 503 1273 503 1270 503 1268 503 1166 522 1122 506 1119 506 1116 506 1114 506 1067 522 1020 506 1017 506 1015 506 883 522 693 506 690 506 687 506 684 506 657 522 596 506 594 506 591 506 497 522 412 506 409 506 308 525 310 572"/></Shape>
+	    <String CONTENT="semble qu’à Orléans déjà, il avait « emprunté » quelques voitures,"
+                    HPOS="308"
+                    VPOS="503"
+                    WIDTH="1925"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_06bb7a69"
+                    TAGREFS="LT670"
+                    BASELINE="310 643 2236 635" 
+                    HPOS="308"
+                    VPOS="585"
+                    WIDTH="1928"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="310 643 310 660 2233 651 2236 635 2228 585 308 591 310 643"/></Shape>
+	    <String CONTENT="nuitamnent, pour emmener en promenade sentimentale la femme d’un officier"
+                    HPOS="308"
+                    VPOS="585"
+                    WIDTH="1928"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e425fbd4"
+                    TAGREFS="LT670"
+                    BASELINE="310 715 1001 709" 
+                    HPOS="308"
+                    VPOS="649"
+                    WIDTH="693"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="310 715 310 726 998 720 1001 709 995 660 365 649 363 649 360 649 308 662 310 715"/></Shape>
+	    <String CONTENT="subalterne caserné en ville."
+                    HPOS="308"
+                    VPOS="649"
+                    WIDTH="693"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d0ad3c4c"
+                    TAGREFS="LT670"
+                    BASELINE="407 786 2239 781" 
+                    HPOS="404"
+                    VPOS="728"
+                    WIDTH="1835"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="407 786 407 808 2236 794 2239 781 2233 731 404 728 407 786"/></Shape>
+	    <String CONTENT="Butron passe sans difficulté la premère partie de son baccalauréat, au"
+                    HPOS="404"
+                    VPOS="728"
+                    WIDTH="1835"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a74f90e6"
+                    TAGREFS="LT670"
+                    BASELINE="308 858 2236 858" 
+                    HPOS="308"
+                    VPOS="805"
+                    WIDTH="1928"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="308 858 308 871 2236 871 2236 858 2236 805 308 805 308 858"/></Shape>
+	    <String CONTENT=" début de l’été 1960. Il s’intéresse à la musique de jazz et essaie d’apprendre"
+                    HPOS="308"
+                    VPOS="805"
+                    WIDTH="1928"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6a00f185"
+                    TAGREFS="LT670"
+                    BASELINE="310 929 2233 929" 
+                    HPOS="310"
+                    VPOS="874"
+                    WIDTH="1923"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="310 929 310 943 2233 943 2233 929 2233 874 310 874 310 929"/></Shape>
+	    <String CONTENT=" la batterie, mais il abandonne assez rapidement l’étude de l’instrument. Il"
+                    HPOS="310"
+                    VPOS="874"
+                    WIDTH="1923"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c035091"
+                    TAGREFS="LT670"
+                    BASELINE="310 998 2233 1003" 
+                    HPOS="308"
+                    VPOS="946"
+                    WIDTH="1925"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="310 998 308 1006 2228 1012 2233 1003 2230 951 310 946 310 998"/></Shape>
+	    <String CONTENT="semble qu’il a pris alors l’habitude de voler régulièrement des voitures,"
+                    HPOS="308"
+                    VPOS="946"
+                    WIDTH="1925"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cce1eb00"
+                    TAGREFS="LT670"
+                    BASELINE="313 1075 2236 1069" 
+                    HPOS="313"
+                    VPOS="1009"
+                    WIDTH="1923"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="313 1075 313 1086 2233 1080 2236 1069 2230 1023 1312 1009 1309 1009 1306 1009 1270 1023 1268 1025 330 1025 313 1075"/></Shape>
+	    <String CONTENT="toujours pour faire des promenades, abandonnant les véhicules à peu de"
+                    HPOS="313"
+                    VPOS="1009"
+                    WIDTH="1923"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dea51614"
+                    TAGREFS="LT670"
+                    BASELINE="308 1146 2236 1141" 
+                    HPOS="305"
+                    VPOS="1078"
+                    WIDTH="1931"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="308 1146 308 1157 2233 1152 2236 1141 2233 1094 2200 1078 2197 1078 2195 1078 2192 1078 2156 1091 1922 1078 1920 1078 1917 1078 1914 1078 1892 1094 1642 1094 1600 1078 1598 1078 1595 1078 1592 1078 1589 1078 1573 1094 1358 1094 1314 1078 1312 1078 1309 1078 1166 1094 1039 1080 1037 1080 861 1094 830 1080 827 1080 632 1080 629 1080 627 1080 624 1080 605 1094 563 1080 561 1080 558 1080 555 1080 522 1094 332 1080 330 1080 327 1080 324 1080 305 1091 308 1146"/></Shape>
+	    <String CONTENT="distance de l’endroit où il les a trouvés, et peu de tenps après les avoir"
+                    HPOS="305"
+                    VPOS="1078"
+                    WIDTH="1931"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31a25a32"
+                    TAGREFS="LT670"
+                    BASELINE="310 1218 594 1218" 
+                    HPOS="310"
+                    VPOS="1168"
+                    WIDTH="284"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="310 1218 310 1232 594 1232 594 1218 594 1168 310 1168 310 1218"/></Shape>
+	    <String CONTENT="empruntés."
+                    HPOS="310"
+                    VPOS="1168"
+                    WIDTH="284"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_daf07cf7"
+                    TAGREFS="LT670"
+                    BASELINE="404 1289 2241 1284" 
+                    HPOS="401"
+                    VPOS="1218"
+                    WIDTH="1840"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="404 1289 404 1298 2239 1295 2241 1284 2236 1232 1323 1218 1320 1218 1317 1218 1290 1232 1287 1234 401 1234 404 1289"/></Shape>
+	    <String CONTENT="Le 3 octobre 1960, il vole l’automobile de M. Albert Ventrée, négociant"
+                    HPOS="401"
+                    VPOS="1218"
+                    WIDTH="1840"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_91871cb0"
+                    TAGREFS="LT670"
+                    BASELINE="308 1361 2236 1355" 
+                    HPOS="305"
+                    VPOS="1292"
+                    WIDTH="1931"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="308 1361 308 1372 2233 1369 2236 1355 2233 1309 2175 1292 2173 1292 2170 1292 2167 1292 2164 1292 2148 1306 1518 1292 1515 1292 1512 1292 1482 1306 1405 1292 1402 1292 1246 1309 319 1295 316 1295 313 1295 310 1295 310 1298 308 1298 305 1298 308 1361"/></Shape>
+	    <String CONTENT="à Châlons-sur-Marne, pour faire une excursion dans la région dieppoise. Au"
+                    HPOS="305"
+                    VPOS="1292"
+                    WIDTH="1931"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b43f728"
+                    TAGREFS="LT670"
+                    BASELINE="310 1432 2239 1427" 
+                    HPOS="308"
+                    VPOS="1377"
+                    WIDTH="1931"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="310 1432 310 1446 2236 1441 2239 1427 2230 1377 308 1380 310 1432"/></Shape>
+	    <String CONTENT="retour, fortuitement, il est surpris par M. Ventrée alors qu’il vient de garer la"
+                    HPOS="308"
+                    VPOS="1377"
+                    WIDTH="1931"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad967d0e"
+                    TAGREFS="LT670"
+                    BASELINE="313 1504 2239 1498" 
+                    HPOS="313"
+                    VPOS="1449"
+                    WIDTH="1926"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="2222 1449 330 1449 313 1504 313 1518 2236 1512 2239 1498 2230 1457 2222 1449"/></Shape>
+	    <String CONTENT="voiture. Des coups sont échangés. Henri Butron frappe M. Ventrée qui tentait"
+                    HPOS="313"
+                    VPOS="1449"
+                    WIDTH="1926"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d224505e"
+                    TAGREFS="LT670"
+                    BASELINE="308 1575 2239 1575" 
+                    HPOS="308"
+                    VPOS="1529"
+                    WIDTH="1931"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="308 1575 308 1589 2239 1589 2239 1575 2239 1529 308 1529 308 1575"/></Shape>
+	    <String CONTENT=" de le ceinturer. Le négociant est atteint d’une fracture du crâne et a la"
+                    HPOS="308"
+                    VPOS="1529"
+                    WIDTH="1931"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0b66ca8a"
+                    TAGREFS="LT670"
+                    BASELINE="310 1650 2236 1641" 
+                    HPOS="308"
+                    VPOS="1592"
+                    WIDTH="1928"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="310 1650 310 1663 2233 1658 2236 1641 2228 1592 308 1597 310 1650"/></Shape>
+	    <String CONTENT="mâchoire fracassée. Butron est incarcéré. Un arrangement intervient entre son"
+                    HPOS="308"
+                    VPOS="1592"
+                    WIDTH="1928"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_226582e0"
+                    TAGREFS="LT670"
+                    BASELINE="310 1721 2230 1716" 
+                    HPOS="308"
+                    VPOS="1655"
+                    WIDTH="1922"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="310 1721 310 1743 2228 1735 2230 1716 2225 1666 352 1655 349 1655 346 1655 308 1669 310 1721"/></Shape>
+	    <String CONTENT="père et M. Ventrée. Les autorités, qui ont de l’estime pour M. Butron père,"
+                    HPOS="308"
+                    VPOS="1655"
+                    WIDTH="1922"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12d45931"
+                    TAGREFS="LT670"
+                    BASELINE="310 1793 2230 1787" 
+                    HPOS="308"
+                    VPOS="1738"
+                    WIDTH="1922"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="310 1793 310 1806 2228 1801 2230 1787 2222 1738 308 1740 310 1793"/></Shape>
+	    <String CONTENT="n’y mettent pas obstacle. M. Ventrée retire sa plainte. Henri Butron s’engage"
+                    HPOS="308"
+                    VPOS="1738"
+                    WIDTH="1922"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9bc4a27"
+                    TAGREFS="LT670"
+                    BASELINE="310 1859 2233 1864" 
+                    HPOS="308"
+                    VPOS="1798"
+                    WIDTH="1925"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="310 1859 308 1867 2228 1872 2233 1864 2233 1817 2175 1801 2173 1801 2170 1801 1964 1815 1961 1815 1958 1815 1837 1801 1834 1801 1832 1801 1801 1815 1766 1801 1763 1801 1760 1801 1757 1801 1755 1801 1735 1815 1702 1801 1700 1801 1697 1801 1534 1815 1521 1815 1518 1815 1499 1801 1496 1801 1493 1801 1490 1801 1419 1815 1411 1815 1405 1815 1358 1801 1356 1801 1353 1801 1350 1801 1306 1815 1301 1815 1292 1815 1240 1798 1237 1798 1235 1798 310 1809 310 1859"/></Shape>
+	    <String CONTENT="dans l’armée. Après son instruction, il est envoyé à Oran dans les"
+                    HPOS="308"
+                    VPOS="1798"
+                    WIDTH="1925"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df3a9b23"
+                    TAGREFS="LT670"
+                    BASELINE="313 1936 2090 1930" 
+                    HPOS="313"
+                    VPOS="1867"
+                    WIDTH="1777"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="313 1936 313 1955 2087 1955 2090 1930 2085 1881 1202 1867 1199 1867 1196 1867 1193 1867 1177 1881 1174 1883 330 1883 313 1936"/></Shape>
+	    <String CONTENT="fransmissions. Il est blessé à l’œil droit pendant un exercice et réformé."
+                    HPOS="313"
+                    VPOS="1867"
+                    WIDTH="1777"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

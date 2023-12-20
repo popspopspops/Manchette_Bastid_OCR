@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>LAffaire_NGustro_by_Manchette_Jean-Patrick_z-lib.org_copie.pdf_page_15.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1726" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1727" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT670" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT671" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        
+        <TextBlock HPOS="300"
+                   VPOS="289"
+                   WIDTH="1950"
+                   HEIGHT="2694"
+                   ID="eSc_textblock_a2d9ccca"
+                   TAGREFS="BT1726">
+          <Shape><Polygon POINTS="310 289 300 2983 2250 2969 2240 299"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c8790e36"
+                    TAGREFS="LT670"
+                    BASELINE="310 354 2236 354" 
+                    HPOS="310"
+                    VPOS="299"
+                    WIDTH="1926"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="2153 305 2126 305 2098 305 2093 302 789 299 778 302 750 302 723 302 695 302 668 302 640 302 613 305 585 305 558 305 530 305 503 305 475 305 448 308 420 308 393 308 365 308 338 308 310 308 310 354 310 368 2236 368 2236 354 2208 308 2181 308"/></Shape>
+	    <String CONTENT="immédiatement et demeure masquée tout le reste de la journée. De toute"
+                    HPOS="310"
+                    VPOS="299"
+                    WIDTH="1926"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c93e088"
+                    TAGREFS="LT670"
+                    BASELINE="313 426 1221 420" 
+                    HPOS="310"
+                    VPOS="363"
+                    WIDTH="911"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="313 426 313 440 1218 434 1221 420 1215 374 321 363 319 363 316 363 313 363 313 365 310 365 313 426"/></Shape>
+	    <String CONTENT="façon, c’est la fin, entre Lyse et moi."
+                    HPOS="310"
+                    VPOS="363"
+                    WIDTH="911"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f1b0aa93"
+                    TAGREFS="LT670"
+                    BASELINE="404 497 2233 492" 
+                    HPOS="401"
+                    VPOS="431"
+                    WIDTH="1832"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="404 508 2230 503 2233 492 2228 445 1317 431 1314 431 1312 431 1309 431 1284 445 423 434 420 434 418 434 415 434 401 442 404 497"/></Shape>
+	    <String CONTENT="Au retour, Anne monte à l’avant. Tout le long du chemin, elle a une"
+                    HPOS="401"
+                    VPOS="431"
+                    WIDTH="1832"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0bc00763"
+                    TAGREFS="LT670"
+                    BASELINE="310 572 2233 566" 
+                    HPOS="308"
+                    VPOS="506"
+                    WIDTH="1925"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="310 572 310 583 2230 577 2233 566 2228 517 354 506 352 506 349 506 308 519 310 572"/></Shape>
+	    <String CONTENT="attitude très réservée. Elle passe son temps à croiser les cuisses quand je"
+                    HPOS="308"
+                    VPOS="506"
+                    WIDTH="1925"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_382d0cdf"
+                    TAGREFS="LT670"
+                    BASELINE="316 638 2233 643" 
+                    HPOS="313"
+                    VPOS="585"
+                    WIDTH="1920"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="316 638 313 646 2228 651 2233 643 2230 591 316 585 316 638"/></Shape>
+	    <String CONTENT="veux lui émouvoir le minet avec mon coude. Je fais semblant de rien. Lyse"
+                    HPOS="313"
+                    VPOS="585"
+                    WIDTH="1920"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e97fb521"
+                    TAGREFS="LT670"
+                    BASELINE="310 717 2230 709" 
+                    HPOS="308"
+                    VPOS="643"
+                    WIDTH="1922"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1862 643 1859 643 1744 657 1708 643 1705 643 1702 643 1700 643 1664 657 1625 643 1622 643 1620 643 1617 643 1584 660 1171 646 1169 646 1028 660 957 646 954 646 951 646 949 646 949 649 932 662 863 649 861 649 748 662 690 649 687 649 343 649 341 649 338 649 308 662 310 717 310 734 2228 728 2230 709 2225 660 1900 660 1865 643 1862 643"/></Shape>
+	    <String CONTENT="pleure à l’arrière. Je les dépose où je les ai prises. Je demande rien à Anne,"
+                    HPOS="308"
+                    VPOS="643"
+                    WIDTH="1922"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ce90c38"
+                    TAGREFS="LT670"
+                    BASELINE="310 783 2236 783" 
+                    HPOS="310"
+                    VPOS="737"
+                    WIDTH="1926"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="310 783 310 797 2236 797 2236 783 2217 737 310 737 310 783"/></Shape>
+	    <String CONTENT="ni son téléphone, ni où elle va en classe, afin de la déconcerter, et tout en"
+                    HPOS="310"
+                    VPOS="737"
+                    WIDTH="1926"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bcd29ec1"
+                    TAGREFS="LT670"
+                    BASELINE="313 858 2233 858" 
+                    HPOS="313"
+                    VPOS="803"
+                    WIDTH="1920"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="313 858 313 874 2233 874 2233 858 2230 803 313 803 313 858"/></Shape>
+	    <String CONTENT="sachant que je la retrouverai facilement quand je voudrai; Rouen n’est pas si"
+                    HPOS="313"
+                    VPOS="803"
+                    WIDTH="1920"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b8ea569d"
+                    TAGREFS="LT670"
+                    BASELINE="313 929 486 929" 
+                    HPOS="313"
+                    VPOS="880"
+                    WIDTH="173"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="313 929 313 951 486 943 486 929 486 880 313 880 313 929"/></Shape>
+	    <String CONTENT="grand."
+                    HPOS="313"
+                    VPOS="880"
+                    WIDTH="173"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1fcf2456"
+                    TAGREFS="LT670"
+                    BASELINE="404 995 2236 1001" 
+                    HPOS="401"
+                    VPOS="943"
+                    WIDTH="1835"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="404 995 401 1006 2230 1012 2236 1001 2228 946 404 943 404 995"/></Shape>
+	    <String CONTENT="Je vais garer la Fiat le long de la Seine et, avant de l’abandonner, j’ouvre"
+                    HPOS="401"
+                    VPOS="943"
+                    WIDTH="1835"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_06c54d18"
+                    TAGREFS="LT670"
+                    BASELINE="310 1075 2236 1075" 
+                    HPOS="310"
+                    VPOS="1009"
+                    WIDTH="1927"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="310 1086 2236 1086 2236 1075 2237 1027 1884 1025 1881 1023 1865 1009 1862 1009 1859 1009 1856 1009 1793 1023 1785 1023 1771 1023 1653 1009 1650 1009 1647 1009 1609 1023 1603 1023 1598 1023 1565 1009 1562 1009 1559 1009 1556 1009 1532 1020 1529 1023 1518 1020 1452 1009 1449 1009 1446 1009 1419 1020 1411 1023 1386 1020 1287 1009 1284 1009 1281 1009 1248 1020 1240 1023 1232 1020 1207 1009 1204 1009 1202 1009 1144 1020 1125 1023 1108 1020 1070 1009 1067 1009 1064 1009 1009 1020 987 1023 971 1020 938 1009 935 1009 932 1009 310 1014 310 1075"/></Shape>
+	    <String CONTENT="le coffre pas verrouillé, voir s’il n’y a rien à piquer. Un type un peu"
+                    HPOS="310"
+                    VPOS="1009"
+                    WIDTH="1927"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a81f7aa7"
+                    TAGREFS="LT670"
+                    BASELINE="310 1146 2233 1138" 
+                    HPOS="308"
+                    VPOS="1089"
+                    WIDTH="1925"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="310 1146 310 1160 2230 1152 2233 1138 2228 1089 308 1089 310 1146"/></Shape>
+	    <String CONTENT="bedonnant fonce sur moi. Je saurai plus tard qu’il est le propriétaire de cette"
+                    HPOS="308"
+                    VPOS="1089"
+                    WIDTH="1925"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e667d9e9"
+                    TAGREFS="LT670"
+                    BASELINE="310 1215 508 1215" 
+                    HPOS="310"
+                    VPOS="1152"
+                    WIDTH="198"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="310 1215 310 1232 508 1232 508 1215 508 1168 346 1152 343 1152 341 1152 310 1166 310 1215"/></Shape>
+	    <String CONTENT="chiotte."
+                    HPOS="310"
+                    VPOS="1152"
+                    WIDTH="198"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_54104c79"
+                    TAGREFS="LT670"
+                    BASELINE="416 1285 1119 1289" 
+                    HPOS="412"
+                    VPOS="1223"
+                    WIDTH="704"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="415 1284 412 1292 1111 1295 1116 1287 1116 1237 1092 1223 1089 1223 1086 1223 1083 1223 415 1234 415 1284"/></Shape>
+	    <String CONTENT="— Sale petit voleur ! fait-il."
+                    HPOS="412"
+                    VPOS="1223"
+                    WIDTH="704"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b20c4412"
+                    TAGREFS="LT670"
+                    BASELINE="404 1355 2239 1361" 
+                    HPOS="401"
+                    VPOS="1292"
+                    WIDTH="1838"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="2219 1320 2192 1320 2164 1320 2137 1320 2109 1317 2082 1317 2054 1317 2027 1317 1999 1314 1972 1314 1944 1314 1917 1314 1889 1314 1862 1311 1834 1311 1807 1311 1779 1311 1752 1309 1724 1309 1697 1309 1669 1309 1666 1306 1666 1309 1664 1306 1642 1306 1614 1306 1587 1306 1559 1306 1556 1303 1556 1306 1537 1309 1471 1306 1383 1300 1367 1300 1339 1300 1312 1300 1298 1295 1251 1292 1248 1292 1193 1303 1177 1306 1144 1303 1031 1292 1028 1292 1026 1292 1001 1303 995 1306 987 1303 965 1292 962 1292 960 1292 957 1292 929 1303 916 1306 404 1300 404 1355 401 1364 2233 1369 2239 1361 2236 1317 2219 1320"/></Shape>
+	    <String CONTENT="Il veut saisir mon col. Je me débats. Il me gifle. L’hurmiliation me met"
+                    HPOS="401"
+                    VPOS="1292"
+                    WIDTH="1838"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f0c19cb9"
+                    TAGREFS="LT670"
+                    BASELINE="308 1427 2233 1432" 
+                    HPOS="305"
+                    VPOS="1375"
+                    WIDTH="1928"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="308 1427 305 1435 2228 1441 2233 1432 2230 1383 308 1375 308 1427"/></Shape>
+	    <String CONTENT="hors de moi. J’empoigne dans le coffre la manivelle et je l’abats de toutes"
+                    HPOS="305"
+                    VPOS="1375"
+                    WIDTH="1928"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c859928b"
+                    TAGREFS="LT670"
+                    BASELINE="310 1504 2233 1498" 
+                    HPOS="308"
+                    VPOS="1438"
+                    WIDTH="1925"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="310 1504 310 1515 2230 1509 2233 1498 2228 1452 1295 1438 1292 1438 1290 1438 1287 1438 1262 1452 440 1441 437 1441 308 1454 310 1504"/></Shape>
+	    <String CONTENT="mes forces sur le crâne du type. Son chapeau est écrasé. Du sang gicle sur"
+                    HPOS="308"
+                    VPOS="1438"
+                    WIDTH="1925"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af6a3ff9"
+                    TAGREFS="LT670"
+                    BASELINE="313 1570 2236 1575" 
+                    HPOS="313"
+                    VPOS="1523"
+                    WIDTH="1923"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="313 1586 2233 1586 2236 1575 2235 1530 313 1523 313 1570"/></Shape>
+	    <String CONTENT="son front rougeaud. Il titube. Je lui mets un autre coup de manivelle en"
+                    HPOS="313"
+                    VPOS="1523"
+                    WIDTH="1923"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f830727b"
+                    TAGREFS="LT670"
+                    BASELINE="313 1647 2239 1647" 
+                    HPOS="313"
+                    VPOS="1597"
+                    WIDTH="1926"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="313 1647 313 1661 2239 1661 2239 1647 2239 1597 313 1597 313 1647"/></Shape>
+	    <String CONTENT="travers de la gueule. Sa mâchoire est décrochée. Il tombe contre le trottoir et"
+                    HPOS="313"
+                    VPOS="1597"
+                    WIDTH="1926"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_317876cb"
+                    TAGREFS="LT670"
+                    BASELINE="313 1721 2236 1721" 
+                    HPOS="313"
+                    VPOS="1665"
+                    WIDTH="1923"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="313 1735 2236 1735 2236 1721 2235 1665 313 1669 313 1721"/></Shape>
+	    <String CONTENT="se fracture le crâne. Deux dockers se ruent sur moi à travers la chaussée, me"
+                    HPOS="313"
+                    VPOS="1665"
+                    WIDTH="1923"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_39980d78"
+                    TAGREFS="LT670"
+                    BASELINE="313 1793 1130 1787" 
+                    HPOS="310"
+                    VPOS="1738"
+                    WIDTH="820"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="313 1793 313 1806 1127 1801 1130 1787 1122 1738 310 1740 313 1793"/></Shape>
+	    <String CONTENT="tordent les bras et me maîtrisent."
+                    HPOS="310"
+                    VPOS="1738"
+                    WIDTH="820"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46884acb"
+                    TAGREFS="LT670"
+                    BASELINE="404 1861 2236 1861" 
+                    HPOS="404"
+                    VPOS="1798"
+                    WIDTH="1832"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="404 1861 404 1875 2233 1872 2236 1861 2228 1809 1532 1798 1529 1798 1452 1812 1449 1812 1380 1798 1378 1798 1375 1798 1334 1812 1284 1798 1281 1798 1279 1798 1276 1798 1229 1812 1196 1798 1193 1798 1191 1798 1094 1812 1053 1798 1050 1798 1048 1798 1045 1798 998 1812 957 1798 954 1798 951 1798 949 1798 946 1798 946 1801 932 1815 731 1815 665 1798 662 1798 660 1798 618 1812 585 1798 583 1798 580 1798 577 1798 544 1812 429 1798 426 1798 423 1798 420 1798 404 1809 404 1861"/></Shape>
+	    <String CONTENT="(Extrait des notes de Jacquie Gouin)... Henri Butron est né le 8"
+                    HPOS="404"
+                    VPOS="1798"
+                    WIDTH="1832"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fcad442b"
+                    TAGREFS="LT670"
+                    BASELINE="308 1936 2236 1930" 
+                    HPOS="305"
+                    VPOS="1867"
+                    WIDTH="1931"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="308 1936 308 1947 2233 1944 2236 1930 2230 1883 2142 1867 2140 1867 2137 1867 2134 1867 2112 1881 1887 1867 1884 1867 1881 1867 1878 1867 1862 1883 1694 1883 1655 1867 1653 1867 1650 1867 1647 1867 1606 1881 1565 1867 1562 1867 1559 1867 1556 1867 1526 1881 1455 1867 1452 1867 1449 1867 1394 1881 1199 1870 1196 1870 1193 1870 1155 1883 1067 1870 1064 1870 990 1883 808 1870 805 1870 803 1870 800 1870 781 1883 767 1870 764 1870 761 1870 596 1870 594 1870 591 1870 558 1883 332 1870 330 1870 327 1870 324 1870 305 1881 308 1936"/></Shape>
+	    <String CONTENT="décembre 1942 à Orléans. Son père, un médecin de trente-huit ans, issu"
+                    HPOS="305"
+                    VPOS="1867"
+                    WIDTH="1931"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd7bfee1"
+                    TAGREFS="LT670"
+                    BASELINE="308 2004 2230 2010" 
+                    HPOS="305"
+                    VPOS="1949"
+                    WIDTH="1925"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="308 2004 305 2013 2225 2021 2230 2010 2228 1955 308 1949 308 2004"/></Shape>
+	    <String CONTENT="d’une honorable famille de Touraine, travaillait le matin dans un dispensaire,"
+                    HPOS="305"
+                    VPOS="1949"
+                    WIDTH="1925"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4469e857"
+                    TAGREFS="LT670"
+                    BASELINE="310 2073 2233 2079" 
+                    HPOS="308"
+                    VPOS="2024"
+                    WIDTH="1925"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="310 2073 308 2084 2228 2090 2233 2079 2230 2029 310 2024 310 2073"/></Shape>
+	    <String CONTENT="et l’après-midi dans un cabinet qu’il partageait avec un autre médecin, plus"
+                    HPOS="308"
+                    VPOS="2024"
+                    WIDTH="1925"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e5df9d1f"
+                    TAGREFS="LT670"
+                    BASELINE="310 2150 2236 2145" 
+                    HPOS="308"
+                    VPOS="2087"
+                    WIDTH="1928"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="310 2150 310 2164 2233 2158 2236 2145 2230 2098 321 2087 319 2087 316 2087 313 2087 313 2090 310 2090 308 2090 310 2150"/></Shape>
+	    <String CONTENT="âgé que lui. Sa mère était une personne effacée, plutôt laide, oisive et aimant"
+                    HPOS="308"
+                    VPOS="2087"
+                    WIDTH="1928"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34def064"
+                    TAGREFS="LT670"
+                    BASELINE="310 2224 2233 2216" 
+                    HPOS="308"
+                    VPOS="2153"
+                    WIDTH="1925"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="310 2224 310 2238 2230 2230 2233 2216 2228 2169 1614 2153 1611 2153 1609 2153 1578 2169 1576 2169 1543 2169 1364 2156 1361 2156 1287 2169 1273 2169 1259 2169 1199 2156 1196 2156 1193 2156 1152 2169 1144 2172 1042 2172 1039 2169 1026 2156 1023 2156 1020 2156 1017 2156 929 2169 896 2172 863 2169 800 2158 797 2158 308 2167 310 2224"/></Shape>
+	    <String CONTENT="les bêtes. La famille a mené une vie extrêmement régulière. Rien ne semble"
+                    HPOS="308"
+                    VPOS="2153"
+                    WIDTH="1925"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f09335e9"
+                    TAGREFS="LT670"
+                    BASELINE="310 2296 2233 2296" 
+                    HPOS="310"
+                    VPOS="2241"
+                    WIDTH="1923"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="310 2296 310 2310 2233 2310 2233 2296 2230 2241 310 2241 310 2296"/></Shape>
+	    <String CONTENT=" avoir prédisposé Henri Butron à la dépravation. Il est fils unique, assez gâté"
+                    HPOS="310"
+                    VPOS="2241"
+                    WIDTH="1923"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_65f0b487"
+                    TAGREFS="LT670"
+                    BASELINE="310 2362 2233 2367" 
+                    HPOS="308"
+                    VPOS="2312"
+                    WIDTH="1925"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="310 2362 308 2373 2228 2378 2233 2367 2230 2318 310 2312 310 2362"/></Shape>
+	    <String CONTENT="certes, mais le ménage Butron est uni, son standard de vie est bon, sans"
+                    HPOS="308"
+                    VPOS="2312"
+                    WIDTH="1925"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2c5c4d26"
+                    TAGREFS="LT670"
+                    BASELINE="310 2439 478 2433" 
+                    HPOS="308"
+                    VPOS="2373"
+                    WIDTH="170"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="310 2439 310 2447 478 2444 478 2433 473 2389 404 2373 401 2373 308 2392 310 2439"/></Shape>
+	    <String CONTENT="excès."
+                    HPOS="308"
+                    VPOS="2373"
+                    WIDTH="170"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0966519"
+                    TAGREFS="LT670"
+                    BASELINE="404 2510 2236 2510" 
+                    HPOS="404"
+                    VPOS="2444"
+                    WIDTH="1832"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="404 2510 404 2524 2233 2524 2236 2510 2228 2458 2071 2444 2068 2444 2005 2458 2002 2458 1944 2444 1942 2444 1939 2444 1876 2458 1870 2458 1865 2458 1823 2444 1821 2444 1818 2444 1735 2458 1724 2458 1722 2458 1705 2444 1702 2444 1700 2444 1697 2444 1578 2455 1551 2458 1496 2455 1273 2444 1270 2444 1210 2455 1188 2458 404 2453 404 2510"/></Shape>
+	    <String CONTENT="Le jeune Henri Butron est un enfant un peu chétif, mais sain. C’est un"
+                    HPOS="404"
+                    VPOS="2444"
+                    WIDTH="1832"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_392bba6f"
+                    TAGREFS="LT670"
+                    BASELINE="313 2585 2236 2576" 
+                    HPOS="310"
+                    VPOS="2525"
+                    WIDTH="1926"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="313 2604 2233 2590 2236 2576 2230 2525 310 2532 313 2585"/></Shape>
+	    <String CONTENT="grand liseur de romans d’aventures. Ses maîtres le jugent un élève intelligent"
+                    HPOS="310"
+                    VPOS="2525"
+                    WIDTH="1926"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d41f8112"
+                    TAGREFS="LT670"
+                    BASELINE="310 2653 979 2653" 
+                    HPOS="310"
+                    VPOS="2604"
+                    WIDTH="669"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="310 2653 310 2667 979 2667 979 2653 979 2604 310 2604 310 2653"/></Shape>
+	    <String CONTENT="et discipliné, un peu terne."
+                    HPOS="310"
+                    VPOS="2604"
+                    WIDTH="669"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6fa29e22"
+                    TAGREFS="LT670"
+                    BASELINE="404 2728 2233 2719" 
+                    HPOS="401"
+                    VPOS="2673"
+                    WIDTH="1832"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="404 2728 404 2741 2230 2733 2233 2719 2228 2673 401 2673 404 2728"/></Shape>
+	    <String CONTENT="À dix ans, Butron est entré comme externe dans une institution tenue par"
+                    HPOS="401"
+                    VPOS="2673"
+                    WIDTH="1832"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_341619f9"
+                    TAGREFS="LT670"
+                    BASELINE="310 2794 1966 2799" 
+                    HPOS="308"
+                    VPOS="2741"
+                    WIDTH="1658"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="310 2794 308 2805 1961 2810 1966 2799 1964 2747 310 2741 310 2794"/></Shape>
+	    <String CONTENT="des Jésuites, où il accomplit l’essentiel de ses études secondaires."
+                    HPOS="308"
+                    VPOS="2741"
+                    WIDTH="1658"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb5901ad"
+                    TAGREFS="LT670"
+                    BASELINE="404 2871 2236 2871" 
+                    HPOS="404"
+                    VPOS="2805"
+                    WIDTH="1832"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="404 2871 404 2884 2233 2884 2236 2871 2228 2818 2195 2805 2192 2805 2057 2805 2054 2805 2052 2805 2049 2805 2035 2818 1991 2805 1988 2805 1986 2805 1983 2805 1953 2818 1931 2805 1928 2805 1925 2805 1922 2805 1920 2805 1881 2818 1878 2818 1870 2818 1702 2805 1700 2805 1697 2805 1658 2818 1655 2818 1636 2805 1633 2805 1631 2805 1628 2805 1625 2805 1600 2818 1598 2818 1587 2818 1504 2805 1501 2805 1444 2816 1430 2818 1391 2816 1229 2805 1226 2805 1174 2816 1155 2821 984 2821 979 2816 968 2805 965 2805 962 2805 960 2805 957 2805 927 2813 910 2818 850 2813 745 2805 742 2805 739 2805 720 2813 709 2818 684 2813 646 2805 643 2805 640 2805 638 2805 627 2813 616 2818 602 2813 583 2805 580 2805 577 2805 404 2810 404 2871"/></Shape>
+	    <String CONTENT="Fin 58, le docteur Butron achète un cabinet à Rouen, où la famille"
+                    HPOS="404"
+                    VPOS="2805"
+                    WIDTH="1832"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e33574b8"
+                    TAGREFS="LT670"
+                    BASELINE="313 2939 2233 2939" 
+                    HPOS="313"
+                    VPOS="2893"
+                    WIDTH="1920"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="313 2939 313 2959 2233 2959 2233 2939 2233 2893 313 2893 313 2939"/></Shape>
+	    <String CONTENT="s’installe bientôt. Henri Butron entre en cours d’année en classe de seconde"
+                    HPOS="313"
+                    VPOS="2893"
+                    WIDTH="1920"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

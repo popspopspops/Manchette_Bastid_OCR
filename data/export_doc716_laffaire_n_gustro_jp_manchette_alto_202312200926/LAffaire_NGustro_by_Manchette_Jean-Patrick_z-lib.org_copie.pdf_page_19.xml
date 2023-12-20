@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>LAffaire_NGustro_by_Manchette_Jean-Patrick_z-lib.org_copie.pdf_page_19.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1726" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1727" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT670" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT671" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        
+        <TextBlock HPOS="294"
+                   VPOS="282"
+                   WIDTH="1973"
+                   HEIGHT="1255"
+                   ID="eSc_textblock_745e649e"
+                   TAGREFS="BT1726">
+          <Shape><Polygon POINTS="294 283 300 1537 2267 1519 2260 282"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_914ba0ad"
+                    TAGREFS="LT670"
+                    BASELINE="404 349 2236 354" 
+                    HPOS="404"
+                    VPOS="294"
+                    WIDTH="1832"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="2189 299 2162 299 2134 299 2107 299 2079 299 2052 299 2041 305 2030 299 2024 299 1997 299 1969 299 1942 299 1914 299 1887 299 1859 299 1832 299 1804 299 1790 299 1782 305 1733 299 1722 299 1694 299 1666 299 1639 299 1611 299 1584 299 1556 299 1551 299 1471 305 1460 299 1446 299 1419 299 1391 299 1364 299 1336 299 1309 299 1298 299 1268 302 1246 302 1237 302 1226 299 1199 299 1171 299 1144 299 1116 299 1114 299 1105 302 1103 302 1100 302 1089 299 1061 299 1034 299 1006 299 990 299 984 302 976 299 951 299 924 299 918 305 726 305 709 299 704 299 676 299 649 299 643 299 640 302 629 299 621 299 594 299 566 299 547 299 541 302 522 299 511 299 484 299 456 299 429 299 404 330 404 349 404 365 2233 365 2236 354 2233 297 2217 294 2217 299"/></Shape>
+	    <String CONTENT="(Extrait des notes de Jacquie)... Après son retour d’Algérie, Henri"
+                    HPOS="404"
+                    VPOS="294"
+                    WIDTH="1832"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_778699b5"
+                    TAGREFS="LT670"
+                    BASELINE="310 420 2236 426" 
+                    HPOS="308"
+                    VPOS="371"
+                    WIDTH="1928"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="335 376 310 385 310 420 308 431 2230 437 2236 426 2233 376 360 371 335 376"/></Shape>
+	    <String CONTENT="Butron reste oisif pendant quelques mois. Il ne sait pas quoi faire. Il habite"
+                    HPOS="308"
+                    VPOS="371"
+                    WIDTH="1928"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bdc2e322"
+                    TAGREFS="LT670"
+                    BASELINE="310 497 2241 497" 
+                    HPOS="310"
+                    VPOS="448"
+                    WIDTH="1931"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="310 497 310 511 2241 511 2241 497 2241 448 310 448 310 497"/></Shape>
+	    <String CONTENT="toujours Rouen, chez son père, qui voit d’un mauvais œil le désœuvrement"
+                    HPOS="310"
+                    VPOS="448"
+                    WIDTH="1931"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b3458a4e"
+                    TAGREFS="LT670"
+                    BASELINE="308 572 602 566" 
+                    HPOS="308"
+                    VPOS="503"
+                    WIDTH="294"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="308 572 308 580 602 574 602 566 596 519 500 503 497 503 390 519 335 506 332 506 330 506 308 572"/></Shape>
+	    <String CONTENT="de son fils."
+                    HPOS="308"
+                    VPOS="503"
+                    WIDTH="294"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51c89a84"
+                    TAGREFS="LT670"
+                    BASELINE="404 643 2233 638" 
+                    HPOS="401"
+                    VPOS="583"
+                    WIDTH="1832"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="404 643 404 654 2230 649 2233 638 2225 583 401 585 404 643"/></Shape>
+	    <String CONTENT="Devant l’insistance de son père, Butron finit par retourner au Iycée. Il"
+                    HPOS="401"
+                    VPOS="583"
+                    WIDTH="1832"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c32fa12c"
+                    TAGREFS="LT670"
+                    BASELINE="310 715 2239 709" 
+                    HPOS="308"
+                    VPOS="646"
+                    WIDTH="1931"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="310 715 310 734 2236 720 2239 709 2233 660 1273 646 1270 646 1268 646 1265 646 1240 660 376 649 374 649 308 662 310 715"/></Shape>
+	    <String CONTENT="prépare cette fois le baccalauréat de Sciences Expérimentales. Son père, en"
+                    HPOS="308"
+                    VPOS="646"
+                    WIDTH="1931"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5a5bddb4"
+                    TAGREFS="LT670"
+                    BASELINE="310 786 1953 786" 
+                    HPOS="310"
+                    VPOS="734"
+                    WIDTH="1643"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="310 786 310 800 1953 800 1953 786 1953 734 310 734 310 786"/></Shape>
+	    <String CONTENT="effet, souhaite qu’il fasse ultérieurement des études de pharmacie."
+                    HPOS="310"
+                    VPOS="734"
+                    WIDTH="1643"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c872bc06"
+                    TAGREFS="LT670"
+                    BASELINE="404 858 2236 852" 
+                    HPOS="401"
+                    VPOS="792"
+                    WIDTH="1835"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="404 858 404 869 2233 863 2236 852 2230 805 1320 792 1317 792 1193 805 426 794 423 794 420 794 418 794 401 803 404 858"/></Shape>
+	    <String CONTENT="Au Iycée, Butron jouit d’un certain prestige, à cause des incidents"
+                    HPOS="401"
+                    VPOS="792"
+                    WIDTH="1835"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7694de6d"
+                    TAGREFS="LT670"
+                    BASELINE="308 929 2233 929" 
+                    HPOS="308"
+                    VPOS="880"
+                    WIDTH="1925"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="308 929 308 943 2233 943 2233 929 2233 880 316 880 308 929"/></Shape>
+	    <String CONTENT="auxquels il a été mêlé, et de sa blessure. Il semble qu’il enjolive beaucoup"
+                    HPOS="308"
+                    VPOS="880"
+                    WIDTH="1925"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e77671e3"
+                    TAGREFS="LT670"
+                    BASELINE="310 1003 2239 998" 
+                    HPOS="308"
+                    VPOS="935"
+                    WIDTH="1931"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="310 1003 310 1014 2236 1009 2239 998 2233 948 1273 935 1270 935 1268 935 1232 948 481 937 478 937 308 951 310 1003"/></Shape>
+	    <String CONTENT="ses activités en Algérie, faisant état d’actions militaires auxquelles il aurait"
+                    HPOS="308"
+                    VPOS="935"
+                    WIDTH="1931"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3cff1eaa"
+                    TAGREFS="LT670"
+                    BASELINE="313 1075 2236 1075" 
+                    HPOS="313"
+                    VPOS="1012"
+                    WIDTH="1923"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="313 1075 313 1091 2236 1083 2236 1075 2236 1025 2175 1012 2173 1012 2170 1012 2167 1012 2131 1025 2087 1012 2085 1012 2082 1012 2079 1012 2046 1025 2013 1012 2010 1012 2008 1012 1328 1025 1149 1012 1147 1012 1144 1012 1089 1025 990 1012 987 1012 907 1025 814 1012 811 1012 574 1025 555 1012 552 1012 550 1012 547 1012 420 1025 376 1012 374 1012 371 1012 368 1012 313 1025 313 1075"/></Shape>
+	    <String CONTENT="pris part, se vantant même d’avoir procédé personnellement à des"
+                    HPOS="313"
+                    VPOS="1012"
+                    WIDTH="1923"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_14cbc9ff"
+                    TAGREFS="LT670"
+                    BASELINE="310 1146 1141 1141" 
+                    HPOS="308"
+                    VPOS="1091"
+                    WIDTH="833"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="310 1146 310 1160 1138 1155 1141 1141 1133 1091 308 1091 310 1146"/></Shape>
+	    <String CONTENT="interrogatoires et des exécutions."
+                    HPOS="308"
+                    VPOS="1091"
+                    WIDTH="833"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c3bbe11"
+                    TAGREFS="LT670"
+                    BASELINE="404 1218 2239 1218" 
+                    HPOS="404"
+                    VPOS="1166"
+                    WIDTH="1835"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="404 1218 404 1232 2239 1232 2239 1218 2239 1166 404 1166 404 1218"/></Shape>
+	    <String CONTENT=" Ses vantardises lui valent la sympathie des milieux d’extrême droite, au"
+                    HPOS="404"
+                    VPOS="1166"
+                    WIDTH="1835"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2eaa3363"
+                    TAGREFS="LT670"
+                    BASELINE="310 1287 2236 1287" 
+                    HPOS="310"
+                    VPOS="1232"
+                    WIDTH="1926"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="310 1287 310 1303 2236 1303 2236 1287 2236 1237 310 1232 310 1287"/></Shape>
+	    <String CONTENT=" lycée et hors du lycée. Butron fait partie des groupes de jeunes nationalistes"
+                    HPOS="310"
+                    VPOS="1232"
+                    WIDTH="1926"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_81470237"
+                    TAGREFS="LT670"
+                    BASELINE="310 1358 2239 1358" 
+                    HPOS="310"
+                    VPOS="1309"
+                    WIDTH="1929"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="310 1358 310 1377 2239 1377 2239 1358 2239 1309 310 1309 310 1358"/></Shape>
+	    <String CONTENT="qui, dans les années 61 et 62, perturbent les meetings pacifistes et attaquent"
+                    HPOS="310"
+                    VPOS="1309"
+                    WIDTH="1929"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f83a3394"
+                    TAGREFS="LT670"
+                    BASELINE="310 1432 1413 1427" 
+                    HPOS="308"
+                    VPOS="1364"
+                    WIDTH="1105"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="310 1432 310 1443 1411 1441 1413 1427 1408 1377 1092 1364 1089 1364 308 1377 310 1432"/></Shape>
+	    <String CONTENT="les colleurs d’affiches comuinistes et PSU"
+                    HPOS="308"
+                    VPOS="1364"
+                    WIDTH="1105"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_717ba288"
+                    TAGREFS="LT670"
+                    BASELINE="404 1501 1422 1501" 
+                    HPOS="404"
+                    VPOS="1449"
+                    WIDTH="1018"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="404 1501 404 1518 1419 1520 1422 1501 1422 1454 404 1449 404 1501"/></Shape>
+	    <String CONTENT=" Il entre en contact avec l’OAs-métropole."
+                    HPOS="404"
+                    VPOS="1449"
+                    WIDTH="1018"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
