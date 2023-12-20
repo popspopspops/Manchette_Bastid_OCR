@@ -52,13 +52,13 @@
           
           
           <TextLine ID="eSc_line_2e85463d"
-                    
+                    TAGREFS="LT705"
                     BASELINE="319 858 2145 849" 
                     HPOS="316"
                     VPOS="772"
                     WIDTH="1829"
                     HEIGHT="97">
-            <Shape><Polygon POINTS="2131 803 2104 803 2076 803 2049 800 2021 800 1994 800 1966 797 1939 797 1911 794 1884 794 1856 794 1829 792 1801 792 1774 792 1746 789 1719 789 1691 789 1683 789 1677 786 1664 786 1636 786 1609 786 1581 783 1554 783 1526 781 1499 781 1471 781 1455 778 1292 789 1215 772 1213 772 1114 789 1097 775 1086 775 1059 778 1031 778 1004 778 976 781 949 781 921 781 894 783 866 783 838 783 811 786 783 786 756 789 728 789 701 789 673 792 646 792 618 792 591 794 563 794 536 794 508 797 481 797 453 800 426 800 398 800 371 803 343 803 316 803 319 858 319 869 2142 863 2145 849 2140 803 2131 803"/></Shape>
+            <Shape><Polygon POINTS="2104 803 2076 803 2049 800 2021 800 1994 800 1966 797 1939 797 1911 794 1884 794 1856 794 1829 792 1801 792 1774 792 1746 789 1719 789 1691 789 1683 789 1677 786 1664 786 1636 786 1609 786 1581 783 1554 783 1526 781 1499 781 1471 781 1455 778 1292 789 1215 772 1213 772 1114 789 1097 775 1086 775 1059 778 1031 778 1004 778 976 781 949 781 921 781 894 783 866 783 838 783 811 786 783 786 756 789 728 789 701 789 673 792 646 792 618 792 591 794 563 794 536 794 508 797 481 797 453 800 426 800 398 800 371 803 343 803 316 803 319 858 319 869 2142 863 2145 849 2140 803 2131 803"/></Shape>
 	    <String CONTENT="Philippe Topineau était assis seul dans le carré obscur."
                     HPOS="316"
                     VPOS="772"
@@ -69,7 +69,7 @@
           
           
           <TextLine ID="eSc_line_2fcd31fc"
-                    
+                    TAGREFS="LT705"
                     BASELINE="319 954 2145 948" 
                     HPOS="316"
                     VPOS="866"
@@ -86,7 +86,7 @@
           
           
           <TextLine ID="eSc_line_46dfb31d"
-                    
+                    TAGREFS="LT705"
                     BASELINE="319 1058 2140 1053" 
                     HPOS="316"
                     VPOS="968"
@@ -103,7 +103,7 @@
           
           
           <TextLine ID="eSc_line_52f728eb"
-                    
+                    TAGREFS="LT705"
                     BASELINE="321 1157 2140 1152" 
                     HPOS="319"
                     VPOS="1072"
@@ -120,7 +120,7 @@
           
           
           <TextLine ID="eSc_line_dda4c5a7"
-                    
+                    TAGREFS="LT705"
                     BASELINE="319 1259 2137 1259" 
                     HPOS="319"
                     VPOS="1188"
@@ -137,13 +137,13 @@
           
           
           <TextLine ID="eSc_line_35aa5de1"
-                    
+                    TAGREFS="LT705"
                     BASELINE="321 1358 2137 1353" 
                     HPOS="319"
                     VPOS="1273"
                     WIDTH="1818"
                     HEIGHT="102">
-            <Shape><Polygon POINTS="321 1358 321 1375 2134 1369 2137 1353 2131 1281 319 1273 321 1358"/></Shape>
+            <Shape><Polygon POINTS="321 1375 2134 1369 2137 1353 2131 1281 319 1273 321 1358"/></Shape>
 	    <String CONTENT="il serrait un cornet confectionné avec des feuilles"
                     HPOS="319"
                     VPOS="1273"
@@ -154,7 +154,7 @@
           
           
           <TextLine ID="eSc_line_2712914e"
-                    
+                    TAGREFS="LT705"
                     BASELINE="321 1452 2137 1457" 
                     HPOS="319"
                     VPOS="1364"
@@ -171,7 +171,7 @@
           
           
           <TextLine ID="eSc_line_23cab7ba"
-                    
+                    TAGREFS="LT705"
                     BASELINE="321 1556 1512 1556" 
                     HPOS="321"
                     VPOS="1468"
@@ -188,7 +188,7 @@
           
           
           <TextLine ID="eSc_line_9b00a97c"
-                    
+                    TAGREFS="LT705"
                     BASELINE="409 1658 2129 1650" 
                     HPOS="407"
                     VPOS="1567"
@@ -205,7 +205,7 @@
           
           
           <TextLine ID="eSc_line_254b5b8c"
-                    
+                    TAGREFS="LT705"
                     BASELINE="324 1751 2126 1751" 
                     HPOS="324"
                     VPOS="1683"
@@ -222,7 +222,7 @@
           
           
           <TextLine ID="eSc_line_9d66bf12"
-                    
+                    TAGREFS="LT705"
                     BASELINE="321 1853 2137 1853" 
                     HPOS="321"
                     VPOS="1779"
@@ -239,7 +239,7 @@
           
           
           <TextLine ID="eSc_line_ff0c0076"
-                    
+                    TAGREFS="LT705"
                     BASELINE="319 1952 2134 1952" 
                     HPOS="319"
                     VPOS="1867"
@@ -256,7 +256,7 @@
           
           
           <TextLine ID="eSc_line_817c428a"
-                    
+                    TAGREFS="LT705"
                     BASELINE="319 2054 2126 2048" 
                     HPOS="316"
                     VPOS="1966"
@@ -273,7 +273,7 @@
           
           
           <TextLine ID="eSc_line_0eb2f550"
-                    
+                    TAGREFS="LT705"
                     BASELINE="321 2153 2140 2147" 
                     HPOS="319"
                     VPOS="2068"
@@ -290,7 +290,7 @@
           
           
           <TextLine ID="eSc_line_4dc3abbc"
-                    
+                    TAGREFS="LT705"
                     BASELINE="321 2252 2137 2246" 
                     HPOS="319"
                     VPOS="2178"
@@ -307,7 +307,7 @@
           
           
           <TextLine ID="eSc_line_b0435083"
-                    
+                    TAGREFS="LT705"
                     BASELINE="321 2354 2134 2348" 
                     HPOS="319"
                     VPOS="2260"
@@ -324,7 +324,7 @@
           
           
           <TextLine ID="eSc_line_409547ab"
-                    
+                    TAGREFS="LT705"
                     BASELINE="321 2453 2140 2453" 
                     HPOS="321"
                     VPOS="2367"
@@ -341,7 +341,7 @@
           
           
           <TextLine ID="eSc_line_1bc76915"
-                    
+                    TAGREFS="LT705"
                     BASELINE="316 2552 2134 2552" 
                     HPOS="316"
                     VPOS="2466"
@@ -358,7 +358,7 @@
           
           
           <TextLine ID="eSc_line_bc3bf358"
-                    
+                    TAGREFS="LT705"
                     BASELINE="321 2651 2134 2651" 
                     HPOS="321"
                     VPOS="2568"
@@ -375,7 +375,7 @@
           
           
           <TextLine ID="eSc_line_4849b93f"
-                    
+                    TAGREFS="LT705"
                     BASELINE="316 2752 2126 2744" 
                     HPOS="313"
                     VPOS="2664"
@@ -392,7 +392,7 @@
           
           
           <TextLine ID="eSc_line_828bbcfa"
-                    
+                    TAGREFS="LT705"
                     BASELINE="319 2851 2131 2851" 
                     HPOS="319"
                     VPOS="2766"
@@ -409,7 +409,7 @@
           
           
           <TextLine ID="eSc_line_967add49"
-                    
+                    TAGREFS="LT705"
                     BASELINE="316 2948 2129 2948" 
                     HPOS="306"
                     VPOS="2871"
