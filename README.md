@@ -3,16 +3,17 @@
 
  # Documents du dossier data 
 
-Manchette et Bastid
+Manchette et Bastid : 
 
 Laissez Bronzer les cadavres
 
- Jean-Patrick Manchette :
-L'Affaire N Gustro
+ Jean-Patrick Manchette :\
 
-Jean-Pierre Bastid :
+L'Affaire N Gustro\
 
-La Tendresse du Loup
+Jean-Pierre Bastid :\
 
+La Tendresse du Loup\
 
+\
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) 
