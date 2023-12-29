@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Mechoui-massacre_--_Jean-Pierre_Bastid_--_1974_--_Gallimard_--_9782070434282__9Fkjqsz.pdf_page_8.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1752" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1751" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT696" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT697" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        
+        <TextBlock HPOS="277"
+                   VPOS="317"
+                   WIDTH="1985"
+                   HEIGHT="2580"
+                   ID="eSc_textblock_b7e8eb65"
+                   TAGREFS="BT1751">
+          <Shape><Polygon POINTS="277 317 279 2897 2245 2880 2262 322"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6d4829ef"
+                    TAGREFS="LT696"
+                    BASELINE="404 382 2233 376" 
+                    HPOS="401"
+                    VPOS="330"
+                    WIDTH="1832"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="2189 341 2162 341 2134 341 2107 338 2079 338 2052 338 2024 338 1997 338 1969 335 1942 335 1914 335 1887 335 1859 335 1832 332 1804 332 1777 332 1749 332 1722 330 1694 330 1666 330 1639 330 1611 330 594 330 566 330 539 330 511 330 484 330 456 330 429 330 401 330 404 382 404 396 2230 390 2233 376 2225 349 2217 341"/></Shape>
+	    <String CONTENT="Dès qu’on a passé le petit pont au dos d’âne gazonné, le chemin monte"
+                    HPOS="401"
+                    VPOS="330"
+                    WIDTH="1832"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c452675"
+                    TAGREFS="LT696"
+                    BASELINE="308 459 1056 451" 
+                    HPOS="308"
+                    VPOS="401"
+                    WIDTH="748"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="308 459 308 478 1053 464 1056 451 1048 401 327 404 308 459"/></Shape>
+	    <String CONTENT="jusqu&#39;au domaine de Mistigri."
+                    HPOS="308"
+                    VPOS="401"
+                    WIDTH="748"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef4d2f06"
+                    TAGREFS="LT696"
+                    BASELINE="404 558 2233 558" 
+                    HPOS="404"
+                    VPOS="500"
+                    WIDTH="1829"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="2219 506 2192 506 2164 506 2137 506 2109 506 2082 506 2054 506 2027 506 1999 506 1991 503 404 500 404 558 404 572 2233 572 2233 558 2230 552 2219 506"/></Shape>
+	    <String CONTENT="La pleine lune éclaire le feutre cabossé rabattu sur les yeux du vieux."
+                    HPOS="404"
+                    VPOS="500"
+                    WIDTH="1829"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cbc2adb0"
+                    TAGREFS="LT696"
+                    BASELINE="313 627 2233 632" 
+                    HPOS="310"
+                    VPOS="572"
+                    WIDTH="1923"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="313 627 310 638 2228 643 2233 632 2230 583 313 572 313 627"/></Shape>
+	    <String CONTENT="Escorté de son chien fou, il vient d’abandonner le chemin et grimpe par le"
+                    HPOS="310"
+                    VPOS="572"
+                    WIDTH="1923"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_deb32f01"
+                    TAGREFS="LT696"
+                    BASELINE="313 709 2239 701" 
+                    HPOS="310"
+                    VPOS="638"
+                    WIDTH="1929"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="313 709 313 728 2239 709 2239 701 2233 651 1595 638 1592 638 1589 638 1587 638 1570 651 1567 651 1537 651 954 640 951 640 877 654 869 657 310 657 313 709"/></Shape>
+	    <String CONTENT="flanc de la pente lorsquil entend l’avion. Il tient à la main un fusil à deux"
+                    HPOS="310"
+                    VPOS="638"
+                    WIDTH="1929"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bdc5e555"
+                    TAGREFS="LT696"
+                    BASELINE="310 783 2233 783" 
+                    HPOS="310"
+                    VPOS="731"
+                    WIDTH="1923"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="310 783 310 797 2233 797 2233 783 2233 731 310 731 310 783"/></Shape>
+	    <String CONTENT=" canons. Avec ses bras en balancier et sa houppelande qui flotte autour de lui,"
+                    HPOS="310"
+                    VPOS="731"
+                    WIDTH="1923"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ba0d9245"
+                    TAGREFS="LT696"
+                    BASELINE="310 858 2233 852" 
+                    HPOS="308"
+                    VPOS="794"
+                    WIDTH="1925"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="310 858 310 869 2230 863 2233 852 2228 805 426 794 423 794 308 808 310 858"/></Shape>
+	    <String CONTENT="sa silhouette évoque un oiseau nocturne géant. Il s’arrête sous un chène"
+                    HPOS="308"
+                    VPOS="794"
+                    WIDTH="1925"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fa9f86e4"
+                    TAGREFS="LT696"
+                    BASELINE="310 932 2233 932" 
+                    HPOS="310"
+                    VPOS="882"
+                    WIDTH="1923"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="2217 882 310 882 310 932 310 946 2233 946 2233 932 2230 915 2217 882"/></Shape>
+	    <String CONTENT="dévoré par la mousse, prête l’oreillç, tâchant d’entendre à travers les rumeurs"
+                    HPOS="310"
+                    VPOS="882"
+                    WIDTH="1923"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae72cf1c"
+                    TAGREFS="LT696"
+                    BASELINE="310 1006 522 1006" 
+                    HPOS="310"
+                    VPOS="940"
+                    WIDTH="212"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="310 1006 310 1020 522 1020 522 1006 522 959 338 940 335 940 332 940 330 940 310 951 310 1006"/></Shape>
+	    <String CONTENT=" du bois."
+                    HPOS="310"
+                    VPOS="940"
+                    WIDTH="212"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d4e4fb6"
+                    TAGREFS="LT696"
+                    BASELINE="407 1108 2233 1102" 
+                    HPOS="404"
+                    VPOS="1042"
+                    WIDTH="1829"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="2219 1056 2192 1056 2164 1056 2137 1056 2109 1053 2098 1053 2082 1053 2054 1053 2027 1053 1999 1053 1986 1050 1983 1053 1972 1050 1944 1050 1917 1050 1895 1050 1889 1053 1884 1050 1862 1050 1834 1047 1821 1047 1793 1053 1785 1053 1771 1053 1691 1045 1669 1045 1642 1045 1614 1045 1587 1042 1559 1042 1334 1050 1180 1056 404 1047 407 1108 407 1119 2230 1113 2233 1102 2230 1056 2219 1056"/></Shape>
+	    <String CONTENT="Un gros volatile, chouette ou grand-duc, s’envole, se réfugie plus loin."
+                    HPOS="404"
+                    VPOS="1042"
+                    WIDTH="1829"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cca68ca2"
+                    TAGREFS="LT696"
+                    BASELINE="308 1182 2236 1177" 
+                    HPOS="305"
+                    VPOS="1119"
+                    WIDTH="1931"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="308 1182 308 1196 2233 1190 2236 1177 2230 1130 332 1119 330 1119 327 1119 324 1119 305 1127 308 1182"/></Shape>
+	    <String CONTENT="Au-dessus de lui, Mistigri devine les bâtiments, un contrefort, la rondeur"
+                    HPOS="305"
+                    VPOS="1119"
+                    WIDTH="1931"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e38f0f9"
+                    TAGREFS="LT696"
+                    BASELINE="310 1256 1039 1256" 
+                    HPOS="310"
+                    VPOS="1207"
+                    WIDTH="729"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="310 1256 310 1270 1039 1270 1039 1256 1039 1207 310 1207 310 1256"/></Shape>
+	    <String CONTENT=" d’une tour. Il reprend souffle."
+                    HPOS="310"
+                    VPOS="1207"
+                    WIDTH="729"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_248a596e"
+                    TAGREFS="LT696"
+                    BASELINE="404 1358 2236 1358" 
+                    HPOS="404"
+                    VPOS="1300"
+                    WIDTH="1832"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="2219 1309 2192 1309 2164 1306 2137 1306 2131 1303 404 1300 404 1358 404 1369 2233 1369 2236 1358 2233 1309 2219 1309"/></Shape>
+	    <String CONTENT=" Le bruit de l’avion se fait plus précis. Le vieux peut voir les feux de"
+                    HPOS="404"
+                    VPOS="1300"
+                    WIDTH="1832"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4d901ea2"
+                    TAGREFS="LT696"
+                    BASELINE="310 1427 2236 1432" 
+                    HPOS="308"
+                    VPOS="1372"
+                    WIDTH="1928"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="310 1427 308 1438 2230 1441 2236 1432 2233 1380 310 1372 310 1427"/></Shape>
+	    <String CONTENT="l&#39;appareil glisser au-dessus de la dentelure noire du Cézallier. Il continue de"
+                    HPOS="308"
+                    VPOS="1372"
+                    WIDTH="1928"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ca09d471"
+                    TAGREFS="LT696"
+                    BASELINE="313 1507 2236 1507" 
+                    HPOS="313"
+                    VPOS="1457"
+                    WIDTH="1923"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="313 1507 313 1526 2236 1518 2236 1507 2236 1457 313 1457 313 1507"/></Shape>
+	    <String CONTENT="grimper, ses souliers butant dans la rocaille. Quand il s’arrête, il se trouve"
+                    HPOS="313"
+                    VPOS="1457"
+                    WIDTH="1923"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8f50e0c4"
+                    TAGREFS="LT696"
+                    BASELINE="313 1581 2236 1575" 
+                    HPOS="310"
+                    VPOS="1526"
+                    WIDTH="1926"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="313 1581 313 1595 2233 1589 2236 1575 2228 1526 310 1531 313 1581"/></Shape>
+	    <String CONTENT="sur un ressaut de basalte où foisonnent les genêts, presque de plain-pied"
+                    HPOS="310"
+                    VPOS="1526"
+                    WIDTH="1926"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a2bf642c"
+                    TAGREFS="LT696"
+                    BASELINE="310 1652 781 1658" 
+                    HPOS="308"
+                    VPOS="1603"
+                    WIDTH="473"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="310 1652 308 1663 775 1669 781 1658 778 1608 310 1603 310 1652"/></Shape>
+	    <String CONTENT="avec son domaine."
+                    HPOS="308"
+                    VPOS="1603"
+                    WIDTH="473"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cdacf01f"
+                    TAGREFS="LT696"
+                    BASELINE="404 1757 2233 1751" 
+                    HPOS="401"
+                    VPOS="1702"
+                    WIDTH="1832"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="404 1757 404 1771 2230 1765 2233 1751 2228 1702 401 1702 404 1757"/></Shape>
+	    <String CONTENT="La cour de la bastide est éclairée par un feu d’enfer. Ce sont ses meubles"
+                    HPOS="401"
+                    VPOS="1702"
+                    WIDTH="1832"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a570270b"
+                    TAGREFS="LT696"
+                    BASELINE="308 1831 2233 1831" 
+                    HPOS="308"
+                    VPOS="1782"
+                    WIDTH="1925"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="308 1831 308 1845 2233 1845 2233 1831 2233 1782 308 1782 308 1831"/></Shape>
+	    <String CONTENT=" qui achèvent de brûler. Des silhouettes s’agitent, poussent des choses dans le"
+                    HPOS="308"
+                    VPOS="1782"
+                    WIDTH="1925"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46f485e2"
+                    TAGREFS="LT696"
+                    BASELINE="313 1903 2230 1908" 
+                    HPOS="310"
+                    VPOS="1845"
+                    WIDTH="1920"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="313 1903 310 1914 2225 1919 2230 1908 2228 1848 313 1845 313 1903"/></Shape>
+	    <String CONTENT="brasier qui les absorbe en ronflant; lorsqu&#39;elles passent près du feu, Mistigri"
+                    HPOS="310"
+                    VPOS="1845"
+                    WIDTH="1920"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3547a1bc"
+                    TAGREFS="LT696"
+                    BASELINE="313 1985 2236 1980" 
+                    HPOS="310"
+                    VPOS="1916"
+                    WIDTH="1926"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="313 1985 313 2004 2233 1991 2236 1980 2230 1930 1295 1916 1292 1916 1056 1930 412 1919 409 1919 310 1933 313 1985"/></Shape>
+	    <String CONTENT="peut reconnaître des visages. Voici la Mariette, sa plus jeure fille. Nue au"
+                    HPOS="310"
+                    VPOS="1916"
+                    WIDTH="1926"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3dfbba1e"
+                    TAGREFS="LT696"
+                    BASELINE="310 2057 2233 2057" 
+                    HPOS="310"
+                    VPOS="1993"
+                    WIDTH="1923"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="2217 2007 2060 1993 2057 1993 1633 2007 1342 1993 1339 1993 1221 2007 1097 1993 1094 1993 1092 1993 1050 2007 982 1993 979 1993 905 2007 621 1993 618 1993 616 1993 588 2007 519 1993 517 1993 514 1993 475 2007 363 1993 360 1993 357 1993 310 2007 310 2057 310 2070 2233 2070 2233 2057 2230 2035 2217 2007"/></Shape>
+	    <String CONTENT="milieu des Bougnoules, elle danse en brandissant un grand coutelas qui"
+                    HPOS="310"
+                    VPOS="1993"
+                    WIDTH="1923"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4cc6691e"
+                    TAGREFS="LT696"
+                    BASELINE="310 2134 742 2128" 
+                    HPOS="308"
+                    VPOS="2068"
+                    WIDTH="434"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="310 2134 310 2145 742 2145 742 2128 737 2081 330 2068 327 2068 324 2068 321 2068 308 2079 310 2134"/></Shape>
+	    <String CONTENT="dégoutte de sang."
+                    HPOS="308"
+                    VPOS="2068"
+                    WIDTH="434"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f9729db6"
+                    TAGREFS="LT696"
+                    BASELINE="404 2233 2236 2233" 
+                    HPOS="404"
+                    VPOS="2175"
+                    WIDTH="1832"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="404 2233 404 2244 2233 2244 2236 2233 2233 2178 404 2175 404 2233"/></Shape>
+	    <String CONTENT=" Le vieux fait quelques pas. Il titube. Son fusil levé contre le ciel, il"
+                    HPOS="404"
+                    VPOS="2175"
+                    WIDTH="1832"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_89c30c75"
+                    TAGREFS="LT696"
+                    BASELINE="310 2310 2233 2304" 
+                    HPOS="308"
+                    VPOS="2244"
+                    WIDTH="1925"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="310 2310 310 2323 2230 2315 2233 2304 2228 2249 412 2244 409 2244 308 2257 310 2310"/></Shape>
+	    <String CONTENT="gesticule en hurlant des imprécations. De voir ainsi sa femme, ses filles, il"
+                    HPOS="308"
+                    VPOS="2244"
+                    WIDTH="1925"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9190f6f8"
+                    TAGREFS="LT696"
+                    BASELINE="310 2384 2233 2384" 
+                    HPOS="310"
+                    VPOS="2332"
+                    WIDTH="1923"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="310 2384 310 2392 2230 2395 2233 2384 2233 2332 310 2332 310 2384"/></Shape>
+	    <String CONTENT="enrage. Il lui faut se précipiter chez lui, rétablir l’ordre. Il dévale la pente,"
+                    HPOS="310"
+                    VPOS="2332"
+                    WIDTH="1923"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0627f209"
+                    TAGREFS="LT696"
+                    BASELINE="313 2453 2233 2458" 
+                    HPOS="310"
+                    VPOS="2389"
+                    WIDTH="1923"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="313 2453 310 2461 2228 2466 2233 2458 2233 2409 2203 2392 2200 2392 2197 2392 2195 2392 2159 2406 1460 2392 1457 2392 1391 2406 1386 2406 1364 2392 1361 2392 1358 2392 1356 2392 1276 2403 1127 2389 1125 2389 1122 2389 1089 2403 1056 2389 1053 2389 1050 2389 1048 2389 1020 2403 756 2389 753 2389 750 2389 712 2403 709 2406 558 2406 552 2403 528 2389 525 2389 522 2389 519 2389 517 2389 497 2403 489 2403 418 2389 415 2389 313 2400 313 2453"/></Shape>
+	    <String CONTENT="tombe dans un lieu vague de broussailles. Il lui parvient des odeurs de"
+                    HPOS="310"
+                    VPOS="2389"
+                    WIDTH="1923"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5c73f79"
+                    TAGREFS="LT696"
+                    BASELINE="310 2532 2225 2532" 
+                    HPOS="310"
+                    VPOS="2483"
+                    WIDTH="1915"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="310 2532 310 2546 2225 2546 2225 2532 2225 2483 310 2483 310 2532"/></Shape>
+	    <String CONTENT=" menthe sauvage. Il remonte, arrive à la poterne qui ouvre la cour de la ferme."
+                    HPOS="310"
+                    VPOS="2483"
+                    WIDTH="1915"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ca3a71af"
+                    TAGREFS="LT696"
+                    BASELINE="404 2631 2230 2626" 
+                    HPOS="401"
+                    VPOS="2576"
+                    WIDTH="1829"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="404 2631 404 2645 2228 2640 2230 2626 2225 2579 401 2576 404 2631"/></Shape>
+	    <String CONTENT="Les étables sont ouvertes. Les vaches essaient de fuir dans l’obscurité."
+                    HPOS="401"
+                    VPOS="2576"
+                    WIDTH="1829"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd8d6bd7"
+                    TAGREFS="LT696"
+                    BASELINE="310 2708 2236 2700" 
+                    HPOS="308"
+                    VPOS="2640"
+                    WIDTH="1928"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="310 2708 310 2717 2236 2708 2236 2700 2233 2656 2195 2640 2192 2640 2189 2640 2186 2640 2184 2640 2162 2656 1763 2656 1744 2656 1744 2653 1727 2640 1724 2640 1722 2640 1719 2640 1716 2640 1688 2653 1499 2642 1496 2642 1493 2642 1490 2642 1471 2653 1468 2656 1452 2653 1380 2642 1378 2642 1375 2642 1353 2653 1347 2656 1336 2653 1284 2642 1281 2642 1210 2653 1188 2656 1155 2653 1045 2642 1042 2642 938 2653 877 2659 308 2653 310 2708"/></Shape>
+	    <String CONTENT="Hommes et femmres, gourdin en main, les obligent à tourner autour de"
+                    HPOS="308"
+                    VPOS="2640"
+                    WIDTH="1928"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b2974725"
+                    TAGREFS="LT696"
+                    BASELINE="310 2783 2233 2777" 
+                    HPOS="308"
+                    VPOS="2728"
+                    WIDTH="1925"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="310 2783 310 2807 2230 2791 2233 2777 2228 2730 308 2728 310 2783"/></Shape>
+	    <String CONTENT="l’incendie en un carrousel fantastique. Au-dessus, l’avion qui a changé de"
+                    HPOS="308"
+                    VPOS="2728"
+                    WIDTH="1925"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6378936b"
+                    TAGREFS="LT696"
+                    BASELINE="310 2857 1870 2857" 
+                    HPOS="310"
+                    VPOS="2807"
+                    WIDTH="1560"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1856 2807 310 2807 310 2857 310 2873 1870 2873 1870 2857 1867 2851 1856 2807"/></Shape>
+	    <String CONTENT=" route décrit des cercles, serrant au plus près la colonne de feu."
+                    HPOS="310"
+                    VPOS="2807"
+                    WIDTH="1560"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

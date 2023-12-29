@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Mechoui-massacre_--_Jean-Pierre_Bastid_--_1974_--_Gallimard_--_9782070434282__9Fkjqsz.pdf_page_10.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1752" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1751" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT696" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT697" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="7"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        
+        <TextBlock HPOS="271"
+                   VPOS="278"
+                   WIDTH="1990"
+                   HEIGHT="2725"
+                   ID="eSc_textblock_51701ce7"
+                   TAGREFS="BT1751">
+          <Shape><Polygon POINTS="271 284 271 2996 2261 3003 2261 278"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_57c95c08"
+                    TAGREFS="LT696"
+                    BASELINE="407 352 2233 357" 
+                    HPOS="401"
+                    VPOS="299"
+                    WIDTH="1829"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="404 352 401 363 2225 365 2230 354 2228 308 404 299 404 352"/></Shape>
+	    <String CONTENT="Derrière lui, les sonnailles et les mgissements de ses vaches, remontées"
+                    HPOS="401"
+                    VPOS="299"
+                    WIDTH="1829"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1292c247"
+                    TAGREFS="LT696"
+                    BASELINE="310 434 2219 426" 
+                    HPOS="310"
+                    VPOS="365"
+                    WIDTH="1909"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="310 420 310 434 310 456 2217 437 2219 426 2214 379 1581 365 1578 365 1576 365 1521 379 1518 379 1501 379 1174 368 1171 368 327 382 310 420"/></Shape>
+	    <String CONTENT="par une coursière, qui le narguent; en face de lui, les toits des Martres -"
+                    HPOS="310"
+                    VPOS="365"
+                    WIDTH="1909"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dcbc7adc"
+                    TAGREFS="LT696"
+                    BASELINE="310 506 665 500" 
+                    HPOS="308"
+                    VPOS="437"
+                    WIDTH="357"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="310 506 310 519 665 514 665 500 660 453 492 437 489 437 486 437 484 437 484 440 481 440 470 453 321 440 319 440 316 440 313 440 313 442 310 442 308 445 310 506"/></Shape>
+	    <String CONTENT="Sainte-Marie."
+                    HPOS="308"
+                    VPOS="437"
+                    WIDTH="357"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_48ae099b"
+                    TAGREFS="LT696"
+                    BASELINE="404 605 2236 605" 
+                    HPOS="404"
+                    VPOS="552"
+                    WIDTH="1832"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="2219 561 2192 561 2164 561 2137 561 2109 558 2082 558 2054 558 2027 558 1999 558 1972 555 1944 555 1917 555 1889 555 1884 552 404 552 404 605 404 621 2233 621 2236 605 2233 561 2219 561"/></Shape>
+	    <String CONTENT=" Le soleil n’est pas encore bien haut dans le ciel. Il frappe en oblique les"
+                    HPOS="404"
+                    VPOS="552"
+                    WIDTH="1832"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3bb4ec2a"
+                    TAGREFS="LT696"
+                    BASELINE="308 676 2233 682" 
+                    HPOS="305"
+                    VPOS="629"
+                    WIDTH="1928"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="308 676 305 687 2228 693 2233 682 2230 635 308 629 308 676"/></Shape>
+	    <String CONTENT="dalles de lause qui recouvrent les maisons. Les monstrueuses carapaces"
+                    HPOS="305"
+                    VPOS="629"
+                    WIDTH="1928"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6bb39252"
+                    TAGREFS="LT696"
+                    BASELINE="313 759 2233 750" 
+                    HPOS="310"
+                    VPOS="690"
+                    WIDTH="1923"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="313 778 2230 761 2233 750 2230 706 2197 690 2195 690 2192 690 2189 690 2142 704 1961 690 1958 690 1881 704 1848 690 1845 690 1843 690 1708 704 1650 690 1647 690 1644 690 1565 706 1059 693 1056 693 946 709 855 695 852 695 698 709 682 695 679 695 676 695 495 695 492 695 489 695 486 695 470 709 363 695 360 695 357 695 310 712 313 759"/></Shape>
+	    <String CONTENT="grises brillent, tassées en désordre dans une petite combe. Les bords"
+                    HPOS="310"
+                    VPOS="690"
+                    WIDTH="1923"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf6701b0"
+                    TAGREFS="LT696"
+                    BASELINE="310 827 2233 833" 
+                    HPOS="308"
+                    VPOS="775"
+                    WIDTH="1925"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="310 827 308 836 2228 841 2233 833 2230 781 310 775 310 827"/></Shape>
+	    <String CONTENT="ébréchés du haut-plateau protègent le village contre les vents du nord. Les"
+                    HPOS="308"
+                    VPOS="775"
+                    WIDTH="1925"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e265ef93"
+                    TAGREFS="LT696"
+                    BASELINE="313 904 1958 902" 
+                    HPOS="310"
+                    VPOS="855"
+                    WIDTH="1648"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="313 904 313 921 1955 918 1958 902 1950 855 310 855 313 904"/></Shape>
+	    <String CONTENT="sources y ruissellent, les martres, qui ont donné le nom à l’endroit."
+                    HPOS="310"
+                    VPOS="855"
+                    WIDTH="1648"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f1de387"
+                    TAGREFS="LT696"
+                    BASELINE="404 1006 2233 1001" 
+                    HPOS="401"
+                    VPOS="951"
+                    WIDTH="1832"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="404 1006 404 1020 2230 1014 2233 1001 2228 954 401 951 404 1006"/></Shape>
+	    <String CONTENT="Devant l’église s’étend une place gazonnée, le coudert, borné à l’est par"
+                    HPOS="401"
+                    VPOS="951"
+                    WIDTH="1832"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d64f1a88"
+                    TAGREFS="LT696"
+                    BASELINE="313 1080 2236 1080" 
+                    HPOS="313"
+                    VPOS="1034"
+                    WIDTH="1923"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="313 1080 313 1094 2236 1094 2236 1080 2236 1034 313 1034 313 1080"/></Shape>
+	    <String CONTENT="un parapet qui domine une vallée enfoncée et descend jusqu’au débit de"
+                    HPOS="313"
+                    VPOS="1034"
+                    WIDTH="1923"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_23a4ba60"
+                    TAGREFS="LT696"
+                    BASELINE="310 1152 2233 1160" 
+                    HPOS="308"
+                    VPOS="1094"
+                    WIDTH="1925"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="310 1111 310 1152 308 1160 2228 1168 2233 1160 2230 1111 324 1094 310 1111"/></Shape>
+	    <String CONTENT="boissons. C’est une demeure carrée, en pierre de lave, semblable aux autres."
+                    HPOS="308"
+                    VPOS="1094"
+                    WIDTH="1925"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_90786155"
+                    TAGREFS="LT696"
+                    BASELINE="313 1232 2233 1226" 
+                    HPOS="310"
+                    VPOS="1174"
+                    WIDTH="1923"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="313 1232 313 1245 2230 1240 2233 1226 2228 1179 310 1174 313 1232"/></Shape>
+	    <String CONTENT="Un petit panonceau de tôle informe le passant que l’établissement, Licence"
+                    HPOS="310"
+                    VPOS="1174"
+                    WIDTH="1923"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2746c858"
+                    TAGREFS="LT696"
+                    BASELINE="310 1309 2233 1303" 
+                    HPOS="308"
+                    VPOS="1240"
+                    WIDTH="1925"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="310 1309 310 1320 2230 1314 2233 1303 2228 1256 2101 1240 2098 1240 2096 1240 2057 1254 1986 1240 1983 1240 1859 1254 1856 1254 1854 1254 1771 1240 1768 1240 1766 1240 1708 1254 1705 1254 1702 1254 1617 1240 1614 1240 1507 1254 1501 1254 1499 1254 1441 1240 1438 1240 1435 1240 1433 1240 1391 1254 1389 1254 308 1254 310 1309"/></Shape>
+	    <String CONTENT="IV, a le droit de vendre des boissons alcoolisées. Une vieille plaque"
+                    HPOS="308"
+                    VPOS="1240"
+                    WIDTH="1925"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ddf5163"
+                    TAGREFS="LT696"
+                    BASELINE="310 1386 2233 1377" 
+                    HPOS="308"
+                    VPOS="1311"
+                    WIDTH="1925"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="310 1386 310 1405 2230 1388 2233 1377 2228 1328 1785 1328 1711 1311 1708 1311 1705 1311 1677 1325 1647 1311 1644 1311 1642 1311 1639 1311 1576 1328 1092 1314 1089 1314 1086 1314 1059 1328 973 1314 971 1314 968 1314 965 1314 943 1331 918 1317 916 1317 913 1317 827 1331 805 1317 803 1317 800 1317 374 1317 371 1317 368 1317 308 1333 310 1386"/></Shape>
+	    <String CONTENT="publicitaire Touillée, Y&#39;a Bon Banania, indique que la buvette est aussi une"
+                    HPOS="308"
+                    VPOS="1311"
+                    WIDTH="1925"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12b032c4"
+                    TAGREFS="LT696"
+                    BASELINE="310 1460 2236 1454" 
+                    HPOS="308"
+                    VPOS="1391"
+                    WIDTH="1928"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="310 1460 310 1471 2233 1465 2236 1454 2230 1408 1972 1391 1969 1391 1966 1391 1911 1405 1859 1391 1856 1391 1854 1391 1851 1391 1821 1405 1801 1391 1799 1391 1796 1391 1793 1391 1790 1391 1746 1405 1672 1391 1669 1391 1554 1405 1515 1391 1512 1391 1510 1391 1507 1391 1457 1405 1323 1391 1320 1391 1317 1391 1265 1408 572 1394 569 1394 566 1394 528 1408 497 1394 495 1394 324 1394 321 1394 319 1394 316 1394 316 1397 313 1397 308 1402 310 1460"/></Shape>
+	    <String CONTENT="épicerie. L&#39;entrée, aveuglée par un rideau de perles à l’ancienne, est"
+                    HPOS="308"
+                    VPOS="1391"
+                    WIDTH="1928"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d83e18a9"
+                    TAGREFS="LT696"
+                    BASELINE="310 1531 1389 1531" 
+                    HPOS="310"
+                    VPOS="1482"
+                    WIDTH="1079"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="310 1531 310 1545 1389 1545 1389 1531 1389 1482 310 1482 310 1531"/></Shape>
+	    <String CONTENT=" ombragée par une vigne taillée en tonnelle."
+                    HPOS="310"
+                    VPOS="1482"
+                    WIDTH="1079"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a37aa30"
+                    TAGREFS="LT696"
+                    BASELINE="404 1628 2236 1633" 
+                    HPOS="401"
+                    VPOS="1573"
+                    WIDTH="1835"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="404 1628 401 1636 2230 1641 2236 1633 2225 1578 404 1573 404 1628"/></Shape>
+	    <String CONTENT="Le tenancier, qui est cantonnier de son état et barbier d’occasion, a sorti à"
+                    HPOS="401"
+                    VPOS="1573"
+                    WIDTH="1835"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_37525d96"
+                    TAGREFS="LT696"
+                    BASELINE="310 1707 2236 1707" 
+                    HPOS="310"
+                    VPOS="1650"
+                    WIDTH="1926"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="310 1707 310 1721 2236 1721 2236 1707 2214 1652 310 1650 310 1707"/></Shape>
+	    <String CONTENT="l’extérieur un vieux fauteuil et un fragment de glace brisée. Il a installé le"
+                    HPOS="310"
+                    VPOS="1650"
+                    WIDTH="1926"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9dda3618"
+                    TAGREFS="LT696"
+                    BASELINE="310 1779 2239 1779" 
+                    HPOS="310"
+                    VPOS="1732"
+                    WIDTH="1929"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="2236 1779 2217 1732 310 1732 310 1779 310 1795 2239 1795 2239 1779 2236 1768 2236 1779"/></Shape>
+	    <String CONTENT="mroir en équilibre sur le parapet et placé le fauteuil devant. Le dimanche est"
+                    HPOS="310"
+                    VPOS="1732"
+                    WIDTH="1929"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c545b35"
+                    TAGREFS="LT696"
+                    BASELINE="310 1856 1895 1856" 
+                    HPOS="310"
+                    VPOS="1801"
+                    WIDTH="1585"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="310 1856 310 1872 1895 1872 1895 1856 1895 1806 310 1801 310 1856"/></Shape>
+	    <String CONTENT=" l’occasion, pendant la messe, pour les paysans de se faire raser."
+                    HPOS="310"
+                    VPOS="1801"
+                    WIDTH="1585"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e5f19eae"
+                    TAGREFS="LT696"
+                    BASELINE="404 1958 2233 1952" 
+                    HPOS="401"
+                    VPOS="1889"
+                    WIDTH="1832"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="404 1958 404 1969 2230 1963 2233 1952 2230 1905 2167 1889 2164 1889 2162 1889 2052 1903 1917 1889 1914 1889 1911 1889 1909 1889 1887 1903 1766 1889 1763 1889 1760 1889 1705 1903 1702 1903 1614 1889 1611 1889 1609 1889 1570 1903 1567 1903 401 1903 404 1958"/></Shape>
+	    <String CONTENT="Pendant que le barbier savonne le menton d’un client, deux vieilles"
+                    HPOS="401"
+                    VPOS="1889"
+                    WIDTH="1832"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8889baa6"
+                    TAGREFS="LT696"
+                    BASELINE="313 2029 2230 2035" 
+                    HPOS="310"
+                    VPOS="1977"
+                    WIDTH="1920"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="313 2029 310 2037 2225 2043 2230 2035 2228 1982 313 1977 313 2029"/></Shape>
+	    <String CONTENT="femmes sortent de l’église, une petite ronde, toute cassée, genre poule grise,"
+                    HPOS="310"
+                    VPOS="1977"
+                    WIDTH="1920"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_474c6b78"
+                    TAGREFS="LT696"
+                    BASELINE="310 2106 2230 2101" 
+                    HPOS="308"
+                    VPOS="2046"
+                    WIDTH="1922"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="310 2106 310 2120 2228 2117 2230 2101 2222 2046 308 2057 310 2106"/></Shape>
+	    <String CONTENT="et une autre, toute grande, toute droite, toute noire : deux bonnes langues qui"
+                    HPOS="308"
+                    VPOS="2046"
+                    WIDTH="1922"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_33400f78"
+                    TAGREFS="LT696"
+                    BASELINE="313 2178 2233 2183" 
+                    HPOS="310"
+                    VPOS="2128"
+                    WIDTH="1923"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="313 2178 310 2189 2228 2191 2233 2183 2230 2134 313 2128 313 2178"/></Shape>
+	    <String CONTENT="s’arrêtent sous le porche — de celles dont on dit que deux femes et une"
+                    HPOS="310"
+                    VPOS="2128"
+                    WIDTH="1923"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49250739"
+                    TAGREFS="LT696"
+                    BASELINE="310 2252 2233 2257" 
+                    HPOS="308"
+                    VPOS="2189"
+                    WIDTH="1925"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="310 2252 308 2260 2228 2266 2233 2257 2233 2211 2189 2191 2186 2191 2035 2191 2032 2191 2030 2191 2027 2191 2008 2208 1889 2191 1887 2191 1801 2208 1799 2208 1733 2191 1730 2191 1727 2191 1724 2191 1683 2208 1680 2208 1548 2191 1545 2191 1543 2191 1485 2208 1482 2208 1477 2208 1424 2191 1422 2191 1419 2191 1416 2191 1369 2208 1364 2208 1358 2208 1270 2189 1268 2189 1265 2189 1229 2205 1174 2189 1171 2189 1169 2189 1166 2189 1133 2205 1094 2189 1092 2189 1089 2189 995 2205 957 2189 954 2189 951 2189 949 2189 946 2189 918 2205 916 2205 797 2189 794 2189 792 2189 728 2205 726 2205 720 2205 594 2189 591 2189 588 2189 552 2205 550 2208 420 2208 418 2205 396 2189 393 2189 390 2189 387 2189 310 2202 310 2252"/></Shape>
+	    <String CONTENT="chèvre poire suffisent à tenir la foire. La chèvre les rejoint bientôt."
+                    HPOS="308"
+                    VPOS="2189"
+                    WIDTH="1925"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_690643b0"
+                    TAGREFS="LT696"
+                    BASELINE="313 2332 2233 2332" 
+                    HPOS="313"
+                    VPOS="2268"
+                    WIDTH="1920"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="313 2332 313 2345 2233 2345 2233 2332 2233 2285 2167 2268 2164 2268 2162 2268 2104 2282 2101 2282 2098 2282 2002 2268 1876 2268 1873 2268 1870 2268 1867 2268 1854 2282 1851 2282 1818 2268 1815 2268 1812 2268 1810 2268 1779 2279 1774 2282 1768 2279 1727 2268 1724 2268 1722 2268 1636 2279 1611 2282 1600 2279 1573 2268 1570 2268 1567 2268 1565 2268 1543 2279 1534 2282 1488 2279 1383 2268 1380 2268 1309 2277 1265 2282 1226 2277 1177 2268 1070 2268 1067 2268 1064 2268 1061 2268 1056 2274 1045 2282 1009 2274 971 2268 968 2268 965 2268 951 2274 932 2282 313 2271 313 2332"/></Shape>
+	    <String CONTENT="Ensemble, pendant que les fidèles continuent à sortir de l’église, elles"
+                    HPOS="313"
+                    VPOS="2268"
+                    WIDTH="1920"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b46248f0"
+                    TAGREFS="LT696"
+                    BASELINE="310 2409 2236 2403" 
+                    HPOS="308"
+                    VPOS="2340"
+                    WIDTH="1928"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="310 2409 310 2420 2233 2414 2236 2403 2230 2354 1386 2340 1383 2340 1246 2354 456 2343 453 2343 308 2356 310 2409"/></Shape>
+	    <String CONTENT="regardent dans la direction de la ferme de Mistigri. Vers l’ouest, dans la"
+                    HPOS="308"
+                    VPOS="2340"
+                    WIDTH="1928"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a5dc49e9"
+                    TAGREFS="LT696"
+                    BASELINE="313 2480 2233 2475" 
+                    HPOS="310"
+                    VPOS="2428"
+                    WIDTH="1923"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="313 2480 313 2497 2230 2491 2233 2475 2225 2428 310 2431 313 2480"/></Shape>
+	    <String CONTENT="montagne, une colonne de fumée épaisse monte très haut dans le ciel encore"
+                    HPOS="310"
+                    VPOS="2428"
+                    WIDTH="1923"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66d182bd"
+                    TAGREFS="LT696"
+                    BASELINE="316 2554 1023 2554" 
+                    HPOS="316"
+                    VPOS="2508"
+                    WIDTH="707"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="316 2554 316 2571 1023 2571 1023 2554 1023 2508 316 2508 316 2554"/></Shape>
+	    <String CONTENT="voilé par la brume matinale."
+                    HPOS="316"
+                    VPOS="2508"
+                    WIDTH="707"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d6be900d"
+                    TAGREFS="LT696"
+                    BASELINE="404 2656 2236 2656" 
+                    HPOS="404"
+                    VPOS="2598"
+                    WIDTH="1832"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="2219 2637 2197 2604 404 2598 404 2656 404 2670 2233 2670 2236 2656 2233 2607 2222 2604 2219 2637"/></Shape>
+	    <String CONTENT="La chèvre est la première à se désintéresser de la chose. Elle comunence"
+                    HPOS="404"
+                    VPOS="2598"
+                    WIDTH="1832"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d8e95544"
+                    TAGREFS="LT696"
+                    BASELINE="308 2733 2239 2733" 
+                    HPOS="308"
+                    VPOS="2678"
+                    WIDTH="1931"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="308 2733 308 2747 2239 2747 2239 2733 2236 2678 308 2678 308 2733"/></Shape>
+	    <String CONTENT="à lorgner, puis flairer le cabas en tapisserie de la grande chabraque. Quand"
+                    HPOS="308"
+                    VPOS="2678"
+                    WIDTH="1931"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_33a3b075"
+                    TAGREFS="LT696"
+                    BASELINE="310 2802 2236 2807" 
+                    HPOS="308"
+                    VPOS="2752"
+                    WIDTH="1928"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="310 2802 308 2810 2230 2816 2236 2807 2233 2758 310 2752 310 2802"/></Shape>
+	    <String CONTENT="elle y fourre le mseau, d’un coup de parapluie, on la chasse: on voit bien"
+                    HPOS="308"
+                    VPOS="2752"
+                    WIDTH="1928"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_819a090e"
+                    TAGREFS="LT696"
+                    BASELINE="310 2882 2239 2882" 
+                    HPOS="310"
+                    VPOS="2832"
+                    WIDTH="1929"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="310 2882 310 2895 2239 2895 2239 2882 2239 2832 310 2832 310 2882"/></Shape>
+	    <String CONTENT="qu’elle n’est pas du pays cette bique-là... A petits pas comptés, les vieilles la"
+                    HPOS="310"
+                    VPOS="2832"
+                    WIDTH="1929"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ec818b5"
+                    TAGREFS="LT696"
+                    BASELINE="313 2956 2236 2956" 
+                    HPOS="313"
+                    VPOS="2906"
+                    WIDTH="1923"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="313 2956 313 2972 2236 2970 2236 2956 2236 2906 313 2906 313 2956"/></Shape>
+	    <String CONTENT="regardent qui se dirige vers un vieux camion à chaînes et à bandages. Le"
+                    HPOS="313"
+                    VPOS="2906"
+                    WIDTH="1923"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

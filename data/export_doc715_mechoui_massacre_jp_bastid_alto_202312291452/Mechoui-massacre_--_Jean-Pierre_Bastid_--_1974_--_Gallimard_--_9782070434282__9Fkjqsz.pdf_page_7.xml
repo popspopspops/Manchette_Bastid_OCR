@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Mechoui-massacre_--_Jean-Pierre_Bastid_--_1974_--_Gallimard_--_9782070434282__9Fkjqsz.pdf_page_7.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1752" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1751" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT696" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT697" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        
+        <TextBlock HPOS="814"
+                   VPOS="495"
+                   WIDTH="921"
+                   HEIGHT="129"
+                   ID="eSc_textblock_09ffa7aa"
+                   TAGREFS="BT1752">
+          <Shape><Polygon POINTS="1713 517 1735 591 1713 624 1198 618 814 613 825 506 1166 495"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_eeeaa884"
+                    TAGREFS="LT697"
+                    BASELINE="833 596 1716 602" 
+                    HPOS="830"
+                    VPOS="511"
+                    WIDTH="886"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="1688 517 833 511 833 596 830 621 1713 621 1716 602 1713 533"/></Shape>
+	    <String CONTENT="PREMIÈRE PARTIE"
+                    HPOS="830"
+                    VPOS="511"
+                    WIDTH="886"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
