@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Parcours_fleche_pp._14-15_optimise.pdf_page_2.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1761" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1762" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1763" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT703" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT704" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1322"
+          HEIGHT="2046"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1322"
+                  HEIGHT="2046">
+        
+        <TextBlock HPOS="115"
+                   VPOS="188"
+                   WIDTH="1050"
+                   HEIGHT="1639"
+                   ID="eSc_textblock_f5e737f6"
+                   TAGREFS="BT1761">
+          <Shape><Polygon POINTS="134 188 115 1827 1165 1827 1165 193"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9c0e8f25"
+                    TAGREFS="LT703"
+                    BASELINE="194 232 791 233" 
+                    HPOS="192"
+                    VPOS="189"
+                    WIDTH="597"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="192 197 192 231 192 238 788 240 789 231 789 199 249 189 247 189"/></Shape>
+	    <String CONTENT="— Nous chassons les hommes."
+                    HPOS="192"
+                    VPOS="189"
+                    WIDTH="597"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce14f32e"
+                    TAGREFS="LT703"
+                    BASELINE="194 281 1161 284" 
+                    HPOS="191"
+                    VPOS="242"
+                    WIDTH="968"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="192 279 191 288 1156 293 1159 283 1156 242 192 242 192 279"/></Shape>
+	    <String CONTENT="— Ben, point besoin d’chasser plus loin, j’suis"
+                    HPOS="191"
+                    VPOS="242"
+                    WIDTH="968"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5bba3c43"
+                    TAGREFS="LT703"
+                    BASELINE="141 334 414 330" 
+                    HPOS="139"
+                    VPOS="288"
+                    WIDTH="275"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="139 306 141 334 141 341 414 337 414 330 411 296 252 288 250 288 151 296 139 306"/></Shape>
+	    <String CONTENT="votre homme."
+                    HPOS="139"
+                    VPOS="288"
+                    WIDTH="275"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0cf5df7a"
+                    TAGREFS="LT703"
+                    BASELINE="184 383 1159 387" 
+                    HPOS="182"
+                    VPOS="339"
+                    WIDTH="977"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="1154 349 1151 346 184 339 184 383 182 392 1156 395 1159 387 1158 349 1154 349"/></Shape>
+	    <String CONTENT="Sanglier Bleu brandit son tomahawk, il n’avait pas"
+                    HPOS="182"
+                    VPOS="339"
+                    WIDTH="977"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fcd0563d"
+                    TAGREFS="LT703"
+                    BASELINE="138 433 1159 436" 
+                    HPOS="136"
+                    VPOS="393"
+                    WIDTH="1023"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="1151 393 138 393 138 433 136 441 1156 445 1159 436 1158 400 1151 393"/></Shape>
+	    <String CONTENT="l’air de rigoler. Mais l’autre Indien sauta par-dessus"
+                    HPOS="136"
+                    VPOS="393"
+                    WIDTH="1023"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_997ee3df"
+                    TAGREFS="LT703"
+                    BASELINE="139 484 1158 487" 
+                    HPOS="138"
+                    VPOS="445"
+                    WIDTH="1020"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="139 484 138 492 1154 501 1158 487 1156 451 139 445 139 484"/></Shape>
+	    <String CONTENT="la barrière du pré et arrêta son bras. Il fit hugh ou un"
+                    HPOS="138"
+                    VPOS="445"
+                    WIDTH="1020"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c2dce7f7"
+                    TAGREFS="LT703"
+                    BASELINE="138 537 1158 540" 
+                    HPOS="136"
+                    VPOS="491"
+                    WIDTH="1022"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="138 537 136 545 1154 549 1158 540 1156 501 138 491 138 537"/></Shape>
+	    <String CONTENT="borborygme du même genre et posa la même question"
+                    HPOS="136"
+                    VPOS="491"
+                    WIDTH="1022"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fede796a"
+                    TAGREFS="LT703"
+                    BASELINE="139 591 446 588" 
+                    HPOS="138"
+                    VPOS="540"
+                    WIDTH="308"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="139 591 139 598 446 596 446 588 443 549 365 540 363 540 138 550 139 591"/></Shape>
+	    <String CONTENT="que le Sanglier."
+                    HPOS="138"
+                    VPOS="540"
+                    WIDTH="308"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_de3651c1"
+                    TAGREFS="LT703"
+                    BASELINE="189 640 544 641" 
+                    HPOS="187"
+                    VPOS="595"
+                    WIDTH="355"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="187 639 187 647 542 647 542 639 540 596 409 605 349 601 257 595 255 595 254 595 252 595 238 605 235 606 187 606 187 639"/></Shape>
+	    <String CONTENT="— Qui êtes-vous ?"
+                    HPOS="187"
+                    VPOS="595"
+                    WIDTH="355"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_476a1b4d"
+                    TAGREFS="LT703"
+                    BASELINE="180 690 1156 693" 
+                    HPOS="179"
+                    VPOS="642"
+                    WIDTH="977"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1153 658 1142 651 941 647 931 647 914 647 897 647 880 647 863 647 846 647 829 647 811 647 794 647 789 647 782 651 779 653 767 651 743 647 743 647 726 647 709 647 706 647 694 651 685 653 663 651 581 642 579 642 180 649 180 690 179 697 1153 700 1156 693 1154 659 1153 658"/></Shape>
+	    <String CONTENT="Gros Pierrot le dévisagea. Un Indien à lunettes!"
+                    HPOS="179"
+                    VPOS="642"
+                    WIDTH="977"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_726687e0"
+                    TAGREFS="LT703"
+                    BASELINE="134 739 801 745" 
+                    HPOS="133"
+                    VPOS="695"
+                    WIDTH="668"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="134 726 134 739 133 748 798 757 801 745 801 709 666 699 665 699 593 705 571 697 569 697 568 697 566 697 549 705 448 697 446 697 358 705 308 695 307 695 168 704 150 695 148 695 146 695 144 695 134 726"/></Shape>
+	    <String CONTENT="Jamais il n’aurait cru imaginer ça."
+                    HPOS="133"
+                    VPOS="695"
+                    WIDTH="668"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9293d2c1"
+                    TAGREFS="LT703"
+                    BASELINE="190 789 1159 794" 
+                    HPOS="187"
+                    VPOS="753"
+                    WIDTH="971"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="189 787 187 799 1154 806 1158 792 1154 753 189 753 189 787"/></Shape>
+	    <String CONTENT="— Gros Pierrot, répéta-t-il machinalement. Et"
+                    HPOS="187"
+                    VPOS="753"
+                    WIDTH="971"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d1667be"
+                    TAGREFS="LT703"
+                    BASELINE="138 845 260 840" 
+                    HPOS="136"
+                    VPOS="797"
+                    WIDTH="124"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="136 820 138 845 138 855 260 855 260 840 255 797 138 804 136 820"/></Shape>
+	    <String CONTENT="vous?"
+                    HPOS="136"
+                    VPOS="797"
+                    WIDTH="124"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5338933b"
+                    TAGREFS="LT703"
+                    BASELINE="190 895 460 898" 
+                    HPOS="187"
+                    VPOS="849"
+                    WIDTH="271"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="189 893 187 898 455 908 458 896 458 866 378 850 376 850 325 859 305 849 303 849 301 849 189 861 189 893"/></Shape>
+	    <String CONTENT="— Géronimo."
+                    HPOS="187"
+                    VPOS="849"
+                    WIDTH="271"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2c83ba94"
+                    TAGREFS="LT703"
+                    BASELINE="180 949 1159 949" 
+                    HPOS="180"
+                    VPOS="910"
+                    WIDTH="979"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="1153 918 1136 918 1119 918 1101 918 1084 918 1067 917 1050 917 1033 917 1016 917 999 915 982 915 965 915 948 915 931 915 914 913 897 913 880 913 863 913 846 913 829 912 811 912 794 912 777 912 760 910 743 910 726 910 709 910 692 910 180 910 180 949 180 958 1159 958 1159 949 1159 918 1153 918"/></Shape>
+	    <String CONTENT="Ça lui disait quelque chose, mais il ne pouvait tout"
+                    HPOS="180"
+                    VPOS="910"
+                    WIDTH="979"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_57e92ee3"
+                    TAGREFS="LT703"
+                    BASELINE="134 999 1153 999" 
+                    HPOS="134"
+                    VPOS="954"
+                    WIDTH="1019"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="134 999 134 1009 1153 1009 1153 999 1153 965 1084 954 1083 954 863 963 690 954 689 954 687 954 685 954 673 963 629 954 627 954 574 963 552 954 550 954 549 954 286 963 228 954 226 954 182 963 153 954 151 954 150 954 148 954 146 954 134 961 134 999"/></Shape>
+	    <String CONTENT="de même pas raconter à ce Parigot idiot-pour être ber¬"
+                    HPOS="134"
+                    VPOS="954"
+                    WIDTH="1019"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_643aa32e"
+                    TAGREFS="LT703"
+                    BASELINE="134 1050 1151 1046" 
+                    HPOS="133"
+                    VPOS="1005"
+                    WIDTH="1018"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="134 1050 134 1062 1149 1058 1151 1046 1148 1012 148 1005 146 1005 144 1005 143 1005 133 1011 134 1050"/></Shape>
+	    <String CONTENT="dins, et aussi crétins, y a que les Parisiens-il ne pou¬"
+                    HPOS="133"
+                    VPOS="1005"
+                    WIDTH="1018"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e41ecda"
+                    TAGREFS="LT703"
+                    BASELINE="138 1099 1153 1104" 
+                    HPOS="136"
+                    VPOS="1051"
+                    WIDTH="1017"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="138 1099 136 1104 1149 1109 1153 1104 1153 1063 1137 1055 1136 1055 1134 1055 1132 1055 941 1063 936 1063 910 1055 909 1055 907 1055 859 1063 858 1063 854 1063 815 1053 813 1053 811 1053 747 1062 554 1053 552 1053 499 1062 492 1062 484 1062 405 1051 404 1051 356 1060 327 1051 325 1051 324 1051 322 1051 300 1060 298 1060 291 1060 192 1051 191 1051 138 1058 138 1099"/></Shape>
+	    <String CONTENT="vait tout de même pas lui sortir qu’il l’avait vu à la télé."
+                    HPOS="136"
+                    VPOS="1051"
+                    WIDTH="1017"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_efd84255"
+                    TAGREFS="LT703"
+                    BASELINE="185 1150 1158 1154" 
+                    HPOS="184"
+                    VPOS="1104"
+                    WIDTH="974"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="185 1150 184 1157 1154 1161 1158 1154 1158 1116 1142 1106 1141 1106 1139 1106 997 1106 996 1106 994 1106 992 1106 992 1108 982 1116 938 1106 936 1106 881 1115 856 1106 854 1106 852 1106 851 1106 849 1106 837 1116 781 1106 779 1106 777 1106 755 1116 745 1106 743 1106 742 1106 740 1106 598 1115 581 1104 579 1104 578 1104 576 1104 574 1104 550 1113 475 1106 474 1106 472 1106 470 1106 470 1108 463 1115 443 1104 441 1104 440 1104 438 1104 436 1104 424 1115 424 1116 383 1116 380 1115 341 1104 339 1104 337 1104 336 1104 334 1104 334 1106 324 1115 324 1116 284 1116 283 1115 259 1104 257 1104 255 1104 254 1104 252 1104 252 1106 243 1115 242 1115 185 1115 185 1150"/></Shape>
+	    <String CONTENT="— Le Grand Esprit a créé les forêts, bramait"
+                    HPOS="184"
+                    VPOS="1104"
+                    WIDTH="974"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_78faf55f"
+                    TAGREFS="LT703"
+                    BASELINE="133 1203 1153 1203" 
+                    HPOS="133"
+                    VPOS="1157"
+                    WIDTH="1020"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="133 1203 133 1213 1153 1213 1153 1203 1153 1167 992 1157 991 1157 989 1157 968 1166 965 1166 958 1166 912 1157 910 1157 835 1164 811 1166 794 1164 752 1157 750 1157 711 1162 689 1166 668 1162 639 1157 566 1157 564 1157 562 1157 561 1157 561 1159 557 1162 552 1166 533 1161 511 1157 510 1157 462 1161 400 1166 133 1159 133 1203"/></Shape>
+	    <String CONTENT=" l’Indien. Il a créé les forêts et les prairies, les mon¬"
+                    HPOS="133"
+                    VPOS="1157"
+                    WIDTH="1020"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1871fae2"
+                    TAGREFS="LT703"
+                    BASELINE="134 1254 1151 1254" 
+                    HPOS="134"
+                    VPOS="1212"
+                    WIDTH="1017"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="134 1254 134 1261 1149 1263 1151 1254 1151 1219 134 1212 134 1254"/></Shape>
+	    <String CONTENT="tagnes et les déserts, pour que ses enfants y vivent li¬"
+                    HPOS="134"
+                    VPOS="1212"
+                    WIDTH="1017"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fcc3e81d"
+                    TAGREFS="LT703"
+                    BASELINE="134 1302 1154 1307" 
+                    HPOS="133"
+                    VPOS="1259"
+                    WIDTH="1021"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="134 1302 133 1311 1151 1316 1154 1307 1153 1268 134 1259 134 1302"/></Shape>
+	    <String CONTENT="brement. Le Grand Esprit n’a pas créé les clôtures. Les"
+                    HPOS="133"
+                    VPOS="1259"
+                    WIDTH="1021"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d07fd73"
+                    TAGREFS="LT703"
+                    BASELINE="133 1358 1151 1358" 
+                    HPOS="133"
+                    VPOS="1311"
+                    WIDTH="1018"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="133 1358 133 1367 1151 1367 1151 1358 1151 1323 996 1323 992 1321 979 1311 977 1311 975 1311 974 1311 972 1311 948 1319 945 1321 939 1319 916 1311 914 1311 912 1311 910 1311 890 1319 885 1323 849 1323 846 1319 839 1312 839 1311 837 1311 835 1311 784 1311 782 1311 781 1311 779 1311 779 1312 772 1317 769 1321 742 1317 685 1311 684 1311 682 1311 680 1311 670 1317 663 1321 651 1317 634 1311 632 1311 631 1311 629 1311 617 1316 607 1323 547 1323 539 1316 532 1311 530 1311 528 1311 527 1311 494 1316 457 1321 423 1314 400 1311 399 1311 376 1314 336 1321 133 1312 133 1358"/></Shape>
+	    <String CONTENT=" Indiens sont les enfants du Grand Esprit, ils respec¬"
+                    HPOS="133"
+                    VPOS="1311"
+                    WIDTH="1018"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a42ec8f7"
+                    TAGREFS="LT703"
+                    BASELINE="133 1406 1159 1411" 
+                    HPOS="131"
+                    VPOS="1369"
+                    WIDTH="1028"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="133 1406 131 1415 1156 1420 1159 1411 1159 1372 133 1369 133 1406"/></Shape>
+	    <String CONTENT="tent les arbres, les prairies et les rivières, que souillent"
+                    HPOS="131"
+                    VPOS="1369"
+                    WIDTH="1028"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d549e085"
+                    TAGREFS="LT703"
+                    BASELINE="131 1457 1153 1461" 
+                    HPOS="129"
+                    VPOS="1410"
+                    WIDTH="1024"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1107 1411 972 1420 965 1420 956 1420 777 1411 776 1411 774 1411 753 1420 747 1413 747 1411 745 1411 743 1411 742 1411 694 1418 641 1410 639 1410 637 1410 619 1418 506 1410 504 1410 131 1416 131 1457 129 1464 1149 1468 1153 1461 1151 1421 1108 1411 1107 1411"/></Shape>
+	    <String CONTENT="ou détruisent les Visages Pâles! (Géronimo dut s’in¬"
+                    HPOS="129"
+                    VPOS="1410"
+                    WIDTH="1024"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c714123"
+                    TAGREFS="LT703"
+                    BASELINE="133 1508 1156 1512" 
+                    HPOS="131"
+                    VPOS="1469"
+                    WIDTH="1025"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="133 1508 131 1515 1153 1519 1156 1512 1154 1476 133 1469 133 1508"/></Shape>
+	    <String CONTENT="terrompre pour retrouver sa respiration.) Si les Visages"
+                    HPOS="131"
+                    VPOS="1469"
+                    WIDTH="1025"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_abccfb58"
+                    TAGREFS="LT703"
+                    BASELINE="133 1560 1158 1565" 
+                    HPOS="131"
+                    VPOS="1517"
+                    WIDTH="1027"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="133 1560 131 1568 1154 1572 1158 1565 1156 1525 133 1517 133 1560"/></Shape>
+	    <String CONTENT="Pâles mettent partout des clôtures, reprit-il, c’est parce"
+                    HPOS="131"
+                    VPOS="1517"
+                    WIDTH="1027"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_56ed7fc2"
+                    TAGREFS="LT703"
+                    BASELINE="133 1611 1159 1616" 
+                    HPOS="131"
+                    VPOS="1573"
+                    WIDTH="1028"
+                    HEIGHT="48">
+            <Shape><Polygon POINTS="133 1611 131 1618 1156 1621 1159 1616 1159 1578 133 1573 133 1611"/></Shape>
+	    <String CONTENT="qu’ils ont peur les uns des autres. Les Indiens n’ont"
+                    HPOS="131"
+                    VPOS="1573"
+                    WIDTH="1028"
+                    HEIGHT="48"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d456e3b"
+                    TAGREFS="LT703"
+                    BASELINE="134 1664 1156 1667" 
+                    HPOS="133"
+                    VPOS="1624"
+                    WIDTH="1023"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="134 1664 133 1674 1154 1674 1156 1667 1154 1628 134 1624 134 1664"/></Shape>
+	    <String CONTENT="peur de personne et ils détruisent les clôtures. J’ai dit."
+                    HPOS="133"
+                    VPOS="1624"
+                    WIDTH="1023"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_295ab412"
+                    TAGREFS="LT703"
+                    BASELINE="179 1713 1158 1718" 
+                    HPOS="177"
+                    VPOS="1672"
+                    WIDTH="981"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="179 1713 177 1720 1154 1725 1158 1718 1156 1679 179 1672 179 1713"/></Shape>
+	    <String CONTENT="Gros Pierrot se demandait si c’était du lard ou du"
+                    HPOS="177"
+                    VPOS="1672"
+                    WIDTH="981"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c9e7d85"
+                    TAGREFS="LT703"
+                    BASELINE="131 1764 1159 1769" 
+                    HPOS="129"
+                    VPOS="1722"
+                    WIDTH="1030"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="131 1764 129 1773 1156 1781 1159 1769 1158 1732 829 1732 827 1730 820 1723 820 1722 818 1722 817 1722 815 1722 131 1725 131 1764"/></Shape>
+	    <String CONTENT="cochon, il regarda autour de lui- il y avait sûrement"
+                    HPOS="129"
+                    VPOS="1722"
+                    WIDTH="1030"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b67a245"
+                    TAGREFS="LT703"
+                    BASELINE="133 1815 542 1815" 
+                    HPOS="133"
+                    VPOS="1780"
+                    WIDTH="409"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="133 1815 133 1831 540 1832 542 1815 540 1780 133 1780 133 1815"/></Shape>
+	    <String CONTENT="un truc. Il demanda:"
+                    HPOS="133"
+                    VPOS="1780"
+                    WIDTH="409"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1099"
+                   VPOS="1862"
+                   WIDTH="60"
+                   HEIGHT="58"
+                   ID="eSc_textblock_f8d366aa"
+                   TAGREFS="BT1762">
+          <Shape><Polygon POINTS="1099 1862 1099 1920 1159 1920 1159 1862"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5dec4e7d"
+                    TAGREFS="LT703"
+                    BASELINE="1108 1909 1152 1910" 
+                    HPOS="1105"
+                    VPOS="1865"
+                    WIDTH="46"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1107 1907 1105 1919 1113 1926 1115 1926 1117 1926 1119 1926 1149 1919 1151 1909 1151 1866 1107 1865 1107 1907"/></Shape>
+	    <String CONTENT="15"
+                    HPOS="1105"
+                    VPOS="1865"
+                    WIDTH="46"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

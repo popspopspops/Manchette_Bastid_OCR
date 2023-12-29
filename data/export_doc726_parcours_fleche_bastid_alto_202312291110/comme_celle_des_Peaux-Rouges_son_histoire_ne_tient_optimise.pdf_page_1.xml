@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>comme_celle_des_Peaux-Rouges_son_histoire_ne_tient_optimise.pdf_page_1.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1761" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1762" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1763" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT703" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT704" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        
+        <TextBlock HPOS="305"
+                   VPOS="242"
+                   WIDTH="1799"
+                   HEIGHT="772"
+                   ID="eSc_textblock_1d05610e"
+                   TAGREFS="BT1761">
+          <Shape><Polygon POINTS="305 242 305 1014 2104 1014 2104 242"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c5eedaf1"
+                    TAGREFS="LT703"
+                    BASELINE="352 363 2052 363" 
+                    HPOS="352"
+                    VPOS="288"
+                    WIDTH="1700"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="2002 316 1975 313 1947 313 1920 310 1892 310 1865 308 1837 305 1810 305 1782 302 1755 299 1727 299 1700 297 1672 294 1644 294 1617 291 1589 288 1562 288 1534 288 1518 305 1367 305 1202 291 1177 291 1149 291 1122 291 1094 291 1078 291 968 302 954 291 929 294 902 294 874 294 847 294 819 294 792 294 775 294 759 302 720 294 709 294 682 294 654 294 640 305 352 305 352 363 352 382 2052 382 2052 363 2052 319 2030 319"/></Shape>
+	    <String CONTENT="comme celle des Peaux-Rouges, son histoire ne tient"
+                    HPOS="352"
+                    VPOS="288"
+                    WIDTH="1700"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9ecff65"
+                    TAGREFS="LT703"
+                    BASELINE="363 456 2046 445" 
+                    HPOS="360"
+                    VPOS="379"
+                    WIDTH="1686"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="363 456 363 478 2043 456 2046 445 2041 385 448 379 445 379 360 393 363 456"/></Shape>
+	    <String CONTENT="guère dans les mots et je ne pourrais jamais y entrer"
+                    HPOS="360"
+                    VPOS="379"
+                    WIDTH="1686"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1be080d7"
+                    TAGREFS="LT703"
+                    BASELINE="363 539 2052 533" 
+                    HPOS="360"
+                    VPOS="470"
+                    WIDTH="1692"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="363 539 363 555 2049 555 2052 533 2043 470 360 473 363 539"/></Shape>
+	    <String CONTENT="que les pieds devant. Les bois sont tout près, j’entends"
+                    HPOS="360"
+                    VPOS="470"
+                    WIDTH="1692"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_08c0b528"
+                    TAGREFS="LT703"
+                    BASELINE="368 627 2041 621" 
+                    HPOS="365"
+                    VPOS="550"
+                    WIDTH="1676"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="368 627 368 640 2038 632 2041 621 2035 563 1215 550 1213 550 1210 550 1207 550 1191 563 1188 566 365 566 368 627"/></Shape>
+	    <String CONTENT="le vent, ce bruit de la mer dans les arbres, je me rap¬"
+                    HPOS="365"
+                    VPOS="550"
+                    WIDTH="1676"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b5854b8c"
+                    TAGREFS="LT703"
+                    BASELINE="371 717 2052 709" 
+                    HPOS="368"
+                    VPOS="632"
+                    WIDTH="1684"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="371 717 371 745 2049 731 2052 709 2046 651 1537 632 1534 632 1383 651 1262 635 1259 635 1257 635 1196 651 1160 635 1158 635 1155 635 1152 635 1149 635 1130 651 1017 640 1015 640 913 657 830 657 805 638 803 638 800 638 797 638 794 638 756 654 728 638 726 638 723 638 720 638 627 651 599 638 596 638 594 638 591 638 536 654 451 638 448 638 445 638 368 657 371 717"/></Shape>
+	    <String CONTENT="pelle où j’&#39;étais, en cet endroit ou j’habitais et écrivais."
+                    HPOS="368"
+                    VPOS="632"
+                    WIDTH="1684"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0462c1d2"
+                    TAGREFS="LT703"
+                    BASELINE="374 803 2057 797" 
+                    HPOS="371"
+                    VPOS="720"
+                    WIDTH="1686"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="2049 764 2035 739 1870 739 1823 720 1821 720 1818 720 1815 720 1812 720 1788 737 1713 723 1711 723 1708 723 1653 737 1633 720 1631 720 1628 720 1625 720 1534 737 1413 720 1411 720 1243 734 1215 720 1213 720 1210 720 1207 720 1204 720 1174 742 1070 742 1039 723 1037 723 1034 723 1031 723 1028 723 987 737 894 723 891 723 888 723 885 723 885 726 872 737 800 723 797 723 794 723 792 723 767 739 737 723 734 723 396 723 393 723 390 723 387 723 387 726 371 737 374 803 374 811 2057 808 2057 797 2049 764 2049 764"/></Shape>
+	    <String CONTENT="Brocéliande était loin, et les Celtes et les Indiens, et"
+                    HPOS="371"
+                    VPOS="720"
+                    WIDTH="1686"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_37972085"
+                    TAGREFS="LT703"
+                    BASELINE="382 891 2057 882" 
+                    HPOS="379"
+                    VPOS="808"
+                    WIDTH="1678"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="382 891 382 921 2054 907 2057 882 2052 822 949 808 946 808 379 827 382 891"/></Shape>
+	    <String CONTENT="encore plus loin la forêt primitive. Mais lui et moi, nous"
+                    HPOS="379"
+                    VPOS="808"
+                    WIDTH="1678"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7635c2de"
+                    TAGREFS="LT703"
+                    BASELINE="390 970 1303 976" 
+                    HPOS="387"
+                    VPOS="910"
+                    WIDTH="916"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1295 973 1276 913 390 910 390 970 387 990 1298 992 1303 976 1301 970 1295 973"/></Shape>
+	    <String CONTENT="en vivions ; j’en rêve encore."
+                    HPOS="387"
+                    VPOS="910"
+                    WIDTH="916"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
