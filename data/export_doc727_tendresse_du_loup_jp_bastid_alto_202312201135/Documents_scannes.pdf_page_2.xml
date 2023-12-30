@@ -59,7 +59,7 @@
                     WIDTH="1483"
                     HEIGHT="112">
             <Shape><Polygon POINTS="794 429 503 440 503 511 500 519 1977 541 1983 525 1980 456 1570 440 1567 440 1427 451 1402 451 1400 451 1383 434 1380 434 1378 434 1375 434 1257 448 1248 448 1237 448 1125 434 1122 434 1119 434 1116 434 1097 448 1094 448 1053 445 797 429 794 429"/></Shape>
-	    <String CONTENT="de grands bêtisieux, de bon Dieu de joumnaleux qui"
+	    <String CONTENT="de grands bêtisieux, de bon Dieu de journaleux qui"
                     HPOS="500"
                     VPOS="429"
                     WIDTH="1483"
@@ -110,7 +110,7 @@
                     WIDTH="1483"
                     HEIGHT="96">
             <Shape><Polygon POINTS="500 761 497 770 1975 786 1980 772 1980 701 500 690 500 761"/></Shape>
-	    <String CONTENT="leux de s’occuper que de son darrière” et conclut."
+	    <String CONTENT="leux de s’occuper que de son darrière” et conclut"
                     HPOS="497"
                     VPOS="690"
                     WIDTH="1483"
@@ -161,7 +161,7 @@
                     WIDTH="1403"
                     HEIGHT="102">
             <Shape><Polygon POINTS="572 1012 569 1023 1966 1034 1972 1023 1969 957 572 932 572 1012"/></Shape>
-	    <String CONTENT="En France, sur une chaîne de télévision privée."
+	    <String CONTENT="En France, sur une chaîne de télévision privée,"
                     HPOS="569"
                     VPOS="932"
                     WIDTH="1403"
@@ -263,7 +263,7 @@
                     WIDTH="1483"
                     HEIGHT="94">
             <Shape><Polygon POINTS="1510 1435 1482 1435 1455 1435 1427 1435 1402 1435 1345 1446 1290 1435 1262 1435 1224 1449 726 1435 723 1435 720 1435 676 1449 528 1435 525 1435 522 1435 492 1449 495 1518 495 1529 1972 1523 1975 1512 1969 1449 1512 1435 1510 1435"/></Shape>
-	    <String CONTENT="de l’émission précédente. Son Vaisseau des morts."
+	    <String CONTENT="de l’émission précédente. Son Vaisseau des morts"
                     HPOS="492"
                     VPOS="1435"
                     WIDTH="1483"
@@ -484,7 +484,7 @@
                     WIDTH="1491"
                     HEIGHT="107">
             <Shape><Polygon POINTS="484 2609 484 2620 1969 2601 1972 2590 1966 2530 1757 2513 1755 2513 1752 2513 1749 2513 1749 2516 1733 2530 1688 2516 1686 2516 1683 2516 1578 2530 1545 2516 1543 2516 1540 2516 1537 2516 1493 2532 1471 2519 1468 2519 1466 2519 1463 2519 1325 2535 1171 2521 1169 2521 987 2538 965 2524 962 2524 960 2524 957 2524 954 2524 899 2543 624 2543 558 2530 555 2530 481 2546 484 2609"/></Shape>
-	    <String CONTENT="en louant au prix fort à l’Association chrétienne."
+	    <String CONTENT="en louant au prix fort à l’Association chrétienne"
                     HPOS="481"
                     VPOS="2513"
                     WIDTH="1491"
@@ -562,13 +562,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="1858"
-                   VPOS="2983"
-                   WIDTH="149"
-                   HEIGHT="154"
+        <TextBlock HPOS="1882"
+                   VPOS="3003"
+                   WIDTH="117"
+                   HEIGHT="94"
                    ID="eSc_textblock_e45b7adc"
                    TAGREFS="BT1810">
-          <Shape><Polygon POINTS="1858 2983 1858 3137 2007 3137 2007 2983"/></Shape>
+          <Shape><Polygon POINTS="1882 3007 1894 3097 1995 3089 1999 3003"/></Shape>
           
           
           <TextLine ID="eSc_line_0777c3e3"
