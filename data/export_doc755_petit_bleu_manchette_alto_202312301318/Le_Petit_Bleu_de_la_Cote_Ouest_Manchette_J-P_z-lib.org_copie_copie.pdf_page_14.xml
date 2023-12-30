@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Le_Petit_Bleu_de_la_Cote_Ouest_Manchette_J-P_z-lib.org_copie_copie.pdf_page_14.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1893" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1894" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1895" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT760" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT761" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="12"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        
+        <TextBlock HPOS="288"
+                   VPOS="263"
+                   WIDTH="1961"
+                   HEIGHT="2655"
+                   ID="eSc_textblock_1b086770"
+                   TAGREFS="BT1893">
+          <Shape><Polygon POINTS="288 263 288 2918 2249 2918 2249 263"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9a3b5e6d"
+                    TAGREFS="LT760"
+                    BASELINE="404 354 2239 354" 
+                    HPOS="404"
+                    VPOS="299"
+                    WIDTH="1835"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="2192 308 2164 308 2137 308 2109 308 2082 308 2054 308 2027 308 1999 308 1972 308 1944 308 1917 308 1889 308 1862 308 1834 308 1807 308 1779 305 1752 305 1724 305 1697 305 1669 305 1642 305 1614 305 1587 305 1559 305 1532 305 1504 305 1477 305 1449 305 1422 305 1394 305 1364 305 1339 305 1312 302 1284 302 1257 302 1229 302 1202 302 1174 302 1147 302 1119 302 1092 302 1064 302 1037 302 1009 302 982 302 954 302 927 302 899 302 872 302 855 299 429 299 404 302 404 354 404 368 2239 368 2239 354 2239 305 2228 302 2219 308"/></Shape>
+	    <String CONTENT="Mais l&#39;homme ne voulait ou ne pouvait plus parler. Ils atteignaient la"
+                    HPOS="404"
+                    VPOS="299"
+                    WIDTH="1835"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_33827733"
+                    TAGREFS="LT760"
+                    BASELINE="313 426 2236 426" 
+                    HPOS="313"
+                    VPOS="365"
+                    WIDTH="1923"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="313 374 313 426 313 440 2236 440 2236 426 2217 374 338 365 313 374"/></Shape>
+	    <String CONTENT="Mercedes. Gerfaut aida le blessé à s&#39;appuyer au véhicule, ouvrit la portière"
+                    HPOS="313"
+                    VPOS="365"
+                    WIDTH="1923"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6ce83f4a"
+                    TAGREFS="LT760"
+                    BASELINE="310 497 2236 492" 
+                    HPOS="308"
+                    VPOS="431"
+                    WIDTH="1928"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="310 497 310 511 2233 506 2236 492 2230 445 1312 431 1309 431 1218 445 390 434 387 434 308 448 310 497"/></Shape>
+	    <String CONTENT="arrière droite. L’homme s&#39;accrocha au dossier du siège avant et se propulsa"
+                    HPOS="308"
+                    VPOS="431"
+                    WIDTH="1928"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_afe06115"
+                    TAGREFS="LT760"
+                    BASELINE="313 572 1130 566" 
+                    HPOS="310"
+                    VPOS="503"
+                    WIDTH="820"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="313 572 313 583 1127 577 1130 566 1125 519 737 503 734 503 731 503 660 519 404 506 401 506 310 522 313 572"/></Shape>
+	    <String CONTENT="sur les sièges arrière, sur le dos."
+                    HPOS="310"
+                    VPOS="503"
+                    WIDTH="820"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_875ef335"
+                    TAGREFS="LT760"
+                    BASELINE="422 638 2233 643" 
+                    HPOS="418"
+                    VPOS="591"
+                    WIDTH="1812"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="420 638 418 646 2225 649 2230 640 2228 594 420 591 420 638"/></Shape>
+	    <String CONTENT="— Ah, merde, merde, je saigne, je saigne, dit-il avec tristesse et rancœur."
+                    HPOS="418"
+                    VPOS="591"
+                    WIDTH="1812"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8cd43be0"
+                    TAGREFS="LT760"
+                    BASELINE="308 715 960 709" 
+                    HPOS="308"
+                    VPOS="657"
+                    WIDTH="652"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="308 715 308 726 960 726 960 709 951 657 316 657 308 715"/></Shape>
+	    <String CONTENT="(Il avait l’accent parigot.)"
+                    HPOS="308"
+                    VPOS="657"
+                    WIDTH="652"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fa689fc9"
+                    TAGREFS="LT760"
+                    BASELINE="427 786 1092 781" 
+                    HPOS="423"
+                    VPOS="723"
+                    WIDTH="666"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="426 783 426 794 1086 792 1089 781 1083 739 673 723 671 723 561 737 495 723 492 723 489 723 423 739 426 783"/></Shape>
+	    <String CONTENT="— Ça va aller. Ça va aller."
+                    HPOS="423"
+                    VPOS="723"
+                    WIDTH="666"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e067d89"
+                    TAGREFS="LT760"
+                    BASELINE="404 858 2236 858" 
+                    HPOS="404"
+                    VPOS="808"
+                    WIDTH="1832"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="2192 814 2164 814 2137 814 2109 811 2082 811 2054 811 2027 811 1999 811 1972 808 1944 808 1917 808 1889 808 404 808 404 858 404 871 2233 871 2236 858 2219 814 2192 814"/></Shape>
+	    <String CONTENT="Gerfaut poussa les jambes du blessé à l’intérieur, claqua la portière"
+                    HPOS="404"
+                    VPOS="808"
+                    WIDTH="1832"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4bdfee85"
+                    TAGREFS="LT760"
+                    BASELINE="308 926 2236 926" 
+                    HPOS="308"
+                    VPOS="877"
+                    WIDTH="1928"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="308 926 308 943 2236 943 2236 926 2233 877 324 877 308 926"/></Shape>
+	    <String CONTENT="arrière, monta vivement à l’avant. Il pensait que le sang allait souiller le cuir"
+                    HPOS="308"
+                    VPOS="877"
+                    WIDTH="1928"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12b592bb"
+                    TAGREFS="LT760"
+                    BASELINE="308 1001 2236 1001" 
+                    HPOS="308"
+                    VPOS="951"
+                    WIDTH="1928"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="308 1001 308 1014 2236 1014 2236 1001 2233 951 324 951 308 1001"/></Shape>
+	    <String CONTENT="des sièges; ou bien il ne pensait rien. La Mercedes s&#39;ébranla. Pendant le"
+                    HPOS="308"
+                    VPOS="951"
+                    WIDTH="1928"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af5fdea2"
+                    TAGREFS="LT760"
+                    BASELINE="313 1072 1799 1067" 
+                    HPOS="310"
+                    VPOS="1009"
+                    WIDTH="1489"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="313 1072 313 1086 1796 1080 1799 1067 1793 1020 321 1009 319 1009 316 1009 313 1009 313 1012 310 1012 313 1072"/></Shape>
+	    <String CONTENT="trajet Gerfaut ne dit pas grand-chose et le blessé ne dit rien."
+                    HPOS="310"
+                    VPOS="1009"
+                    WIDTH="1489"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c833d625"
+                    TAGREFS="LT760"
+                    BASELINE="404 1146 2236 1141" 
+                    HPOS="401"
+                    VPOS="1091"
+                    WIDTH="1835"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="404 1146 404 1157 2233 1152 2236 1141 2228 1091 401 1091 404 1146"/></Shape>
+	    <String CONTENT="Ils se trouvèrent à Troyes en moins de dix minutes. Il était 0 h 20. Il n’y"
+                    HPOS="401"
+                    VPOS="1091"
+                    WIDTH="1835"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_070dee97"
+                    TAGREFS="LT760"
+                    BASELINE="310 1218 2236 1212" 
+                    HPOS="308"
+                    VPOS="1163"
+                    WIDTH="1928"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="310 1218 310 1232 2233 1226 2236 1212 2228 1163 308 1166 310 1218"/></Shape>
+	    <String CONTENT="avait pas un flic en vue. Gerfaut s&#39;adressa à un passant tardif. On lui indiqua"
+                    HPOS="308"
+                    VPOS="1163"
+                    WIDTH="1928"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_47c1b23b"
+                    TAGREFS="LT760"
+                    BASELINE="310 1289 2230 1284" 
+                    HPOS="308"
+                    VPOS="1234"
+                    WIDTH="1922"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="310 1289 310 1306 2228 1306 2230 1284 2225 1234 308 1234 310 1289"/></Shape>
+	    <String CONTENT="le chemin d&#39;un hôpital. Le passant était ivre, les indications furent confuses,"
+                    HPOS="308"
+                    VPOS="1234"
+                    WIDTH="1922"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e701f18"
+                    TAGREFS="LT760"
+                    BASELINE="310 1361 2233 1355" 
+                    HPOS="308"
+                    VPOS="1292"
+                    WIDTH="1925"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="310 1361 310 1372 2230 1366 2233 1355 2228 1309 2159 1292 2156 1292 2153 1292 2123 1306 2032 1292 2030 1292 2027 1292 2024 1292 2002 1306 1815 1292 1812 1292 1810 1292 1807 1292 1790 1309 1639 1309 1430 1292 1427 1292 1424 1292 1422 1292 1408 1306 1391 1292 1389 1292 1386 1292 1383 1292 1380 1292 1378 1292 1361 1309 1177 1309 1136 1295 1133 1295 1130 1295 1127 1295 1097 1309 1064 1295 1061 1295 1059 1295 916 1309 899 1295 896 1295 894 1295 789 1295 786 1295 783 1295 781 1295 761 1309 731 1295 728 1295 726 1295 723 1295 720 1295 701 1309 550 1295 547 1295 544 1295 514 1309 500 1295 497 1295 495 1295 324 1295 321 1295 319 1295 316 1295 316 1298 313 1298 308 1303 310 1361"/></Shape>
+	    <String CONTENT="Gerfaut s&#39;égara à demi, perdit du temps. A l&#39;arrière, avec bien de la peine"
+                    HPOS="308"
+                    VPOS="1292"
+                    WIDTH="1925"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc38896b"
+                    TAGREFS="LT760"
+                    BASELINE="310 1427 2236 1432" 
+                    HPOS="308"
+                    VPOS="1377"
+                    WIDTH="1928"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="2217 1380 310 1377 310 1427 308 1438 2230 1441 2236 1432 2233 1421 2217 1380"/></Shape>
+	    <String CONTENT="mais sans gémir, le blessé avait ôté son caban. Dessous, il portait un"
+                    HPOS="308"
+                    VPOS="1377"
+                    WIDTH="1928"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f1bcedcf"
+                    TAGREFS="LT760"
+                    BASELINE="310 1498 2236 1504" 
+                    HPOS="308"
+                    VPOS="1438"
+                    WIDTH="1928"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="2217 1454 1298 1454 1292 1452 1276 1438 1273 1438 1270 1438 1268 1438 310 1446 310 1498 308 1509 2230 1515 2236 1504 2233 1490 2217 1454"/></Shape>
+	    <String CONTENT="chandail noir ras du cou. Il avait plié son caban en quatre et il le pressait"
+                    HPOS="308"
+                    VPOS="1438"
+                    WIDTH="1928"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_54d9b064"
+                    TAGREFS="LT760"
+                    BASELINE="310 1575 2239 1575" 
+                    HPOS="310"
+                    VPOS="1529"
+                    WIDTH="1929"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="2236 1575 2217 1529 310 1529 310 1575 310 1589 2239 1589 2239 1575 2236 1564 2236 1575"/></Shape>
+	    <String CONTENT="contre son flanc pour ralentir l’hémorragie. Au même instant il perdit"
+                    HPOS="310"
+                    VPOS="1529"
+                    WIDTH="1929"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_50be2bf2"
+                    TAGREFS="LT760"
+                    BASELINE="310 1650 2236 1650" 
+                    HPOS="310"
+                    VPOS="1584"
+                    WIDTH="1926"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="310 1650 310 1661 2236 1661 2236 1650 2217 1597 1207 1584 1204 1584 1202 1584 1199 1584 1177 1597 1149 1584 1147 1584 1144 1584 1141 1584 1111 1597 935 1584 932 1584 822 1597 767 1584 764 1584 761 1584 640 1597 464 1584 462 1584 310 1597 310 1650"/></Shape>
+	    <String CONTENT="connaissance et ils arrivèrent à l&#39;hôpital. Gerfaut alla se ranger avec"
+                    HPOS="310"
+                    VPOS="1584"
+                    WIDTH="1926"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b1e0bb9f"
+                    TAGREFS="LT760"
+                    BASELINE="313 1721 2236 1713" 
+                    HPOS="310"
+                    VPOS="1663"
+                    WIDTH="1926"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="313 1721 313 1735 2233 1729 2236 1713 2214 1663 310 1663 313 1721"/></Shape>
+	    <String CONTENT="brusquerie devant le service des urgences. Il se précipita hors de l&#39;auto et"
+                    HPOS="310"
+                    VPOS="1663"
+                    WIDTH="1926"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58c09f41"
+                    TAGREFS="LT760"
+                    BASELINE="308 1795 1257 1790" 
+                    HPOS="308"
+                    VPOS="1724"
+                    WIDTH="949"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="308 1795 308 1815 1254 1801 1257 1790 1251 1738 844 1724 841 1724 324 1738 308 1795"/></Shape>
+	    <String CONTENT="jusqu&#39;à l’entrée d&#39;un hall mal éclairé."
+                    HPOS="308"
+                    VPOS="1724"
+                    WIDTH="949"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11c4421c"
+                    TAGREFS="LT760"
+                    BASELINE="424 1861 2236 1861" 
+                    HPOS="423"
+                    VPOS="1812"
+                    WIDTH="1810"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="423 1859 423 1875 2233 1875 2233 1859 2233 1812 423 1812 423 1859"/></Shape>
+	    <String CONTENT="— Un brancard! Un brancard! Vite! hurla-t-il et il revint vers la voiture"
+                    HPOS="423"
+                    VPOS="1812"
+                    WIDTH="1810"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e8b8c538"
+                    TAGREFS="LT760"
+                    BASELINE="310 1933 1059 1933" 
+                    HPOS="310"
+                    VPOS="1886"
+                    WIDTH="749"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="310 1933 310 1949 1059 1949 1059 1933 1059 1886 310 1886 310 1933"/></Shape>
+	    <String CONTENT="et ouvrit les portières arrière."
+                    HPOS="310"
+                    VPOS="1886"
+                    WIDTH="749"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c49fda8a"
+                    TAGREFS="LT760"
+                    BASELINE="404 2007 2236 2007" 
+                    HPOS="404"
+                    VPOS="1949"
+                    WIDTH="1832"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="404 2007 404 2021 2233 2021 2236 2007 2228 1952 404 1949 404 2007"/></Shape>
+	    <String CONTENT="Personne ne sortait de l’hôpital. A droite du hall vitré, Gerfaut voyait une"
+                    HPOS="404"
+                    VPOS="1949"
+                    WIDTH="1832"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f62cc79a"
+                    TAGREFS="LT760"
+                    BASELINE="313 2081 2236 2076" 
+                    HPOS="310"
+                    VPOS="2013"
+                    WIDTH="1926"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="313 2081 313 2098 2233 2087 2236 2076 2214 2024 1306 2013 1303 2013 1103 2026 434 2015 431 2015 310 2029 313 2081"/></Shape>
+	    <String CONTENT="grande pièce vitrée avec un comptoir de réception et deux filles en blouse"
+                    HPOS="310"
+                    VPOS="2013"
+                    WIDTH="1926"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c676949"
+                    TAGREFS="LT760"
+                    BASELINE="310 2150 2239 2150" 
+                    HPOS="310"
+                    VPOS="2101"
+                    WIDTH="1929"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="2236 2150 2217 2101 310 2101 310 2150 310 2164 2239 2164 2239 2150 2236 2139 2236 2150"/></Shape>
+	    <String CONTENT="derrière le comptoir et quatre autres personnes dans la pièce, un Algérien et"
+                    HPOS="310"
+                    VPOS="2101"
+                    WIDTH="1929"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cc837985"
+                    TAGREFS="LT760"
+                    BASELINE="313 2222 2236 2222" 
+                    HPOS="313"
+                    VPOS="2172"
+                    WIDTH="1923"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="313 2222 313 2235 2236 2235 2236 2222 2217 2172 313 2172 313 2222"/></Shape>
+	    <String CONTENT="un couple âgé assis sur des chaises en tube métallique et en plastique, et un"
+                    HPOS="313"
+                    VPOS="2172"
+                    WIDTH="1923"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1ce17fb7"
+                    TAGREFS="LT760"
+                    BASELINE="316 2299 2230 2288" 
+                    HPOS="313"
+                    VPOS="2227"
+                    WIDTH="1917"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="316 2299 316 2307 1746 2315 1749 2315 1752 2315 1790 2301 1796 2301 2230 2301 2230 2288 2225 2241 2021 2227 2019 2227 313 2244 316 2299"/></Shape>
+	    <String CONTENT="type de trente ans au teint blanchâtre et aux joues molles, en complet, sans"
+                    HPOS="313"
+                    VPOS="2227"
+                    WIDTH="1917"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d345054c"
+                    TAGREFS="LT760"
+                    BASELINE="313 2362 1477 2367" 
+                    HPOS="310"
+                    VPOS="2312"
+                    WIDTH="1167"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="313 2362 310 2373 1471 2378 1477 2367 1474 2318 313 2312 313 2362"/></Shape>
+	    <String CONTENT="cravate, adossé au mur, se rongeant les ongles."
+                    HPOS="310"
+                    VPOS="2312"
+                    WIDTH="1167"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d49959e"
+                    TAGREFS="LT760"
+                    BASELINE="418 2436 1468 2436" 
+                    HPOS="418"
+                    VPOS="2373"
+                    WIDTH="1050"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="418 2436 418 2450 1468 2450 1468 2436 1468 2389 1383 2373 1380 2373 759 2387 660 2373 657 2373 654 2373 616 2387 492 2373 489 2373 418 2387 418 2436"/></Shape>
+	    <String CONTENT="— Mais alors, nom de dieu? cria Gerfaut."
+                    HPOS="418"
+                    VPOS="2373"
+                    WIDTH="1050"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_146dcf53"
+                    TAGREFS="LT760"
+                    BASELINE="404 2505 2046 2510" 
+                    HPOS="401"
+                    VPOS="2453"
+                    WIDTH="1645"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="2027 2464 1999 2464 1972 2464 1944 2464 1917 2461 1889 2461 1862 2461 1834 2461 1807 2458 1779 2458 1752 2458 1724 2458 1713 2455 404 2453 404 2505 401 2516 2041 2521 2046 2510 2041 2497 2027 2464"/></Shape>
+	    <String CONTENT="Deux infirmiers arrivèrent par le hall avec une civière à roulettes."
+                    HPOS="401"
+                    VPOS="2453"
+                    WIDTH="1645"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c7cea63c"
+                    TAGREFS="LT760"
+                    BASELINE="418 2582 1155 2582" 
+                    HPOS="418"
+                    VPOS="2519"
+                    WIDTH="737"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="418 2582 418 2596 1155 2596 1155 2582 1155 2532 1111 2519 1108 2519 789 2519 786 2519 783 2519 728 2532 651 2519 649 2519 566 2532 500 2519 497 2519 418 2532 418 2582"/></Shape>
+	    <String CONTENT="— On arrive, observèrent-ils."
+                    HPOS="418"
+                    VPOS="2519"
+                    WIDTH="737"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ddae1ae3"
+                    TAGREFS="LT760"
+                    BASELINE="404 2653 2241 2653" 
+                    HPOS="404"
+                    VPOS="2587"
+                    WIDTH="1837"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="2219 2604 2192 2598 2189 2596 2096 2587 2093 2587 1796 2601 1661 2587 1658 2587 1655 2587 1609 2601 1501 2587 1499 2587 1496 2587 1471 2601 1452 2587 1449 2587 1446 2587 1444 2587 1441 2587 1380 2601 1306 2587 1303 2587 1301 2587 1298 2587 1279 2601 1240 2587 1237 2587 1235 2587 1232 2587 1199 2601 1042 2587 1039 2587 883 2601 827 2587 825 2587 822 2587 819 2587 816 2587 800 2601 739 2587 737 2587 734 2587 676 2601 605 2587 602 2587 508 2601 434 2587 431 2587 429 2587 404 2598 404 2653 404 2667 2241 2667 2241 2653 2241 2604 2219 2601 2219 2604"/></Shape>
+	    <String CONTENT="Avec efficacité ils se saisirent du blessé, l’étendirent sur la civière et"
+                    HPOS="404"
+                    VPOS="2587"
+                    WIDTH="1837"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b8d4960c"
+                    TAGREFS="LT760"
+                    BASELINE="310 2725 2233 2725" 
+                    HPOS="310"
+                    VPOS="2675"
+                    WIDTH="1923"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="2228 2675 324 2675 310 2684 310 2725 310 2736 2230 2739 2233 2725 2233 2681 2228 2675"/></Shape>
+	    <String CONTENT="repartirent dare-dare à travers le hall et au-delà. Avant qu’ils disparaissent,"
+                    HPOS="310"
+                    VPOS="2675"
+                    WIDTH="1923"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_91190cab"
+                    TAGREFS="LT760"
+                    BASELINE="313 2794 2219 2799" 
+                    HPOS="310"
+                    VPOS="2736"
+                    WIDTH="1909"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="2214 2744 313 2736 313 2794 310 2807 2214 2813 2219 2799 2217 2747 2214 2744"/></Shape>
+	    <String CONTENT="l’un d’eux se retourna vers Gerfaut qui suivait le mouvement avec hésitation."
+                    HPOS="310"
+                    VPOS="2736"
+                    WIDTH="1909"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5512cd4d"
+                    TAGREFS="LT760"
+                    BASELINE="423 2871 1350 2868" 
+                    HPOS="418"
+                    VPOS="2802"
+                    WIDTH="929"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="420 2871 420 2879 1345 2882 1347 2865 1342 2818 894 2802 891 2802 888 2802 885 2802 885 2805 869 2818 489 2805 486 2805 484 2805 418 2821 420 2871"/></Shape>
+	    <String CONTENT="— Faut l’inscrire, déclara l’infirmier."
+                    HPOS="418"
+                    VPOS="2802"
+                    WIDTH="929"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

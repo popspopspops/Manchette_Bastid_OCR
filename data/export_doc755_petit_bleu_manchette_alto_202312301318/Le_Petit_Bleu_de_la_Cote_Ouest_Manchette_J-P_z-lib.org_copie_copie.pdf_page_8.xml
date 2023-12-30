@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Le_Petit_Bleu_de_la_Cote_Ouest_Manchette_J-P_z-lib.org_copie_copie.pdf_page_8.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1893" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1894" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1895" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT760" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT761" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        
+        <TextBlock HPOS="293"
+                   VPOS="287"
+                   WIDTH="1960"
+                   HEIGHT="2678"
+                   ID="eSc_textblock_43ffe14e"
+                   TAGREFS="BT1893">
+          <Shape><Polygon POINTS="293 287 293 2965 2253 2965 2253 287"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_72283b26"
+                    TAGREFS="LT760"
+                    BASELINE="313 349 2233 354" 
+                    HPOS="310"
+                    VPOS="302"
+                    WIDTH="1923"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="2181 319 2153 319 2126 319 2098 319 2071 319 2043 319 2016 319 1988 316 1961 316 1933 316 1906 316 1878 316 1851 316 1823 316 1796 316 1768 316 1741 313 1713 313 1686 313 1658 313 1631 313 1603 313 1576 313 1548 313 1521 313 1493 310 1466 310 1438 310 1411 310 1383 310 1356 310 1328 310 1301 310 1273 308 1246 308 1218 308 1191 308 1163 308 1136 308 1108 308 1081 308 1053 308 1026 305 998 305 971 305 943 305 916 305 888 305 861 305 833 305 805 305 789 302 313 302 313 349 310 360 2228 365 2233 354 2230 319 2208 319"/></Shape>
+	    <String CONTENT="soupçonnées d&#39;intelligence avec l’ennemi de classe, et le travail du S. l. M.,"
+                    HPOS="310"
+                    VPOS="302"
+                    WIDTH="1923"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad2a602d"
+                    TAGREFS="LT760"
+                    BASELINE="313 420 2233 426" 
+                    HPOS="310"
+                    VPOS="371"
+                    WIDTH="1923"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="313 420 310 431 2228 434 2233 426 2230 376 313 371 313 420"/></Shape>
+	    <String CONTENT="sous la direction d’Alonso, était de les faire parler en les battant, en les"
+                    HPOS="310"
+                    VPOS="371"
+                    WIDTH="1923"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_91ad97f1"
+                    TAGREFS="LT760"
+                    BASELINE="316 495 2239 495" 
+                    HPOS="316"
+                    VPOS="448"
+                    WIDTH="1923"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="316 495 316 511 2239 511 2239 495 2239 448 316 448 316 495"/></Shape>
+	    <String CONTENT="violant, en les incisant, en les électrocutant, en les castrant, en les noyant"
+                    HPOS="316"
+                    VPOS="448"
+                    WIDTH="1923"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b28d79f"
+                    TAGREFS="LT760"
+                    BASELINE="310 572 1922 566" 
+                    HPOS="308"
+                    VPOS="517"
+                    WIDTH="1614"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="310 572 310 583 1920 577 1922 566 1914 517 308 519 310 572"/></Shape>
+	    <String CONTENT="dans des locaux ingénieusement conçus et en leur coupant la tête."
+                    HPOS="308"
+                    VPOS="517"
+                    WIDTH="1614"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c7400c93"
+                    TAGREFS="LT760"
+                    BASELINE="404 643 2236 643" 
+                    HPOS="404"
+                    VPOS="585"
+                    WIDTH="1832"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="404 643 404 657 2233 657 2236 643 2233 591 404 585 404 643"/></Shape>
+	    <String CONTENT="Le 30 mai 1961, Trujillo le Bienfaiteur se fit cribler de balles sur une"
+                    HPOS="404"
+                    VPOS="585"
+                    WIDTH="1832"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_abc2e0af"
+                    TAGREFS="LT760"
+                    BASELINE="310 715 2236 709" 
+                    HPOS="308"
+                    VPOS="649"
+                    WIDTH="1928"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="310 715 310 726 2233 720 2236 709 2230 662 1273 649 1270 649 1204 662 401 651 398 651 308 665 310 715"/></Shape>
+	    <String CONTENT="route par un commando dont on rattrapa ultérieurement les membres et"
+                    HPOS="308"
+                    VPOS="649"
+                    WIDTH="1928"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad49089e"
+                    TAGREFS="LT760"
+                    BASELINE="310 786 2236 781" 
+                    HPOS="308"
+                    VPOS="717"
+                    WIDTH="1928"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="310 786 310 797 2233 794 2236 781 2230 734 1680 717 1677 717 1675 717 1672 717 1655 734 1540 734 1515 717 1512 717 1510 717 1507 717 1504 717 1501 717 1482 731 1416 717 1413 717 1345 731 1273 717 1270 717 1174 734 668 720 665 720 514 734 401 720 398 720 308 737 310 786"/></Shape>
+	    <String CONTENT="certains complices. Pour Alonso et Elias, les beaux jours étaient finis, ou"
+                    HPOS="308"
+                    VPOS="717"
+                    WIDTH="1928"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_54de2034"
+                    TAGREFS="LT760"
+                    BASELINE="313 860 2233 852" 
+                    HPOS="310"
+                    VPOS="792"
+                    WIDTH="1923"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="313 860 313 882 2230 863 2233 852 2228 803 960 792 957 792 310 808 313 860"/></Shape>
+	    <String CONTENT="presque. Les fils du Bienfaiteur se maintinrent 180 jours, et après eux sous"
+                    HPOS="310"
+                    VPOS="792"
+                    WIDTH="1923"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e9a65080"
+                    TAGREFS="LT760"
+                    BASELINE="313 932 2233 924" 
+                    HPOS="310"
+                    VPOS="860"
+                    WIDTH="1923"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="313 932 313 943 2230 935 2233 924 2228 877 2002 860 1999 860 1997 860 1953 874 1922 860 1920 860 1917 860 1914 860 1911 860 1889 877 310 877 313 932"/></Shape>
+	    <String CONTENT="ia présidence de Balaguer, Alonso et Elias eurent encore le loisir de"
+                    HPOS="310"
+                    VPOS="860"
+                    WIDTH="1923"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf545b1b"
+                    TAGREFS="LT760"
+                    BASELINE="313 1001 2236 995" 
+                    HPOS="310"
+                    VPOS="937"
+                    WIDTH="1926"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="313 1001 313 1023 2233 1009 2236 995 2230 948 376 937 374 937 310 951 313 1001"/></Shape>
+	    <String CONTENT="préparer les élections de 1962 en massacrant les péquenots de Palm Sola et"
+                    HPOS="310"
+                    VPOS="937"
+                    WIDTH="1926"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3eabc9ad"
+                    TAGREFS="LT760"
+                    BASELINE="310 1069 2236 1075" 
+                    HPOS="308"
+                    VPOS="1014"
+                    WIDTH="1928"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="310 1069 308 1078 2230 1083 2236 1075 2236 1020 310 1014 310 1069"/></Shape>
+	    <String CONTENT="en liquidant le général loyaliste Rodriguez Reyes. Et après l&#39;élection du petit"
+                    HPOS="308"
+                    VPOS="1014"
+                    WIDTH="1928"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ebc0f1f9"
+                    TAGREFS="LT760"
+                    BASELINE="310 1144 2239 1144" 
+                    HPOS="310"
+                    VPOS="1091"
+                    WIDTH="1929"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="310 1144 310 1160 2239 1160 2239 1144 2236 1091 310 1091 310 1144"/></Shape>
+	    <String CONTENT="démocrate Juan Bosch, Elias le renversa pour mettre à sa place Donald Reid"
+                    HPOS="310"
+                    VPOS="1091"
+                    WIDTH="1929"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_74516054"
+                    TAGREFS="LT760"
+                    BASELINE="310 1215 2233 1215" 
+                    HPOS="310"
+                    VPOS="1166"
+                    WIDTH="1923"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="310 1215 310 1232 2233 1232 2233 1215 2233 1166 310 1166 310 1215"/></Shape>
+	    <String CONTENT="Cabrai, représentant à Saint-Domingue la C. I A. et les automobiles Austin."
+                    HPOS="310"
+                    VPOS="1166"
+                    WIDTH="1923"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_54029051"
+                    TAGREFS="LT760"
+                    BASELINE="313 1289 2236 1284" 
+                    HPOS="310"
+                    VPOS="1232"
+                    WIDTH="1926"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="313 1289 313 1300 2233 1298 2236 1284 2230 1234 310 1232 313 1289"/></Shape>
+	    <String CONTENT="Et moins de deux heures plus tard, Elias vit bien qu’il y avait une révolution"
+                    HPOS="310"
+                    VPOS="1232"
+                    WIDTH="1926"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a1986bb"
+                    TAGREFS="LT760"
+                    BASELINE="310 1361 2233 1355" 
+                    HPOS="308"
+                    VPOS="1292"
+                    WIDTH="1925"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="310 1361 310 1372 2230 1366 2233 1355 2228 1309 1988 1309 1958 1292 1955 1292 1953 1292 1741 1306 1713 1292 1711 1292 1708 1292 1705 1292 1677 1306 1556 1292 1554 1292 1551 1292 1518 1306 1444 1292 1441 1292 1438 1292 1408 1306 1367 1292 1364 1292 1361 1292 1265 1309 332 1295 330 1295 327 1295 324 1295 308 1306 310 1361"/></Shape>
+	    <String CONTENT="derrière l’ex-flic démocrate Caamano, et il s’en donna à cœur joie avec ses"
+                    HPOS="308"
+                    VPOS="1292"
+                    WIDTH="1925"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd4b044c"
+                    TAGREFS="LT760"
+                    BASELINE="313 1432 2236 1432" 
+                    HPOS="313"
+                    VPOS="1383"
+                    WIDTH="1923"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="313 1432 313 1446 2236 1446 2236 1432 2236 1383 313 1383 313 1432"/></Shape>
+	    <String CONTENT="tanks, ses Mustang et ses Meteor, surtout contre les faubourgs nord de la"
+                    HPOS="313"
+                    VPOS="1383"
+                    WIDTH="1923"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92a6be4f"
+                    TAGREFS="LT760"
+                    BASELINE="316 1504 2233 1504" 
+                    HPOS="316"
+                    VPOS="1452"
+                    WIDTH="1917"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="316 1504 316 1518 2233 1518 2233 1504 2233 1452 316 1452 316 1504"/></Shape>
+	    <String CONTENT="ville de Saint-Domingue, parce qu&#39;effectivement c’est là qu&#39;était le plus gros"
+                    HPOS="316"
+                    VPOS="1452"
+                    WIDTH="1917"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_803ae3df"
+                    TAGREFS="LT760"
+                    BASELINE="310 1575 2233 1570" 
+                    HPOS="308"
+                    VPOS="1523"
+                    WIDTH="1925"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="310 1575 310 1589 2230 1584 2233 1570 2225 1523 308 1526 310 1575"/></Shape>
+	    <String CONTENT="danger, les milices ouvrières et autres cochons pillant, horresco referens, la"
+                    HPOS="308"
+                    VPOS="1523"
+                    WIDTH="1925"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_423b4aff"
+                    TAGREFS="LT760"
+                    BASELINE="313 1647 2233 1647" 
+                    HPOS="313"
+                    VPOS="1597"
+                    WIDTH="1920"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="313 1617 313 1647 313 1669 2233 1658 2233 1647 2233 1597 324 1597 313 1617"/></Shape>
+	    <String CONTENT="grande fabrique de bouteilles Pepsi-Cola près du cimetière, pour faire des"
+                    HPOS="313"
+                    VPOS="1597"
+                    WIDTH="1920"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_72abc04f"
+                    TAGREFS="LT760"
+                    BASELINE="310 1721 2236 1721" 
+                    HPOS="310"
+                    VPOS="1669"
+                    WIDTH="1926"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="310 1721 310 1735 2236 1735 2236 1721 2236 1669 310 1669 310 1721"/></Shape>
+	    <String CONTENT=" cocktails Molotov. Mais les Américains, qui avaient comme Elias aperçu le"
+                    HPOS="310"
+                    VPOS="1669"
+                    WIDTH="1926"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_da1bdb75"
+                    TAGREFS="LT760"
+                    BASELINE="316 1793 2236 1793" 
+                    HPOS="316"
+                    VPOS="1743"
+                    WIDTH="1920"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="316 1793 316 1804 2236 1804 2236 1793 2236 1743 316 1743 316 1793"/></Shape>
+	    <String CONTENT="vrai danger (derrière les proclamations modérées et pour ainsi dire"
+                    HPOS="316"
+                    VPOS="1743"
+                    WIDTH="1920"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c34b134"
+                    TAGREFS="LT760"
+                    BASELINE="313 1864 2236 1859" 
+                    HPOS="310"
+                    VPOS="1806"
+                    WIDTH="1926"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="313 1864 313 1878 2233 1872 2236 1859 2230 1809 310 1806 313 1864"/></Shape>
+	    <String CONTENT="kennedyistes de Caamano), et qui conséquemment avaient apporté à Elias un"
+                    HPOS="310"
+                    VPOS="1806"
+                    WIDTH="1926"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94af2ab7"
+                    TAGREFS="LT760"
+                    BASELINE="313 1936 2230 1936" 
+                    HPOS="313"
+                    VPOS="1883"
+                    WIDTH="1917"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="313 1936 313 1947 2228 1949 2230 1936 2230 1883 313 1883 313 1936"/></Shape>
+	    <String CONTENT="soutien absolument déterminant en logistique, armes, munitions, hélicoptères,"
+                    HPOS="313"
+                    VPOS="1883"
+                    WIDTH="1917"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6ab9bc59"
+                    TAGREFS="LT760"
+                    BASELINE="313 2010 2233 2004" 
+                    HPOS="310"
+                    VPOS="1941"
+                    WIDTH="1923"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="313 2010 313 2029 2230 2015 2233 2004 2228 1955 1303 1941 1301 1941 1210 1955 528 1944 525 1944 310 1958 313 2010"/></Shape>
+	    <String CONTENT="porte-avions, marines, pont aérien (1 539 atterrissages) et cochonnerie de"
+                    HPOS="310"
+                    VPOS="1941"
+                    WIDTH="1923"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_50078a2f"
+                    TAGREFS="LT760"
+                    BASELINE="310 2073 2239 2079" 
+                    HPOS="308"
+                    VPOS="2026"
+                    WIDTH="1931"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="310 2073 308 2084 2233 2090 2239 2079 2239 2032 310 2026 310 2073"/></Shape>
+	    <String CONTENT="merde de corridor “neutre“— les Américains, après la victoire, grugeront"
+                    HPOS="308"
+                    VPOS="2026"
+                    WIDTH="1931"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02fa1708"
+                    TAGREFS="LT760"
+                    BASELINE="313 2150 1669 2150" 
+                    HPOS="313"
+                    VPOS="2092"
+                    WIDTH="1356"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="313 2150 313 2164 1669 2164 1669 2150 1669 2098 313 2092 313 2150"/></Shape>
+	    <String CONTENT="Elias et l&#39;exileront un moment à Miami. C&#39;est déloyal."
+                    HPOS="313"
+                    VPOS="2092"
+                    WIDTH="1356"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ca6b5a3"
+                    TAGREFS="LT760"
+                    BASELINE="407 2222 2236 2216" 
+                    HPOS="404"
+                    VPOS="2167"
+                    WIDTH="1832"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="407 2222 407 2235 2233 2230 2236 2216 2230 2167 404 2167 407 2222"/></Shape>
+	    <String CONTENT="Mais quant à Alonso, il n’était plus là depuis 1962. Il n’avait pas comme"
+                    HPOS="404"
+                    VPOS="2167"
+                    WIDTH="1832"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_356d2044"
+                    TAGREFS="LT760"
+                    BASELINE="310 2290 2233 2296" 
+                    HPOS="308"
+                    VPOS="2227"
+                    WIDTH="1925"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="2214 2238 2197 2230 2195 2230 2192 2230 1922 2244 1914 2244 1878 2230 1876 2230 1873 2230 1771 2244 1766 2244 1763 2244 1746 2230 1744 2230 1741 2230 1738 2230 1735 2230 1691 2244 1686 2244 1677 2244 1606 2230 1603 2230 1532 2241 1518 2244 1501 2241 1433 2230 1430 2230 1427 2230 1405 2241 1402 2244 1397 2241 1380 2230 1378 2230 1375 2230 1372 2230 1312 2241 1287 2244 1235 2241 1086 2227 1083 2227 1031 2238 1015 2241 995 2238 927 2227 924 2227 830 2238 792 2241 761 2238 698 2227 695 2227 693 2227 690 2227 679 2235 673 2241 657 2235 624 2227 621 2227 618 2227 616 2227 613 2227 602 2235 591 2241 310 2235 310 2290 308 2299 2228 2304 2233 2296 2230 2288 2214 2238"/></Shape>
+	    <String CONTENT="Elias le goût du pouvoir, seulement celui du confort. Il avait supervisé le"
+                    HPOS="308"
+                    VPOS="2227"
+                    WIDTH="1925"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b45eb4f"
+                    TAGREFS="LT760"
+                    BASELINE="310 2362 2233 2367" 
+                    HPOS="308"
+                    VPOS="2296"
+                    WIDTH="1925"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="310 2362 308 2370 2228 2376 2233 2367 2230 2318 1986 2301 1983 2301 1914 2312 1898 2315 1884 2312 1840 2301 1837 2301 1834 2301 1832 2301 1829 2301 1818 2312 1812 2318 1639 2318 1625 2310 1614 2301 1611 2301 1609 2301 1606 2301 1603 2301 1576 2310 1556 2315 1537 2310 1518 2301 1515 2301 1512 2301 1510 2301 1507 2301 1499 2307 1488 2315 1468 2307 1452 2301 1449 2301 1446 2301 1375 2307 1276 2315 1169 2304 1105 2299 932 2299 929 2299 927 2299 924 2299 921 2301 905 2312 877 2301 869 2299 866 2299 863 2299 861 2299 852 2301 816 2312 753 2299 742 2299 739 2299 737 2299 731 2299 693 2312 668 2299 665 2299 662 2299 660 2299 657 2299 654 2299 618 2312 588 2299 585 2299 583 2299 580 2299 550 2312 522 2299 519 2299 517 2299 404 2312 310 2296 310 2362"/></Shape>
+	    <String CONTENT="départ de la famille du Bienfaiteur, y compris les bagages (le cadavre, les"
+                    HPOS="308"
+                    VPOS="2296"
+                    WIDTH="1925"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cde4185b"
+                    TAGREFS="LT760"
+                    BASELINE="310 2439 2236 2439" 
+                    HPOS="310"
+                    VPOS="2373"
+                    WIDTH="1926"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="310 2439 310 2453 2236 2453 2236 2439 2236 2387 2208 2373 2206 2373 2203 2373 2104 2387 2068 2373 2065 2373 2063 2373 1988 2387 1939 2373 1936 2373 1933 2373 1570 2387 1532 2373 1529 2373 1526 2373 1523 2373 1488 2387 1416 2373 1413 2373 1248 2387 1092 2373 1089 2373 1015 2387 861 2373 858 2373 781 2387 632 2373 629 2373 503 2387 398 2373 396 2373 310 2387 310 2439"/></Shape>
+	    <String CONTENT="archives nationales, l’extraordinaire quantité de pognon). Cela lui avait"
+                    HPOS="310"
+                    VPOS="2373"
+                    WIDTH="1926"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_20fe376e"
+                    TAGREFS="LT760"
+                    BASELINE="310 2508 2236 2508" 
+                    HPOS="310"
+                    VPOS="2458"
+                    WIDTH="1926"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="310 2508 310 2524 2236 2524 2236 2508 2236 2458 310 2458 310 2508"/></Shape>
+	    <String CONTENT=" donné des idées. A l’instant où les élections de 62 portaient Juan Bosch au"
+                    HPOS="310"
+                    VPOS="2458"
+                    WIDTH="1926"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_91e7fa11"
+                    TAGREFS="LT760"
+                    BASELINE="313 2582 2233 2582" 
+                    HPOS="313"
+                    VPOS="2532"
+                    WIDTH="1920"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="313 2582 313 2601 2233 2593 2233 2582 2233 2532 313 2532 313 2582"/></Shape>
+	    <String CONTENT="pouvoir, Alonso s’envola vers l’exil, où il avait préalablement envoyé de"
+                    HPOS="313"
+                    VPOS="2532"
+                    WIDTH="1920"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a53531ba"
+                    TAGREFS="LT760"
+                    BASELINE="316 2659 935 2651" 
+                    HPOS="313"
+                    VPOS="2598"
+                    WIDTH="622"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="316 2659 316 2675 935 2659 935 2651 927 2598 313 2604 316 2659"/></Shape>
+	    <String CONTENT="grandes quantités de blé."
+                    HPOS="313"
+                    VPOS="2598"
+                    WIDTH="622"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_81f4d444"
+                    TAGREFS="LT760"
+                    BASELINE="404 2719 2233 2728" 
+                    HPOS="401"
+                    VPOS="2664"
+                    WIDTH="1832"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="404 2719 401 2730 2228 2739 2233 2728 2230 2675 404 2664 404 2719"/></Shape>
+	    <String CONTENT="Peut-être son intelligence se dégrada-t-elle dans les années qui suivirent,"
+                    HPOS="401"
+                    VPOS="2664"
+                    WIDTH="1832"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c390b106"
+                    TAGREFS="LT760"
+                    BASELINE="310 2796 2233 2791" 
+                    HPOS="308"
+                    VPOS="2736"
+                    WIDTH="1925"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="310 2796 310 2810 2230 2805 2233 2791 2228 2747 352 2736 349 2736 346 2736 308 2750 310 2796"/></Shape>
+	    <String CONTENT="et qui furrent des années d’errance de plus en plus précipitée. Ou peut-être"
+                    HPOS="308"
+                    VPOS="2736"
+                    WIDTH="1925"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cc62e951"
+                    TAGREFS="LT760"
+                    BASELINE="310 2871 2239 2871" 
+                    HPOS="310"
+                    VPOS="2805"
+                    WIDTH="1929"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="310 2871 310 2884 2239 2884 2239 2871 2239 2818 2208 2805 2206 2805 2203 2805 2068 2818 2038 2805 2035 2805 2032 2805 1958 2821 1567 2821 1507 2805 1504 2805 1501 2805 1499 2805 1444 2818 1367 2805 1364 2805 1295 2818 1180 2805 1177 2805 1174 2805 1171 2805 1155 2821 1023 2821 836 2805 833 2805 830 2805 800 2818 737 2805 734 2805 731 2805 704 2818 690 2805 687 2805 684 2805 536 2805 533 2805 530 2805 528 2805 511 2821 409 2821 341 2805 338 2805 335 2805 310 2816 310 2871"/></Shape>
+	    <String CONTENT="Alonso était-il dès l’origine un demi-crétin. Souverons-nous qu’il n’était"
+                    HPOS="310"
+                    VPOS="2805"
+                    WIDTH="1929"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a668ec4"
+                    TAGREFS="LT760"
+                    BASELINE="313 2942 2233 2937" 
+                    HPOS="303"
+                    VPOS="2876"
+                    WIDTH="1930"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="315 2957 558 2939 530 2939 503 2939 475 2939 448 2939 420 2939 393 2939 365 2939 338 2939 310 2939 313 2942 313 2967 2230 2953 2233 2937 2230 2895 2200 2876 2197 2876 2195 2876 2192 2876 2189 2876 2186 2876 2148 2898 2145 2901 2140 2898 2074 2876 2071 2876 2068 2876 2002 2890 1961 2876 1958 2876 1955 2876 1953 2876 1950 2876 1914 2901 1911 2901 1892 2887 1889 2887 1887 2887 1884 2887 1796 2898 1738 2876 1735 2876 1733 2876 1730 2876 1647 2901 1631 2884 1628 2884 1625 2884 1493 2876 1490 2876 1380 2901 1361 2884 1358 2884 1356 2884 1182 2879 1180 2879 1177 2879 1105 2901 1050 2879 1048 2879 1045 2879 1042 2879 1039 2879 1039 2882 1020 2895 1004 2882 1001 2882 998 2882 995 2882 819 2887 816 2887 814 2887 800 2898 775 2882 772 2882 770 2882 767 2882 764 2882 687 2901 638 2884 635 2884 303 2891"/></Shape>
+	    <String CONTENT="parvenu, dans son moment de puissance maximum, qu’à une situation de"
+                    HPOS="303"
+                    VPOS="2876"
+                    WIDTH="1930"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

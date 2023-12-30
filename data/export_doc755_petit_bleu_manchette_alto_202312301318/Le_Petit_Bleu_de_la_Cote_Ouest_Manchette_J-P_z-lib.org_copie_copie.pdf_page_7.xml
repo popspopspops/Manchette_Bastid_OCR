@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Le_Petit_Bleu_de_la_Cote_Ouest_Manchette_J-P_z-lib.org_copie_copie.pdf_page_7.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1893" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1894" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1895" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT760" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT761" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        
+        <TextBlock HPOS="302"
+                   VPOS="297"
+                   WIDTH="1934"
+                   HEIGHT="2663"
+                   ID="eSc_textblock_664c1670"
+                   TAGREFS="BT1893">
+          <Shape><Polygon POINTS="302 297 302 2960 2236 2960 2236 297"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_620333e9"
+                    TAGREFS="LT760"
+                    BASELINE="313 352 2233 352" 
+                    HPOS="313"
+                    VPOS="305"
+                    WIDTH="1920"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="2184 319 2156 319 2129 319 2101 319 2074 319 2046 319 2019 319 1991 316 1964 316 1936 316 1909 316 1881 316 1854 316 1826 316 1799 316 1771 316 1744 313 1716 313 1688 313 1661 313 1633 313 1606 313 1578 313 1551 313 1523 313 1496 310 1468 310 1441 310 1413 310 1386 310 1358 310 1331 310 1303 310 1276 308 1248 308 1221 308 1193 308 1166 308 1138 308 1111 308 1083 308 1056 308 1028 305 1001 305 973 305 946 305 918 305 891 305 863 305 836 305 808 305 313 305 313 352 313 368 2233 368 2233 352 2233 319 2211 319"/></Shape>
+	    <String CONTENT="sauf les perverses sadiques. Mais, les perverses sadiques, il les chassait dès"
+                    HPOS="313"
+                    VPOS="305"
+                    WIDTH="1920"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67c32376"
+                    TAGREFS="LT760"
+                    BASELINE="310 429 2236 423" 
+                    HPOS="308"
+                    VPOS="357"
+                    WIDTH="1928"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="310 429 310 440 2233 434 2236 423 2233 374 2189 357 2186 357 2184 357 2181 357 2178 357 2159 371 2057 357 2054 357 1909 371 1887 357 1884 357 1881 357 1878 357 1876 357 1837 371 1793 357 1790 357 1788 357 1785 357 1744 371 1700 357 1697 357 1694 357 1691 357 1688 357 1672 374 1540 374 1510 357 1507 357 1504 357 1501 357 1466 371 1430 357 1427 357 1424 357 1422 357 1397 371 1375 357 1372 357 1369 357 1367 357 1364 357 1328 371 1295 357 1292 357 1290 357 1158 374 726 360 723 360 640 374 602 360 599 360 596 360 453 374 379 360 376 360 374 360 308 376 310 429"/></Shape>
+	    <String CONTENT="qu&#39;il sentait qu&#39;elles prenaient plaisir à le battre. Il disait qu&#39;elles le"
+                    HPOS="308"
+                    VPOS="357"
+                    WIDTH="1928"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df9fd3b4"
+                    TAGREFS="LT760"
+                    BASELINE="310 497 632 497" 
+                    HPOS="310"
+                    VPOS="448"
+                    WIDTH="322"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="310 497 310 511 632 511 632 497 632 448 310 448 310 497"/></Shape>
+	    <String CONTENT=" dégoûtaient."
+                    HPOS="310"
+                    VPOS="448"
+                    WIDTH="322"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_44361b7e"
+                    TAGREFS="LT760"
+                    BASELINE="404 572 2230 572" 
+                    HPOS="404"
+                    VPOS="511"
+                    WIDTH="1826"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="404 572 404 583 2228 585 2230 572 2230 519 404 511 404 572"/></Shape>
+	    <String CONTENT="L&#39;autre type était un quadragénaire au front dégarni, un peu prognathe,"
+                    HPOS="404"
+                    VPOS="511"
+                    WIDTH="1826"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_84e2a455"
+                    TAGREFS="LT760"
+                    BASELINE="308 638 2233 643" 
+                    HPOS="305"
+                    VPOS="574"
+                    WIDTH="1928"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1171 574 1059 588 987 574 984 574 982 574 951 588 946 588 772 574 770 574 767 574 764 574 742 588 739 591 514 591 508 588 484 574 481 574 478 574 475 574 473 574 456 588 451 588 308 588 308 638 305 646 2228 651 2233 643 2233 591 2200 577 2197 577 2195 577 2192 577 2142 591 2098 577 2096 577 1975 577 1972 577 1969 577 1966 577 1950 591 1867 577 1865 577 1567 591 1545 591 1529 591 1369 577 1367 577 1364 577 1325 591 1320 591 1306 591 1174 574 1171 574"/></Shape>
+	    <String CONTENT="(avec de grandes dents et des mèches de cheveux secs d&#39;un blanc livide. Ce"
+                    HPOS="305"
+                    VPOS="574"
+                    WIDTH="1928"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad906450"
+                    TAGREFS="LT760"
+                    BASELINE="316 717 2233 712" 
+                    HPOS="313"
+                    VPOS="660"
+                    WIDTH="1920"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="316 717 316 726 2230 720 2233 712 2225 660 313 660 316 717"/></Shape>
+	    <String CONTENT="type-ci avait une grande cicatrice à la gorge, en travers, en arc de cercle, très"
+                    HPOS="313"
+                    VPOS="660"
+                    WIDTH="1920"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c4bcb5b"
+                    TAGREFS="LT760"
+                    BASELINE="313 781 2236 786" 
+                    HPOS="310"
+                    VPOS="726"
+                    WIDTH="1926"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="313 781 310 792 2230 794 2236 786 2233 734 313 726 313 781"/></Shape>
+	    <String CONTENT="impressionnante. Il avait pris l&#39;habitude de rabattre son menton contre son"
+                    HPOS="310"
+                    VPOS="726"
+                    WIDTH="1926"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5cc63a71"
+                    TAGREFS="LT760"
+                    BASELINE="310 855 2236 855" 
+                    HPOS="310"
+                    VPOS="805"
+                    WIDTH="1926"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="310 855 310 871 2236 871 2236 855 2236 805 310 805 310 855"/></Shape>
+	    <String CONTENT="cou pour cacher cette cicatrice. Il était grand et dégingandé, et cette façon de"
+                    HPOS="310"
+                    VPOS="805"
+                    WIDTH="1926"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9960dff7"
+                    TAGREFS="LT760"
+                    BASELINE="313 924 2236 929" 
+                    HPOS="310"
+                    VPOS="871"
+                    WIDTH="1926"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="313 924 310 935 2230 940 2236 929 2233 877 313 871 313 924"/></Shape>
+	    <String CONTENT="tenir la tête lui donnait un maintien bizarre. Ces deux types aussi ont tué un"
+                    HPOS="310"
+                    VPOS="871"
+                    WIDTH="1926"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_108d092f"
+                    TAGREFS="LT760"
+                    BASELINE="310 995 2233 1001" 
+                    HPOS="308"
+                    VPOS="948"
+                    WIDTH="1925"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="310 995 308 1003 2228 1009 2233 1001 2230 954 310 948 310 995"/></Shape>
+	    <String CONTENT="tas de gens, mais il n’y a pas de commune mesure entre eux et Georges"
+                    HPOS="308"
+                    VPOS="948"
+                    WIDTH="1925"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8be28721"
+                    TAGREFS="LT760"
+                    BASELINE="310 1069 2236 1069" 
+                    HPOS="310"
+                    VPOS="1020"
+                    WIDTH="1926"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="310 1069 310 1086 2236 1086 2236 1069 2233 1020 310 1020 310 1069"/></Shape>
+	    <String CONTENT="Gerfaut, et ils ne ressemblaient pas non plus à Alonso. C&#39;était leur second"
+                    HPOS="310"
+                    VPOS="1020"
+                    WIDTH="1926"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36e08abd"
+                    TAGREFS="LT760"
+                    BASELINE="310 1146 2233 1138" 
+                    HPOS="308"
+                    VPOS="1078"
+                    WIDTH="1925"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="2211 1091 2140 1078 2137 1078 2134 1078 2131 1078 2112 1091 2071 1078 2068 1078 2065 1078 1859 1091 1821 1078 1818 1078 1815 1078 1711 1091 1554 1080 1551 1080 1548 1080 1545 1080 1529 1094 1460 1080 1457 1080 1292 1094 1017 1080 1015 1080 1012 1080 1009 1080 993 1097 841 1097 368 1083 365 1083 363 1083 308 1100 310 1146 310 1157 2230 1149 2233 1138 2230 1135 2211 1091"/></Shape>
+	    <String CONTENT="métier de tuer des gens. Auparavant, le plus jeune avait travaillé dans"
+                    HPOS="308"
+                    VPOS="1078"
+                    WIDTH="1925"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9995e550"
+                    TAGREFS="LT760"
+                    BASELINE="313 1218 2233 1212" 
+                    HPOS="310"
+                    VPOS="1160"
+                    WIDTH="1923"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="2222 1160 310 1160 313 1218 313 1232 2230 1226 2233 1212 2228 1168 2222 1160"/></Shape>
+	    <String CONTENT="l’hôtellerie comme serveur, puis réceptionniste trilingue. Et l’autre avait été"
+                    HPOS="310"
+                    VPOS="1160"
+                    WIDTH="1923"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e9595c57"
+                    TAGREFS="LT760"
+                    BASELINE="313 1287 2233 1281" 
+                    HPOS="310"
+                    VPOS="1223"
+                    WIDTH="1923"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="313 1287 313 1300 2230 1295 2233 1281 2228 1234 374 1223 371 1223 368 1223 310 1237 313 1287"/></Shape>
+	    <String CONTENT="soldat de fortune. Georges Gerfaut est cadre compercial. Son métier est de"
+                    HPOS="310"
+                    VPOS="1223"
+                    WIDTH="1923"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_855101c1"
+                    TAGREFS="LT760"
+                    BASELINE="316 1361 2233 1355" 
+                    HPOS="313"
+                    VPOS="1292"
+                    WIDTH="1920"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="313 1311 316 1361 316 1375 2230 1369 2233 1355 2228 1306 1276 1292 1273 1292 1270 1292 1268 1292 1248 1306 420 1295 418 1295 313 1309 313 1311"/></Shape>
+	    <String CONTENT="vendre à des particuliers et des collectivités, en différents endroits de France"
+                    HPOS="313"
+                    VPOS="1292"
+                    WIDTH="1920"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_436abf72"
+                    TAGREFS="LT760"
+                    BASELINE="310 1432 2236 1432" 
+                    HPOS="310"
+                    VPOS="1383"
+                    WIDTH="1926"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="310 1432 310 1446 2236 1446 2236 1432 2236 1383 310 1383 310 1432"/></Shape>
+	    <String CONTENT="et d&#39;Europe, les coûteux matériels électriques que fabrique sa boîte, une"
+                    HPOS="310"
+                    VPOS="1383"
+                    WIDTH="1926"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9de1d170"
+                    TAGREFS="LT760"
+                    BASELINE="313 1498 2236 1504" 
+                    HPOS="310"
+                    VPOS="1449"
+                    WIDTH="1926"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="313 1498 310 1509 2230 1512 2236 1504 2236 1454 313 1449 313 1498"/></Shape>
+	    <String CONTENT="filiale du groupe l. T. T., et dont il connaît le fonctionnement car il est"
+                    HPOS="310"
+                    VPOS="1449"
+                    WIDTH="1926"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3000e87f"
+                    TAGREFS="LT760"
+                    BASELINE="313 1575 2233 1570" 
+                    HPOS="310"
+                    VPOS="1523"
+                    WIDTH="1923"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="313 1575 313 1589 2230 1584 2233 1570 2228 1523 310 1523 313 1575"/></Shape>
+	    <String CONTENT="ingénieur. Et le métier d’Alonso était la guerre. Il était officier de l’armée"
+                    HPOS="310"
+                    VPOS="1523"
+                    WIDTH="1923"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0cc7b2d0"
+                    TAGREFS="LT760"
+                    BASELINE="310 1650 2230 1644" 
+                    HPOS="308"
+                    VPOS="1581"
+                    WIDTH="1922"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="310 1650 310 1661 2228 1655 2230 1644 2225 1595 1281 1581 1279 1581 1171 1595 332 1584 330 1584 327 1584 324 1584 308 1592 310 1650"/></Shape>
+	    <String CONTENT="dominicaine. Il faisait partie du S. l. M., le service d’investigation militaire."
+                    HPOS="308"
+                    VPOS="1581"
+                    WIDTH="1922"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_90507ad4"
+                    TAGREFS="LT760"
+                    BASELINE="313 1721 2236 1721" 
+                    HPOS="313"
+                    VPOS="1661"
+                    WIDTH="1923"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="313 1721 313 1735 2236 1735 2236 1721 2236 1669 313 1661 313 1721"/></Shape>
+	    <String CONTENT="Les meilleures années de sa vie, ce furent les années 55-60, qu&#39;il passa à la"
+                    HPOS="313"
+                    VPOS="1661"
+                    WIDTH="1923"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_68f7306b"
+                    TAGREFS="LT760"
+                    BASELINE="310 1793 2236 1793" 
+                    HPOS="310"
+                    VPOS="1732"
+                    WIDTH="1926"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="310 1793 310 1806 2236 1806 2236 1793 2236 1740 310 1732 310 1793"/></Shape>
+	    <String CONTENT="base aérienne de San Isidro. Il n&#39;y faisait pas la guerre. Le seul Etat à quoi la"
+                    HPOS="310"
+                    VPOS="1732"
+                    WIDTH="1926"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_96cdd6c0"
+                    TAGREFS="LT760"
+                    BASELINE="310 1864 2236 1864" 
+                    HPOS="310"
+                    VPOS="1815"
+                    WIDTH="1926"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="310 1864 310 1878 2236 1878 2236 1864 2236 1815 310 1815 310 1864"/></Shape>
+	    <String CONTENT="république dominicaine pourrait commodément faire la guerre, c&#39;est la"
+                    HPOS="310"
+                    VPOS="1815"
+                    WIDTH="1926"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e34e3c78"
+                    TAGREFS="LT760"
+                    BASELINE="310 1936 2233 1930" 
+                    HPOS="308"
+                    VPOS="1870"
+                    WIDTH="1925"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="310 1936 310 1949 2230 1944 2233 1930 2228 1881 349 1870 346 1870 343 1870 308 1883 310 1936"/></Shape>
+	    <String CONTENT="république d&#39;Haïti, parce qu&#39;elle se trouve sur la même île que la république"
+                    HPOS="308"
+                    VPOS="1870"
+                    WIDTH="1925"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fcec8ba9"
+                    TAGREFS="LT760"
+                    BASELINE="310 2007 2233 2007" 
+                    HPOS="310"
+                    VPOS="1955"
+                    WIDTH="1923"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="310 2007 310 2021 2233 2021 2233 2007 2233 1955 310 1955 310 2007"/></Shape>
+	    <String CONTENT=" dominicaine. Tous les autres pays sont séparés de la république dominicaine"
+                    HPOS="310"
+                    VPOS="1955"
+                    WIDTH="1923"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_35b9fa0e"
+                    TAGREFS="LT760"
+                    BASELINE="310 2079 2236 2079" 
+                    HPOS="310"
+                    VPOS="2029"
+                    WIDTH="1926"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="310 2079 310 2092 2236 2092 2236 2079 2236 2029 310 2029 310 2079"/></Shape>
+	    <String CONTENT=" au moins par une grande étendue d’eau. Mais il n’y avait pas non plus de"
+                    HPOS="310"
+                    VPOS="2029"
+                    WIDTH="1926"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d8b6c4c"
+                    TAGREFS="LT760"
+                    BASELINE="313 2150 2236 2150" 
+                    HPOS="313"
+                    VPOS="2087"
+                    WIDTH="1923"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="313 2150 313 2169 2236 2161 2236 2150 2236 2103 2164 2087 2162 2087 2159 2087 2120 2101 2079 2087 2076 2087 2074 2087 2071 2087 2041 2101 1312 2087 1309 2087 1125 2101 1048 2087 1045 2087 1042 2087 987 2101 833 2087 830 2087 827 2087 786 2101 772 2087 770 2087 767 2087 646 2087 643 2087 640 2087 638 2087 621 2103 313 2103 313 2150"/></Shape>
+	    <String CONTENT="guerre avec Haïti. Alonso s&#39;en trouvait bien. A la base aérienne de San"
+                    HPOS="313"
+                    VPOS="2087"
+                    WIDTH="1923"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_df0b4331"
+                    TAGREFS="LT760"
+                    BASELINE="313 2222 2236 2222" 
+                    HPOS="313"
+                    VPOS="2158"
+                    WIDTH="1923"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="313 2222 313 2235 2236 2235 2236 2222 2236 2172 2195 2158 2192 2158 2049 2158 2046 2158 2043 2158 2041 2158 2024 2172 1909 2158 1763 2158 1760 2158 1757 2158 1755 2158 1741 2172 1738 2172 1733 2172 1664 2158 1661 2158 1589 2169 1576 2172 1573 2169 1554 2158 1551 2158 1548 2158 1545 2158 1479 2169 1460 2172 1405 2169 1246 2158 1243 2158 1169 2167 1127 2172 313 2164 313 2222"/></Shape>
+	    <String CONTENT="Isidro, de concert avec son collègue et ami Elias Wessin y Wessin"
+                    HPOS="313"
+                    VPOS="2158"
+                    WIDTH="1923"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b587545e"
+                    TAGREFS="LT760"
+                    BASELINE="310 2299 2233 2293" 
+                    HPOS="308"
+                    VPOS="2241"
+                    WIDTH="1925"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="310 2299 310 2310 2230 2304 2233 2293 2225 2241 308 2244 310 2299"/></Shape>
+	    <String CONTENT="(commandant de la base et promis à un destin un peu historique quoique très"
+                    HPOS="308"
+                    VPOS="2241"
+                    WIDTH="1925"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4817cfb6"
+                    TAGREFS="LT760"
+                    BASELINE="310 2362 2233 2367" 
+                    HPOS="308"
+                    VPOS="2293"
+                    WIDTH="1925"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="2208 2299 2208 2299 2115 2312 2054 2299 2052 2299 2049 2299 2046 2299 2043 2299 2021 2312 2019 2315 2013 2312 1961 2299 1958 2299 1955 2299 1807 2310 1777 2312 1771 2310 1741 2299 1738 2299 1735 2299 1733 2299 1691 2310 1664 2315 1606 2310 1526 2299 1523 2299 1463 2307 1402 2315 1367 2304 1345 2299 1342 2299 1339 2299 1336 2299 1323 2304 1301 2315 1284 2304 1273 2296 1257 2296 1248 2304 1232 2312 1215 2304 1204 2299 1191 2299 1185 2299 1180 2304 1166 2315 1092 2315 1070 2301 1061 2299 1053 2299 1042 2299 1039 2301 1026 2315 965 2315 866 2299 861 2299 833 2299 825 2299 792 2312 602 2299 599 2299 596 2299 594 2299 574 2312 555 2299 552 2299 550 2299 547 2299 462 2312 352 2299 338 2299 335 2296 310 2293 310 2362 308 2373 2228 2378 2233 2367 2233 2323 2208 2299"/></Shape>
+	    <String CONTENT="médiocre) il envoyait les avions de la force aérienne domnicaine jusqu’à"
+                    HPOS="308"
+                    VPOS="2293"
+                    WIDTH="1925"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ece37d7"
+                    TAGREFS="LT760"
+                    BASELINE="310 2433 2233 2439" 
+                    HPOS="308"
+                    VPOS="2376"
+                    WIDTH="1925"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="310 2433 308 2444 2228 2450 2233 2439 2233 2387 310 2376 310 2433"/></Shape>
+	    <String CONTENT="Porto-Rico, d’où les avions rapportaient des alcools et d’autres denrées sans"
+                    HPOS="308"
+                    VPOS="2376"
+                    WIDTH="1925"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_98107bcb"
+                    TAGREFS="LT760"
+                    BASELINE="313 2513 2230 2508" 
+                    HPOS="310"
+                    VPOS="2444"
+                    WIDTH="1920"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="313 2513 313 2532 2228 2519 2230 2508 2225 2458 1270 2444 1268 2444 1185 2458 484 2447 481 2447 310 2461 313 2513"/></Shape>
+	    <String CONTENT="payer de droits de douane. Alonso et Elias vivaient comune des coqs en pâte."
+                    HPOS="310"
+                    VPOS="2444"
+                    WIDTH="1920"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_932aabd1"
+                    TAGREFS="LT760"
+                    BASELINE="313 2582 2228 2574" 
+                    HPOS="310"
+                    VPOS="2527"
+                    WIDTH="1918"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="313 2582 313 2596 2225 2587 2228 2574 2222 2527 310 2527 313 2582"/></Shape>
+	    <String CONTENT="Et ils étaient intouchables. Car s&#39;il n’y avait pas la guerre étrangère à Saint-"
+                    HPOS="310"
+                    VPOS="2527"
+                    WIDTH="1918"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e697c84"
+                    TAGREFS="LT760"
+                    BASELINE="313 2653 2233 2648" 
+                    HPOS="310"
+                    VPOS="2598"
+                    WIDTH="1923"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="313 2653 313 2664 2230 2662 2233 2648 2228 2604 310 2598 313 2653"/></Shape>
+	    <String CONTENT="Domingue comme dans beaucoup d’endroits, il y avait comme partout la"
+                    HPOS="310"
+                    VPOS="2598"
+                    WIDTH="1923"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9e62b350"
+                    TAGREFS="LT760"
+                    BASELINE="313 2728 2233 2722" 
+                    HPOS="310"
+                    VPOS="2659"
+                    WIDTH="1923"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="313 2728 313 2747 2230 2733 2233 2722 2228 2673 1336 2659 1334 2659 1224 2673 574 2662 572 2662 310 2675 313 2728"/></Shape>
+	    <String CONTENT="guerre sociale, et la fonction principale de l’armée domuinicaine était comme"
+                    HPOS="310"
+                    VPOS="2659"
+                    WIDTH="1923"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9321eef"
+                    TAGREFS="LT760"
+                    BASELINE="313 2799 2236 2799" 
+                    HPOS="313"
+                    VPOS="2750"
+                    WIDTH="1923"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="313 2799 313 2818 2236 2810 2236 2799 2236 2750 313 2750 313 2799"/></Shape>
+	    <String CONTENT="partout de gagner la guerre sociale chaque fois que le besoin s&#39;en faisait"
+                    HPOS="313"
+                    VPOS="2750"
+                    WIDTH="1923"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_badbde84"
+                    TAGREFS="LT760"
+                    BASELINE="313 2871 2239 2871" 
+                    HPOS="313"
+                    VPOS="2821"
+                    WIDTH="1926"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="313 2871 313 2884 2239 2884 2239 2871 2239 2821 313 2821 313 2871"/></Shape>
+	    <String CONTENT="sentir. Les tâches de renseignement du S. I. M., dans cette optique, étaient"
+                    HPOS="313"
+                    VPOS="2821"
+                    WIDTH="1926"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d6b4b044"
+                    TAGREFS="LT760"
+                    BASELINE="313 2942 2233 2937" 
+                    HPOS="304"
+                    VPOS="2876"
+                    WIDTH="1929"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="585 2939 558 2939 530 2939 503 2939 475 2939 448 2939 420 2939 393 2939 365 2939 338 2939 310 2939 313 2942 304 2954 2230 2953 2233 2937 2228 2898 1983 2887 1980 2887 1977 2887 1944 2898 1936 2901 1931 2898 1865 2876 1862 2876 1859 2876 1856 2876 1804 2901 1799 2901 1796 2901 1741 2876 1738 2876 1644 2876 1642 2876 1639 2876 1636 2876 1606 2901 1512 2876 1510 2876 1507 2876 1504 2876 1501 2876 1471 2901 1435 2876 1433 2876 1430 2876 1427 2876 1424 2876 1422 2876 1397 2898 1375 2882 1375 2879 1372 2879 1369 2879 1067 2879 1064 2879 1061 2879 1009 2904 954 2879 951 2879 949 2879 764 2904 679 2879 676 2879 673 2879 671 2879 668 2879 668 2882 311 2888 314 2935 613 2939"/></Shape>
+	    <String CONTENT="essentielles. On amenait régulièrement à San Isidro des personnes"
+                    HPOS="304"
+                    VPOS="2876"
+                    WIDTH="1929"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

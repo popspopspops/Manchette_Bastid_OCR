@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Le_Petit_Bleu_de_la_Cote_Ouest_Manchette_J-P_z-lib.org_copie_copie.pdf_page_11.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1893" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1894" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1895" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT760" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT761" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        
+        <TextBlock HPOS="283"
+                   VPOS="282"
+                   WIDTH="1956"
+                   HEIGHT="477"
+                   ID="eSc_textblock_56318080"
+                   TAGREFS="BT1893">
+          <Shape><Polygon POINTS="283 282 283 759 2239 759 2239 282"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1f953d90"
+                    TAGREFS="LT760"
+                    BASELINE="308 352 2236 357" 
+                    HPOS="305"
+                    VPOS="299"
+                    WIDTH="1931"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="2148 299 2120 299 2101 299 2079 305 1928 299 1900 299 1873 299 1845 299 1818 299 1790 299 1763 299 1735 299 1708 299 1680 299 1661 299 1636 305 1633 305 1631 305 1592 299 1570 299 1543 299 1515 299 1488 299 1460 299 1413 305 1405 305 1397 305 1342 299 1323 299 1295 299 1268 299 1240 299 1213 299 1185 299 1182 299 1174 302 1141 299 1130 299 1103 299 1075 299 1048 299 1020 299 993 299 965 299 938 299 918 299 896 302 891 299 883 302 855 302 827 302 800 302 772 302 745 302 717 302 690 305 662 305 635 305 607 305 580 305 552 305 525 305 497 308 470 308 442 308 415 308 387 308 360 308 332 308 308 352 305 360 2230 365 2236 357 2233 308 2186 299 2175 299"/></Shape>
+	    <String CONTENT="masturbait sans grand succès. A plusieurs reprises, ainsi, les soirs, il se"
+                    HPOS="305"
+                    VPOS="299"
+                    WIDTH="1931"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d70c7ef"
+                    TAGREFS="LT760"
+                    BASELINE="308 426 2236 420" 
+                    HPOS="308"
+                    VPOS="360"
+                    WIDTH="1928"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="2230 376 2225 371 1270 360 1268 360 1265 360 1232 374 1229 376 324 376 308 426 308 440 2233 434 2236 420 2230 374 2230 376"/></Shape>
+	    <String CONTENT="relevait et errant dans la maison, son livre à la main, son médius marquant la"
+                    HPOS="308"
+                    VPOS="360"
+                    WIDTH="1928"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e272d67f"
+                    TAGREFS="LT760"
+                    BASELINE="308 503 2236 495" 
+                    HPOS="308"
+                    VPOS="431"
+                    WIDTH="1928"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="308 503 308 517 2233 503 2236 495 2233 470 2230 445 1779 431 1777 431 324 448 308 503"/></Shape>
+	    <String CONTENT="page, et parfois semblablement sa verge lasse dépassant de sa braguette de"
+                    HPOS="308"
+                    VPOS="431"
+                    WIDTH="1928"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11e998ef"
+                    TAGREFS="LT760"
+                    BASELINE="310 577 2236 569" 
+                    HPOS="308"
+                    VPOS="503"
+                    WIDTH="1928"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="310 577 310 591 2233 577 2236 569 2230 517 1603 503 1600 503 1521 517 1037 506 1034 506 910 519 374 508 371 508 308 522 310 577"/></Shape>
+	    <String CONTENT="pyjama, et il vérifiait que toutes les fenêtres étaient bien fermées. Elles"
+                    HPOS="308"
+                    VPOS="503"
+                    WIDTH="1928"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b7adae82"
+                    TAGREFS="LT760"
+                    BASELINE="313 640 2233 640" 
+                    HPOS="313"
+                    VPOS="577"
+                    WIDTH="1920"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="929 577 927 577 924 577 899 585 883 591 866 585 847 577 844 577 841 577 838 577 814 585 789 591 313 583 313 640 313 657 2233 657 2233 640 2233 591 2197 577 2195 577 2049 577 2046 577 2043 577 2041 577 2027 591 1975 577 1972 577 1969 577 1966 577 1939 591 1911 577 1909 577 1906 577 1903 577 1900 577 1878 591 1832 577 1829 577 1826 577 1708 591 1688 591 1680 591 1631 577 1628 577 1625 577 1622 577 1598 588 1592 591 1565 588 1441 577 1438 577 1325 588 1281 591 1232 588 1133 577 987 577 984 577 982 577 979 577 971 585 965 591 951 585 932 577 929 577"/></Shape>
+	    <String CONTENT="l&#39;étaient toujours. Et il donnait un supplément de viande à la femelle"
+                    HPOS="313"
+                    VPOS="577"
+                    WIDTH="1920"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ed51553"
+                    TAGREFS="LT760"
+                    BASELINE="310 712 1895 712" 
+                    HPOS="310"
+                    VPOS="646"
+                    WIDTH="1598"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1896 660 1697 646 1694 646 1628 660 1625 660 1584 646 1581 646 1578 646 1433 660 1416 662 1196 662 1193 660 1166 646 1163 646 1160 646 1158 646 1125 660 1119 660 1114 660 1078 646 1075 646 1072 646 1070 646 1031 657 1026 660 1023 657 1006 646 1004 646 1001 646 866 646 863 646 861 646 858 646 858 649 847 657 847 660 844 657 816 646 814 646 811 646 808 646 772 657 764 660 759 657 742 646 739 646 737 646 734 646 310 654 310 712 310 731 1895 731 1895 712 1906 723 1908 707"/></Shape>
+	    <String CONTENT="bullmastiff Elizabeth. Elizabeth, Georges Gerfaut l&#39;a tuée aussi."
+                    HPOS="310"
+                    VPOS="646"
+                    WIDTH="1598"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Le_Petit_Bleu_de_la_Cote_Ouest_Manchette_J-P_z-lib.org_copie_copie.pdf_page_5.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1893" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1894" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1895" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT760" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT761" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        
+        <TextBlock HPOS="281"
+                   VPOS="284"
+                   WIDTH="1977"
+                   HEIGHT="392"
+                   ID="eSc_textblock_8917908d"
+                   TAGREFS="BT1893">
+          <Shape><Polygon POINTS="290 288 281 676 2258 676 2258 284"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_387d31a8"
+                    TAGREFS="LT760"
+                    BASELINE="404 354 2236 354" 
+                    HPOS="404"
+                    VPOS="305"
+                    WIDTH="1832"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="404 354 404 368 2233 368 2236 354 2233 305 423 305 407 319"/></Shape>
+	    <String CONTENT="La raison pour laquelle Georges file ainsi sur le périphérique avec des"
+                    HPOS="404"
+                    VPOS="305"
+                    WIDTH="1832"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_de017254"
+                    TAGREFS="LT760"
+                    BASELINE="308 426 2236 420" 
+                    HPOS="308"
+                    VPOS="360"
+                    WIDTH="1928"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="332 382 308 426 308 440 2233 434 2236 420 2230 374 1378 360 1375 360 1276 374 1265 376 360 376 332 382"/></Shape>
+	    <String CONTENT="réflexes diminués et en écoutant cette musique-là, il faut la chercher surtout"
+                    HPOS="308"
+                    VPOS="360"
+                    WIDTH="1928"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6858ab48"
+                    TAGREFS="LT760"
+                    BASELINE="308 500 2236 500" 
+                    HPOS="308"
+                    VPOS="451"
+                    WIDTH="1928"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="308 500 308 511 2236 511 2236 500 2236 451 324 451 308 500"/></Shape>
+	    <String CONTENT="dans la place de Georges dans les rapports de production. Le fait que"
+                    HPOS="308"
+                    VPOS="451"
+                    WIDTH="1928"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e0fea70c"
+                    TAGREFS="LT760"
+                    BASELINE="308 572 2236 563" 
+                    HPOS="308"
+                    VPOS="503"
+                    WIDTH="1928"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1589 503 1587 503 1584 503 1565 517 1562 517 1534 517 971 506 968 506 965 506 962 506 943 519 940 522 324 522 308 572 308 585 2233 585 2236 563 2230 517 1592 503 1589 503"/></Shape>
+	    <String CONTENT="Georges a tué au moins deux homnes au cours de l’année n’entre pas en"
+                    HPOS="308"
+                    VPOS="503"
+                    WIDTH="1928"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4f050652"
+                    TAGREFS="LT760"
+                    BASELINE="313 643 2005 638" 
+                    HPOS="310"
+                    VPOS="585"
+                    WIDTH="1695"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1991 585 310 585 313 643 313 657 2002 654 2005 638 2002 632 1991 585"/></Shape>
+	    <String CONTENT="ligne de compte. Ce qui arrive à présent arrivait parfois auparavant."
+                    HPOS="310"
+                    VPOS="585"
+                    WIDTH="1695"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

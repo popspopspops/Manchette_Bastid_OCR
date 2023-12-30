@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Le_Petit_Bleu_de_la_Cote_Ouest_Manchette_J-P_z-lib.org_copie_copie.pdf_page_6.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1893" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1894" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1895" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="LT760" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT761" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3300"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3300">
+        
+        <TextBlock HPOS="294"
+                   VPOS="482"
+                   WIDTH="1950"
+                   HEIGHT="2511"
+                   ID="eSc_textblock_15414fc7"
+                   TAGREFS="BT1893">
+          <Shape><Polygon POINTS="298 523 294 2993 2236 2993 2244 482"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3c69640f"
+                    TAGREFS="LT761"
+                    BASELINE="1298 577 1347 577" 
+                    HPOS="1298"
+                    VPOS="541"
+                    WIDTH="49"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="1298 541 1298 577 1298 594 1347 588 1347 577 1345 555 1339 541"/></Shape>
+	    <String CONTENT="2"
+                    HPOS="1298"
+                    VPOS="541"
+                    WIDTH="49"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a33ccac3"
+                    TAGREFS="LT760"
+                    BASELINE="404 808 2233 808" 
+                    HPOS="404"
+                    VPOS="759"
+                    WIDTH="1829"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="2192 770 2164 770 2137 770 2109 770 2082 770 2054 770 2027 770 1999 767 1972 767 1944 767 1917 767 1889 767 1862 767 1834 767 1807 767 1779 764 1752 764 1724 764 1697 764 1669 764 1642 764 1614 764 1587 764 1559 764 1532 761 1504 761 1477 761 1449 761 1422 761 1394 761 1367 761 1339 761 1312 759 1284 759 1257 759 1229 759 1202 759 1174 759 1147 759 1119 759 420 759 404 772 404 808 404 822 2233 822 2233 808 2233 770 2219 770"/></Shape>
+	    <String CONTENT="Alonso Emerich y Emerich était aussi quelqu’un qui a tué des hommes,"
+                    HPOS="404"
+                    VPOS="759"
+                    WIDTH="1829"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c4b50e7"
+                    TAGREFS="LT760"
+                    BASELINE="310 874 2236 880" 
+                    HPOS="308"
+                    VPOS="825"
+                    WIDTH="1928"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="335 827 310 836 310 874 308 882 2230 888 2236 880 2233 830 343 825 335 827"/></Shape>
+	    <String CONTENT="en beaucoup plus grand nombre que Georges Gerfaut. Il n’y a pas de"
+                    HPOS="308"
+                    VPOS="825"
+                    WIDTH="1928"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f9bb92dd"
+                    TAGREFS="LT760"
+                    BASELINE="310 951 2233 951" 
+                    HPOS="310"
+                    VPOS="902"
+                    WIDTH="1923"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="310 951 310 965 2233 965 2233 951 2233 902 310 902 310 951"/></Shape>
+	    <String CONTENT=" commune mesure entre Georges et Alonso. Alonso était né dans les années"
+                    HPOS="310"
+                    VPOS="902"
+                    WIDTH="1923"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6f4bf99d"
+                    TAGREFS="LT760"
+                    BASELINE="316 1023 2236 1023" 
+                    HPOS="316"
+                    VPOS="959"
+                    WIDTH="1920"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="316 1023 316 1036 2236 1036 2236 1023 2236 976 1801 976 1799 973 1777 959 1774 959 1771 959 1768 959 1766 959 1733 973 1727 973 1545 959 1543 959 1369 973 1358 973 1353 973 1279 959 1276 959 1273 959 1232 973 1229 973 1224 973 1136 959 1133 959 316 970 316 1023"/></Shape>
+	    <String CONTENT="vingt en république dominicaine. Le redoublement de son patronyme"
+                    HPOS="316"
+                    VPOS="959"
+                    WIDTH="1920"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8e62e9a"
+                    TAGREFS="LT760"
+                    BASELINE="313 1094 2236 1094" 
+                    HPOS="313"
+                    VPOS="1045"
+                    WIDTH="1923"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="313 1094 313 1116 2236 1105 2236 1094 2236 1045 313 1045 313 1094"/></Shape>
+	    <String CONTENT="germanique nous indique, comme pour son ami et proche conpagnon d&#39;armes"
+                    HPOS="313"
+                    VPOS="1045"
+                    WIDTH="1923"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e094cab4"
+                    TAGREFS="LT760"
+                    BASELINE="310 1168 2233 1160" 
+                    HPOS="308"
+                    VPOS="1097"
+                    WIDTH="1925"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1774 1097 1606 1111 1584 1113 308 1113 310 1168 310 1182 2230 1174 2233 1160 2228 1111 1777 1097 1774 1097"/></Shape>
+	    <String CONTENT="le général Elias Wessin y Wessin, que sa famille appartenait à l&#39;élite blanche"
+                    HPOS="308"
+                    VPOS="1097"
+                    WIDTH="1925"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7fc548c3"
+                    TAGREFS="LT760"
+                    BASELINE="310 1234 2236 1240" 
+                    HPOS="308"
+                    VPOS="1185"
+                    WIDTH="1928"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="310 1234 308 1243 2230 1248 2236 1240 2233 1190 310 1185 310 1234"/></Shape>
+	    <String CONTENT="de l&#39;île et entendait le marquer par ce redoublement, entendait signaler la"
+                    HPOS="308"
+                    VPOS="1185"
+                    WIDTH="1928"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa31e7bf"
+                    TAGREFS="LT760"
+                    BASELINE="313 1314 2230 1306" 
+                    HPOS="310"
+                    VPOS="1256"
+                    WIDTH="1920"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="313 1314 313 1333 2228 1325 2230 1306 2222 1256 310 1262 313 1314"/></Shape>
+	    <String CONTENT="pureté de son sang, indemme de tout croisement avec des races inférieures,"
+                    HPOS="310"
+                    VPOS="1256"
+                    WIDTH="1920"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c55e8378"
+                    TAGREFS="LT760"
+                    BASELINE="313 1377 1083 1383" 
+                    HPOS="310"
+                    VPOS="1325"
+                    WIDTH="773"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="313 1377 310 1388 1078 1394 1083 1383 1081 1333 313 1325 313 1377"/></Shape>
+	    <String CONTENT="indienne, juive, nègre ou autre."
+                    HPOS="310"
+                    VPOS="1325"
+                    WIDTH="773"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ddd1d38"
+                    TAGREFS="LT760"
+                    BASELINE="404 1452 2241 1452" 
+                    HPOS="404"
+                    VPOS="1397"
+                    WIDTH="1837"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="404 1452 404 1465 2241 1465 2241 1452 2241 1405 404 1397 404 1452"/></Shape>
+	    <String CONTENT="Dans les derniers temps de sa vie, Alonso était un quinquagénaire au"
+                    HPOS="404"
+                    VPOS="1397"
+                    WIDTH="1837"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_15234674"
+                    TAGREFS="LT760"
+                    BASELINE="313 1526 2233 1520" 
+                    HPOS="310"
+                    VPOS="1463"
+                    WIDTH="1923"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="313 1526 313 1540 2230 1534 2233 1520 2228 1474 324 1463 321 1463 319 1463 316 1463 316 1465 313 1465 310 1465 313 1526"/></Shape>
+	    <String CONTENT="teint brun, au corps dodu, aux tempes teintes, qui habitait une grosse ferme"
+                    HPOS="310"
+                    VPOS="1463"
+                    WIDTH="1923"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7fdde835"
+                    TAGREFS="LT760"
+                    BASELINE="310 1597 2236 1592" 
+                    HPOS="308"
+                    VPOS="1534"
+                    WIDTH="1928"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="310 1597 310 1608 2233 1603 2236 1592 2230 1545 332 1534 330 1534 327 1534 324 1534 308 1542 310 1597"/></Shape>
+	    <String CONTENT="dans une très vaste propriété, à Vilneuil qui est un hameau situé à trente"
+                    HPOS="308"
+                    VPOS="1534"
+                    WIDTH="1928"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e936e3a"
+                    TAGREFS="LT760"
+                    BASELINE="310 1666 2230 1672" 
+                    HPOS="308"
+                    VPOS="1611"
+                    WIDTH="1922"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="310 1666 308 1674 2225 1683 2230 1672 2228 1619 310 1611 310 1666"/></Shape>
+	    <String CONTENT="kilomètres de Magny-en-Vexin en France. Dans les derniers temps de sa vie,"
+                    HPOS="308"
+                    VPOS="1611"
+                    WIDTH="1922"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_90b2876d"
+                    TAGREFS="LT760"
+                    BASELINE="310 1743 2236 1743" 
+                    HPOS="310"
+                    VPOS="1691"
+                    WIDTH="1926"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="310 1743 310 1757 2236 1757 2236 1743 2236 1691 310 1691 310 1743"/></Shape>
+	    <String CONTENT="Alonso se faisait appeler Taylor. Le courrier qu&#39;il recevait, qui était très peu"
+                    HPOS="310"
+                    VPOS="1691"
+                    WIDTH="1926"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6a3a5a84"
+                    TAGREFS="LT760"
+                    BASELINE="310 1815 2233 1815" 
+                    HPOS="310"
+                    VPOS="1762"
+                    WIDTH="1923"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="310 1815 310 1828 2233 1828 2233 1815 2233 1762 310 1762 310 1815"/></Shape>
+	    <String CONTENT=" abondant, était adressé à Monsieur Taylor, ou parfois au Colonel Taylor."
+                    HPOS="310"
+                    VPOS="1762"
+                    WIDTH="1923"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ecd4c8e5"
+                    TAGREFS="LT760"
+                    BASELINE="310 1886 2236 1881" 
+                    HPOS="308"
+                    VPOS="1831"
+                    WIDTH="1928"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="2211 1831 308 1834 310 1886 310 1900 2233 1894 2236 1881 2233 1875 2211 1831"/></Shape>
+	    <String CONTENT="Auprès des fournisseurs et des voisins, il passait pour un nord-américain ou"
+                    HPOS="308"
+                    VPOS="1831"
+                    WIDTH="1928"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_393342fc"
+                    TAGREFS="LT760"
+                    BASELINE="313 1958 2239 1958" 
+                    HPOS="313"
+                    VPOS="1905"
+                    WIDTH="1926"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="313 1958 313 1977 2239 1969 2239 1958 2239 1905 313 1905 313 1958"/></Shape>
+	    <String CONTENT="peut-être un britannique qui avait longtemps vécu aux colonies où il avait fait"
+                    HPOS="313"
+                    VPOS="1905"
+                    WIDTH="1926"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a45c6b0d"
+                    TAGREFS="LT760"
+                    BASELINE="313 2029 943 2029" 
+                    HPOS="313"
+                    VPOS="1980"
+                    WIDTH="630"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="313 2029 313 2043 943 2043 943 2029 943 1980 313 1980 313 2029"/></Shape>
+	    <String CONTENT="fortune par le commerce."
+                    HPOS="313"
+                    VPOS="1980"
+                    WIDTH="630"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d55c2964"
+                    TAGREFS="LT760"
+                    BASELINE="404 2095 2236 2101" 
+                    HPOS="401"
+                    VPOS="2040"
+                    WIDTH="1835"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="404 2095 401 2106 2230 2112 2236 2101 2233 2043 404 2040 404 2095"/></Shape>
+	    <String CONTENT="En fait, Alonso était très riche mais menait une existence misérable. Il"
+                    HPOS="401"
+                    VPOS="2040"
+                    WIDTH="1835"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_882d246c"
+                    TAGREFS="LT760"
+                    BASELINE="316 2167 2236 2172" 
+                    HPOS="313"
+                    VPOS="2117"
+                    WIDTH="1923"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="316 2167 313 2178 2230 2183 2236 2172 2233 2123 316 2117 316 2167"/></Shape>
+	    <String CONTENT="vivait absolument seul. Il avait peur. Personne ne travaillait la terre de sa"
+                    HPOS="313"
+                    VPOS="2117"
+                    WIDTH="1923"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0cc7f6d"
+                    TAGREFS="LT760"
+                    BASELINE="316 2244 2233 2238" 
+                    HPOS="313"
+                    VPOS="2180"
+                    WIDTH="1920"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="316 2244 316 2257 2230 2252 2233 2238 2228 2194 1314 2180 1312 2180 1221 2194 1213 2197 313 2197 316 2244"/></Shape>
+	    <String CONTENT="vaste propriété, et il n&#39;y avait pas de domestiques dans la demeure, parce"
+                    HPOS="313"
+                    VPOS="2180"
+                    WIDTH="1920"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2463f5a8"
+                    TAGREFS="LT760"
+                    BASELINE="310 2318 2230 2318" 
+                    HPOS="310"
+                    VPOS="2260"
+                    WIDTH="1920"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="310 2318 310 2332 2230 2332 2230 2318 2228 2260 310 2266 310 2318"/></Shape>
+	    <String CONTENT="qu&#39;Alonso ne voulait laisser entrer personne. Les seules personnes qu&#39;il"
+                    HPOS="310"
+                    VPOS="2260"
+                    WIDTH="1920"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3cb1a954"
+                    TAGREFS="LT760"
+                    BASELINE="313 2389 2233 2384" 
+                    HPOS="310"
+                    VPOS="2332"
+                    WIDTH="1923"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="313 2389 313 2403 2230 2398 2233 2384 2228 2334 310 2332 313 2389"/></Shape>
+	    <String CONTENT="laissait entrer, durant la brève période qu&#39;il a passée ici et qui constitue les"
+                    HPOS="310"
+                    VPOS="2332"
+                    WIDTH="1923"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8dc453c4"
+                    TAGREFS="LT760"
+                    BASELINE="310 2461 2236 2455" 
+                    HPOS="308"
+                    VPOS="2406"
+                    WIDTH="1928"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="310 2461 310 2472 2233 2466 2236 2455 2228 2406 308 2409 310 2461"/></Shape>
+	    <String CONTENT="derniers temps de sa vie, c&#39;étaient deux tvpes au vocabulaire très limité et"
+                    HPOS="308"
+                    VPOS="2406"
+                    WIDTH="1928"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c5e91d85"
+                    TAGREFS="LT760"
+                    BASELINE="313 2535 2236 2530" 
+                    HPOS="310"
+                    VPOS="2466"
+                    WIDTH="1926"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="313 2535 313 2554 2233 2541 2236 2530 2230 2480 1284 2466 1281 2466 1155 2480 376 2469 374 2469 310 2483 313 2535"/></Shape>
+	    <String CONTENT="précis, en complet sombre, qui circulaient dans une Lancia Beta Berline"
+                    HPOS="310"
+                    VPOS="2466"
+                    WIDTH="1926"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d96c8c52"
+                    TAGREFS="LT760"
+                    BASELINE="316 2604 2236 2604" 
+                    HPOS="316"
+                    VPOS="2552"
+                    WIDTH="1920"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="316 2604 316 2618 2236 2618 2236 2604 2236 2554 316 2552 316 2604"/></Shape>
+	    <String CONTENT="1800 écarlate, ce qui n’est pas discret et ne leur ressemble pas. L&#39;un des"
+                    HPOS="316"
+                    VPOS="2552"
+                    WIDTH="1920"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52112284"
+                    TAGREFS="LT760"
+                    BASELINE="310 2675 2236 2675" 
+                    HPOS="310"
+                    VPOS="2626"
+                    WIDTH="1926"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="310 2675 310 2689 2236 2689 2236 2675 2236 2626 310 2626 310 2675"/></Shape>
+	    <String CONTENT="deux types était plus petit et plus jeune que l&#39;autre, avec des cheveux noirs"
+                    HPOS="310"
+                    VPOS="2626"
+                    WIDTH="1926"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4faca7fc"
+                    TAGREFS="LT760"
+                    BASELINE="310 2750 2236 2741" 
+                    HPOS="308"
+                    VPOS="2681"
+                    WIDTH="1928"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="310 2750 310 2763 2233 2758 2236 2741 2230 2692 995 2681 993 2681 990 2681 946 2695 390 2684 387 2684 308 2697 310 2750"/></Shape>
+	    <String CONTENT="ondulés et des yeux d’un très joli bleu. Il plaisait aux femes. Au bout d’un"
+                    HPOS="308"
+                    VPOS="2681"
+                    WIDTH="1928"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd877136"
+                    TAGREFS="LT760"
+                    BASELINE="310 2818 2233 2813" 
+                    HPOS="308"
+                    VPOS="2752"
+                    WIDTH="1925"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="310 2818 310 2832 2230 2827 2233 2813 2230 2769 2167 2752 2164 2752 2162 2752 2159 2752 2156 2752 2134 2766 1953 2752 1950 2752 1843 2766 1691 2752 1688 2752 1686 2752 1683 2752 1669 2766 1642 2752 1639 2752 1636 2752 1496 2766 1438 2752 1435 2752 1433 2752 1430 2752 1378 2766 1334 2752 1331 2752 1328 2752 1248 2769 1191 2755 1188 2755 1185 2755 1182 2755 1152 2769 720 2755 717 2755 715 2755 671 2769 583 2755 580 2755 577 2755 522 2769 503 2755 500 2755 497 2755 495 2755 308 2772 310 2818"/></Shape>
+	    <String CONTENT="moment, elles découvraient que la seule chose qui l&#39;intéressait chez les"
+                    HPOS="308"
+                    VPOS="2752"
+                    WIDTH="1925"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d912c95e"
+                    TAGREFS="LT760"
+                    BASELINE="313 2893 2239 2887" 
+                    HPOS="310"
+                    VPOS="2824"
+                    WIDTH="1929"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="313 2893 313 2904 2236 2898 2239 2887 2233 2838 1276 2824 1273 2824 1270 2824 1268 2824 1268 2827 1254 2838 324 2827 321 2827 319 2827 316 2827 316 2829 313 2829 310 2829 313 2893"/></Shape>
+	    <String CONTENT="femmes, c&#39;était qu’elles le battent. Lui, il ne les battait pas, et il ne voulait"
+                    HPOS="310"
+                    VPOS="2824"
+                    WIDTH="1929"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c7c7501"
+                    TAGREFS="LT760"
+                    BASELINE="313 2959 2230 2964" 
+                    HPOS="310"
+                    VPOS="2909"
+                    WIDTH="1920"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="313 2959 310 2972 2225 2981 2230 2964 2228 2915 313 2909 313 2959"/></Shape>
+	    <String CONTENT="absolument pas les pénétrer non plus. Alors les femmes rompaient avec lui,"
+                    HPOS="310"
+                    VPOS="2909"
+                    WIDTH="1920"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
