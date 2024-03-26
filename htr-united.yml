@@ -1,34 +1,136 @@
-schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-title: Manchette_Bastid_OCR
-url: https://github.com/popspopspops/Manchette_Bastid_OCR
 authors:
-  - name: Sophie
-    surname: Dolto
-    roles:
-      - transcriber
-      - project-manager
-institutions: []
+- name: Sophie
+  roles:
+  - transcriber
+  - project-manager
+  surname: Dolto
+automatically-aligned: false
+characters:
+  members:
+  - e
+  - a
+  - s
+  - t
+  - i
+  - r
+  - n
+  - u
+  - l
+  - o
+  - d
+  - c
+  - p
+  - m
+  - .
+  - ́
+  - ','
+  - v
+  - ’
+  - g
+  - b
+  - f
+  - h
+  - ̀
+  - q
+  - ̂
+  - —
+  - L
+  - x
+  - j
+  - I
+  - '-'
+  - y
+  - E
+  - J
+  - C
+  - M
+  - A
+  - z
+  - P
+  - S
+  - "'"
+  - T
+  - D
+  - '?'
+  - '!'
+  - ̧
+  - B
+  - O
+  - R
+  - V
+  - U
+  - N
+  - G
+  - F
+  - ;
+  - Q
+  - k
+  - ':'
+  - H
+  - ̈
+  - œ
+  - ¬
+  - '1'
+  - '2'
+  - '0'
+  - (
+  - )
+  - '6'
+  - Y
+  - '4'
+  - w
+  - «
+  - »
+  - “
+  - '9'
+  - Z
+  - K
+  - '3'
+  - '5'
+  - W
+  - '8'
+  - X
+  - '7'
+  - ”
+  -  
+  - /
+  - '"'
+  - –
+  - '*'
+  - °
+  mode: NFD
 description: >-
   Collecte des textes de JP Manchette et JP Bastid, dans le cadre du certficat
   en humanités numériques
-project-name: FoNDUE
-language:
-  - fra
-production-software: eScriptorium + Kraken
-automatically-aligned: false
-script:
-  - iso: Latn
-script-type: only-typed
-time:
-  notBefore: '1970'
-  notAfter: '2003'
+format: Alto-XML
 hands:
   count: '1'
   precision: exact
+institutions: []
+language:
+- fra
 license:
   type: CC-BY
   version: 4.0
-format: Alto-XML
+production-software: eScriptorium + Kraken
+project-name: FoNDUE
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Latn
+script-type: only-typed
+time:
+  notAfter: '2003'
+  notBefore: '1970'
+title: Manchette_Bastid_OCR
+url: https://github.com/popspopspops/Manchette_Bastid_OCR
 volume:
-  - metric: pages
-    count: 25
+- count: 340602
+  metric: characters
+- count: 230
+  metric: files
+- count: 6730
+  metric: lines
+- count: 25
+  metric: pages
+- count: 240
+  metric: regions
