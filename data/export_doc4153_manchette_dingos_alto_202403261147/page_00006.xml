@@ -195,12 +195,6 @@
           </TextLine>
 
           
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
           
           <TextLine ID="line_9"
                     TAGREFS="LT4328"
@@ -220,6 +214,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>
