@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>page_00049.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT11002" LABEL="MaineZone" DESCRIPTION="block type MaineZone"/><OtherTag ID="BT11004" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT11005" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT11006" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT11009" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT11010" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="LT4328" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4329" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4330" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3301"
+          PHYSICAL_IMG_NR="44"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3301">
+        
+        <TextBlock HPOS="278.82623291015625"
+                   VPOS="261.86663818359375"
+                   WIDTH="1979.8995971679688"
+                   HEIGHT="1599.0308227539062"
+                   ID="block_0"
+                   TAGREFS="BT11009">
+          <Shape><Polygon POINTS="278.826 261.867 2258.73 261.867 2258.73 1860.9 278.826 1860.9 278.826 261.867"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT4328"
+                    BASELINE="315 346 2232 346" 
+                    HPOS="315"
+                    VPOS="297"
+                    WIDTH="1917"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="315 346 315 361 2232 361 2232 346 2232 308 2188 297 2186 297 2062 297 2060 297 2058 297 2056 297 2038 308 2016 297 2014 297 2012 297 2010 297 1973 308 1970 308 1968 308 1929 297 1928 297 1926 297 1924 297 1887 308 1882 309 1807 309 1803 306 1779 297 1777 297 1775 297 1696 306 1673 309 1355 309 1337 304 1309 297 1308 297 1306 297 1304 297 1302 297 1291 304 1282 309 1216 309 1194 302 1170 297 1168 297 1166 297 1164 297 1153 302 1142 308 1122 302 1102 297 1100 297 1098 297 1065 302 1031 308 997 302 970 297 968 297 966 297 948 302 924 308 898 300 882 297 880 297 878 297 876 297 864 300 842 308 827 300 818 297 816 297 746 297 744 297 742 297 735 300 719 308 642 300 610 297 609 297 607 297 605 297 601 298 585 309 410 309 315 298 315 346"/></Shape>
+	    <String CONTENT="Thompson, immobile, les bras le long du corps, sa carabine près de lui. La"
+                    HPOS="315"
+                    VPOS="297"
+                    WIDTH="1917"
+                    HEIGHT="64"
+                    WC="0.9950104443232218"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT4328"
+                    BASELINE="311 421 2131 416" 
+                    HPOS="310"
+                    VPOS="368"
+                    WIDTH="1821"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="311 421 311 443 361 434 807 441 915 441 917 441 928 440 963 432 2129 432 2131 416 2129 381 2091 368 2089 368 2087 368 2085 368 2056 379 1959 368 1957 368 1955 368 1929 379 1902 368 1900 368 1898 368 1896 368 1895 368 1876 381 1773 381 1737 368 1735 368 1733 368 1731 368 1729 368 1709 381 1612 381 1572 368 1570 368 1568 368 1507 381 1478 370 1476 370 1474 370 1473 370 1432 381 1342 370 1341 370 1339 370 1311 383 1076 383 975 370 974 370 876 383 469 372 467 372 465 372 464 372 447 383 310 385 311 421"/></Shape>
+	    <String CONTENT="jeune fille fut certaine que l’homme non plus n’avait pas dormi de la nuit."
+                    HPOS="310"
+                    VPOS="368"
+                    WIDTH="1821"
+                    HEIGHT="75"
+                    WC="0.9958320085207621"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT4328"
+                    BASELINE="372 507 2230 495" 
+                    HPOS="369"
+                    VPOS="437"
+                    WIDTH="1858"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="371 506 371 522 2225 517 2227 492 2222 453 2018 437 2015 437 2013 437 2010 437 2010 440 1996 453 1955 453 1853 453 1823 453 1539 440 1536 440 1533 440 1487 453 1478 456 1434 453 1236 442 1233 442 1230 442 1206 456 1203 456 1200 456 1170 442 1167 442 1164 442 1162 442 1159 442 1159 445 1148 456 1145 459 369 459 371 506"/></Shape>
+	    <String CONTENT="Peter fut éveillé par la lumière à six heures quinze et se leva aussitôt pour"
+                    HPOS="369"
+                    VPOS="437"
+                    WIDTH="1858"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT4328"
+                    BASELINE="311 574 2232 570" 
+                    HPOS="310"
+                    VPOS="522"
+                    WIDTH="1922"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="311 574 311 586 2230 583 2232 570 2230 535 2195 522 2194 522 2192 522 2122 533 1939 522 1937 522 1935 522 1911 535 1729 535 1706 522 1704 522 1702 522 1634 531 1594 522 1592 522 1590 522 1588 522 1546 533 1416 522 1414 522 1412 522 1410 522 1390 535 1269 535 1201 524 1199 524 1197 524 1153 535 1117 524 1115 524 1113 524 814 535 768 524 766 524 765 524 686 535 667 524 665 524 664 524 574 524 572 524 570 524 568 524 548 537 392 537 341 524 339 524 337 524 310 535 311 574"/></Shape>
+	    <String CONTENT="s’assurer de la présence de Julie. La jeune femme le hissa jusqu’à elle et le"
+                    HPOS="310"
+                    VPOS="522"
+                    WIDTH="1922"
+                    HEIGHT="64"
+                    WC="0.9885847930666767"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT4328"
+                    BASELINE="311 645 840 641" 
+                    HPOS="310"
+                    VPOS="596"
+                    WIDTH="530"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="511 607 506 599 407 608 396 599 396 597 394 597 392 597 324 597 322 597 321 597 319 597 319 599 310 607 311 645 311 656 840 652 840 641 836 608 785 596 783 596 555 608 537 597 535 597 533 597 532 597 515 597 511 607"/></Shape>
+	    <String CONTENT="tint serré contre elle."
+                    HPOS="310"
+                    VPOS="596"
+                    WIDTH="530"
+                    HEIGHT="60"
+                    WC="0.9845853000879288"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT4328"
+                    BASELINE="377 720 1640 720" 
+                    HPOS="377"
+                    VPOS="673"
+                    WIDTH="1263"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="377 720 377 735 1640 735 1640 720 1640 687 1487 673 1485 673 1484 673 1482 673 1469 685 1300 685 1243 673 1241 673 1240 673 1238 673 1238 674 1223 687 1192 687 1130 673 1128 673 1126 673 1100 687 1049 687 1031 673 1029 673 1027 673 968 673 966 673 964 673 963 673 950 685 854 685 748 673 746 673 744 673 742 673 728 685 662 685 552 673 550 673 548 673 513 685 469 673 467 673 465 673 464 673 462 673 462 674 447 687 377 687 377 720"/></Shape>
+	    <String CONTENT="— Je t’aime mieux que Marcelle, dit encore Peter."
+                    HPOS="377"
+                    VPOS="673"
+                    WIDTH="1263"
+                    HEIGHT="62"
+                    WC="0.9978640055169865"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT4328"
+                    BASELINE="377 803 2230 803" 
+                    HPOS="377"
+                    VPOS="757"
+                    WIDTH="1853"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="377 816 2228 817 2230 803 2228 757 377 757 377 803"/></Shape>
+	    <String CONTENT="Thompson quitta son lit et alla faire du café. Le bruit réveilla Bibi qui"
+                    HPOS="377"
+                    VPOS="757"
+                    WIDTH="1853"
+                    HEIGHT="60"
+                    WC="0.9875772221883138"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT4328"
+                    BASELINE="311 876 2230 872" 
+                    HPOS="310"
+                    VPOS="827"
+                    WIDTH="1920"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="311 876 311 889 2228 885 2230 872 2227 838 2173 827 2172 827 2107 836 2040 827 2038 827 2036 827 2001 836 1983 827 1981 827 1979 827 1773 836 1733 827 1731 827 1729 827 1623 836 1542 827 1541 827 1405 836 1357 827 1355 827 1263 838 693 828 691 828 491 838 440 828 438 828 390 838 337 828 335 828 333 828 310 838 311 876"/></Shape>
+	    <String CONTENT="s’assit en ronchonnant. Les frères tape-dur rentrèrent dans le chalet. Une"
+                    HPOS="310"
+                    VPOS="827"
+                    WIDTH="1920"
+                    HEIGHT="62"
+                    WC="0.9943295332946276"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT4328"
+                    BASELINE="308 946 2232 946" 
+                    HPOS="308"
+                    VPOS="900"
+                    WIDTH="1924"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="308 946 308 962 2232 962 2232 946 2232 909 2201 900 2199 900 2197 900 2137 909 1766 900 1764 900 1762 900 1761 900 1746 909 1689 900 1687 900 1685 900 1658 909 1621 900 1619 900 1618 900 1531 909 1480 900 1478 900 1414 909 1377 900 1375 900 1374 900 1372 900 1350 909 1331 900 1330 900 1328 900 1148 909 1047 900 1045 900 1043 900 1042 900 1025 911 601 911 550 900 548 900 546 900 513 911 308 911 308 946"/></Shape>
+	    <String CONTENT="conversation cotonneuse reprit lentement, à voix mal réveillées. La seconde"
+                    HPOS="308"
+                    VPOS="900"
+                    WIDTH="1924"
+                    HEIGHT="62"
+                    WC="0.9974112717004923"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT4328"
+                    BASELINE="310 1021 952 1017" 
+                    HPOS="308"
+                    VPOS="971"
+                    WIDTH="644"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="310 1021 310 1041 950 1030 952 1017 948 984 880 971 878 971 876 971 845 982 526 973 524 973 522 973 500 984 451 973 449 973 308 986 310 1021"/></Shape>
+	    <String CONTENT="journée était commencée."
+                    HPOS="308"
+                    VPOS="971"
+                    WIDTH="644"
+                    HEIGHT="70"
+                    WC="0.9994517388167204"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT4328"
+                    BASELINE="379 1098 2232 1094" 
+                    HPOS="377"
+                    VPOS="1047"
+                    WIDTH="1855"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="379 1098 379 1111 2230 1107 2232 1094 2230 1059 2184 1047 2183 1047 2181 1047 2179 1047 2140 1058 2140 1059 1950 1059 1948 1058 1931 1047 1929 1047 1928 1047 1926 1047 1924 1047 1893 1058 1891 1058 1887 1058 1819 1047 1818 1047 1764 1058 1761 1058 1755 1058 1702 1047 1700 1047 1698 1047 1663 1058 1660 1058 1654 1058 1603 1047 1601 1047 1509 1056 1495 1058 1487 1056 1452 1047 1451 1047 1449 1047 1447 1047 1421 1056 1416 1058 1401 1056 1328 1047 1326 1047 1324 1047 1308 1056 1298 1061 1240 1061 1230 1056 1216 1048 1214 1048 1212 1048 1210 1048 1181 1056 1163 1059 1142 1056 1106 1048 1104 1048 1102 1048 1080 1056 1064 1059 1034 1056 988 1048 986 1048 946 1054 915 1059 884 1054 843 1048 842 1048 746 1054 658 1059 377 1054 379 1098"/></Shape>
+	    <String CONTENT="Thompson servit le café et des flageolets dans des écuelles de carton. Le"
+                    HPOS="377"
+                    VPOS="1047"
+                    WIDTH="1855"
+                    HEIGHT="64"
+                    WC="0.9987533966700236"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT4328"
+                    BASELINE="310 1171 2232 1166" 
+                    HPOS="308"
+                    VPOS="1118"
+                    WIDTH="1924"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="310 1171 310 1193 368 1184 2230 1184 2232 1166 2228 1131 2137 1118 2135 1118 2133 1118 2102 1131 1838 1131 1801 1118 1799 1118 1797 1118 1796 1118 1794 1118 1773 1131 1713 1131 1674 1118 1673 1118 1671 1118 1572 1131 1493 1120 1491 1120 1438 1131 1414 1120 1412 1120 1339 1120 1337 1120 1335 1120 1295 1131 1194 1120 1192 1120 1142 1131 1097 1120 1095 1120 1093 1120 1027 1131 988 1120 986 1120 985 1120 926 1133 438 1122 436 1122 308 1135 310 1171"/></Shape>
+	    <String CONTENT="premier haut-le-cœur passé, cela réchauffait. Peter refusa de manger, refusa"
+                    HPOS="308"
+                    VPOS="1118"
+                    WIDTH="1924"
+                    HEIGHT="75"
+                    WC="0.9975222165767963"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT4328"
+                    BASELINE="311 1241 1403 1241" 
+                    HPOS="311"
+                    VPOS="1193"
+                    WIDTH="1092"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="311 1241 311 1256 1403 1256 1403 1241 1403 1206 1306 1204 1297 1195 1297 1193 1295 1193 1293 1193 1291 1193 1289 1193 1247 1204 1225 1193 1223 1193 1221 1193 1219 1193 1188 1204 1186 1206 928 1206 924 1203 904 1193 902 1193 900 1193 898 1193 875 1203 869 1204 856 1203 805 1193 803 1193 801 1193 781 1203 774 1206 585 1206 581 1201 574 1195 574 1193 572 1193 570 1193 515 1193 513 1193 511 1193 510 1193 510 1195 502 1201 500 1203 497 1201 486 1193 484 1193 482 1193 480 1193 438 1201 410 1204 311 1201 311 1241"/></Shape>
+	    <String CONTENT="le café. Thompson lui donna un quart d’eau."
+                    HPOS="311"
+                    VPOS="1193"
+                    WIDTH="1092"
+                    HEIGHT="63"
+                    WC="0.9957017004489899"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    TAGREFS="LT4328"
+                    BASELINE="376 1320 2232 1320" 
+                    HPOS="376"
+                    VPOS="1278"
+                    WIDTH="1856"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="376 1320 376 1335 776 1346 777 1346 887 1336 1078 1346 1080 1346 1166 1336 2155 1346 2157 1346 2230 1335 2232 1320 2230 1289 820 1278 818 1278 816 1278 814 1278 798 1289 570 1289 462 1278 460 1278 376 1287 376 1320"/></Shape>
+	    <String CONTENT="— J’en ai assez, dit l’enfant, je veux rentrer, je voudrais rentrer, pourquoi"
+                    HPOS="376"
+                    VPOS="1278"
+                    WIDTH="1856"
+                    HEIGHT="68"
+                    WC="0.989833323212413"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    TAGREFS="LT4328"
+                    BASELINE="313 1393 788 1393" 
+                    HPOS="313"
+                    VPOS="1347"
+                    WIDTH="475"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="313 1393 313 1406 788 1406 788 1393 785 1347 746 1358 620 1351 544 1347 543 1347 541 1347 539 1347 539 1349 533 1353 528 1360 313 1360 313 1393"/></Shape>
+	    <String CONTENT="vous me faites ça?"
+                    HPOS="313"
+                    VPOS="1347"
+                    WIDTH="475"
+                    HEIGHT="59"
+                    WC="0.9813494870537206"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT4328"
+                    BASELINE="374 1474 2228 1468" 
+                    HPOS="372"
+                    VPOS="1421"
+                    WIDTH="1856"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="374 1474 374 1489 2227 1489 2228 1468 2225 1432 2107 1432 2107 1430 2091 1421 2089 1421 2087 1421 2085 1421 2084 1421 2062 1430 2040 1421 2038 1421 2036 1421 2034 1421 2010 1430 1902 1421 1900 1421 1660 1430 1607 1432 1592 1430 1546 1423 1544 1423 1542 1423 1517 1430 1507 1432 1482 1430 1394 1423 1392 1423 1390 1423 1364 1430 1355 1432 1348 1430 1319 1423 1317 1423 1315 1423 1271 1430 1256 1432 1219 1430 1113 1423 1111 1423 1007 1430 942 1434 880 1430 807 1424 805 1424 741 1430 684 1434 673 1430 660 1424 658 1424 656 1424 372 1428 374 1474"/></Shape>
+	    <String CONTENT="Il se mit à trépigner et à pleurer. Il pleura longuement, désespérément."
+                    HPOS="372"
+                    VPOS="1421"
+                    WIDTH="1856"
+                    HEIGHT="68"
+                    WC="0.9831525782744089"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16"
+                    TAGREFS="LT4328"
+                    BASELINE="311 1545 2161 1542" 
+                    HPOS="310"
+                    VPOS="1494"
+                    WIDTH="1851"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="311 1545 311 1560 2159 1558 2161 1542 2157 1507 2065 1507 2065 1505 2036 1494 2034 1494 2032 1494 2030 1494 1992 1505 1990 1505 1959 1494 1957 1494 1955 1494 1907 1505 1904 1507 1830 1507 1829 1505 1805 1494 1803 1494 1801 1494 1750 1505 1742 1505 1733 1505 1667 1494 1665 1494 1616 1503 1607 1507 1322 1507 1311 1503 1278 1494 1276 1494 1275 1494 1232 1503 1207 1509 1051 1509 1038 1501 1025 1496 1023 1496 1021 1496 1020 1496 999 1501 985 1505 970 1501 948 1496 946 1496 944 1496 942 1496 941 1496 933 1501 922 1507 891 1501 864 1496 862 1496 838 1501 809 1507 761 1500 724 1496 620 1496 618 1496 616 1496 614 1496 609 1500 598 1505 310 1500 311 1545"/></Shape>
+	    <String CONTENT="Finalement, il n’eut plus de larmes, et, les yeux secs, il continuait à gémir:"
+                    HPOS="310"
+                    VPOS="1494"
+                    WIDTH="1851"
+                    HEIGHT="66"
+                    WC="0.9968133069574833"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_17"
+                    TAGREFS="LT4328"
+                    BASELINE="374 1624 1174 1624" 
+                    HPOS="374"
+                    VPOS="1578"
+                    WIDTH="800"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="374 1624 374 1635 585 1646 587 1646 693 1637 1060 1637 1095 1646 1097 1646 1098 1646 1174 1635 1174 1624 1174 1580 1146 1578 1144 1578 1142 1578 1141 1578 1141 1580 1128 1591 994 1582 930 1578 928 1578 926 1578 924 1578 924 1580 920 1584 911 1593 821 1593 702 1591 698 1588 691 1580 691 1578 689 1578 687 1578 686 1578 596 1589 581 1589 570 1589 462 1578 460 1578 458 1578 456 1578 456 1580 443 1591 443 1593 374 1593 374 1624"/></Shape>
+	    <String CONTENT="— Pourquoi vous me faites ça?"
+                    HPOS="374"
+                    VPOS="1578"
+                    WIDTH="800"
+                    HEIGHT="68"
+                    WC="0.9986971239248912"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_18"
+                    TAGREFS="LT4328"
+                    BASELINE="383 1700 1295 1701" 
+                    HPOS="381"
+                    VPOS="1654"
+                    WIDTH="914"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="383 1700 381 1711 460 1712 469 1722 469 1723 471 1723 473 1723 475 1723 1293 1712 1295 1701 1293 1670 1166 1668 1135 1654 1133 1654 1060 1654 1058 1654 1056 1654 1054 1654 1043 1665 1005 1654 1003 1654 1001 1654 999 1654 952 1668 924 1654 922 1654 920 1654 919 1654 917 1654 917 1656 902 1668 847 1654 845 1654 843 1654 842 1654 840 1654 818 1668 792 1654 790 1654 788 1654 787 1654 763 1667 739 1654 737 1654 735 1654 733 1654 698 1668 697 1668 695 1668 656 1654 654 1654 653 1654 651 1654 649 1654 649 1656 634 1668 609 1668 524 1668 522 1668 504 1654 502 1654 500 1654 464 1654 462 1654 460 1654 458 1654 458 1656 445 1668 443 1668 383 1668 383 1700"/></Shape>
+	    <String CONTENT="— Ta gueule, à la fin! cria Nénesse."
+                    HPOS="381"
+                    VPOS="1654"
+                    WIDTH="914"
+                    HEIGHT="69"
+                    WC="0.9932498963255632"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_19"
+                    TAGREFS="LT4328"
+                    BASELINE="376 1782 2230 1782" 
+                    HPOS="376"
+                    VPOS="1742"
+                    WIDTH="1854"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="376 1782 376 1800 2230 1800 2230 1782 2230 1756 2133 1756 2100 1742 2010 1753 1961 1742 1935 1756 1884 1742 1825 1756 1794 1742 1750 1756 1660 1742 1640 1755 1506 1756 1465 1742 1388 1756 1348 1742 1298 1756 1199 1742 1144 1756 1117 1742 1036 1742 1014 1755 983 1742 959 1756 788 1756 746 1742 678 1753 621 1742 585 1756 561 1742 526 1753 486 1742 462 1756 376 1756 376 1782"/></Shape>
+	    <String CONTENT="— Oui, dit Thompson à Julie, faites-le taire, mademoiselle, il finit par"
+                    HPOS="376"
+                    VPOS="1742"
+                    WIDTH="1854"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_20"
+                    TAGREFS="LT4328"
+                    BASELINE="310 1855 931 1855" 
+                    HPOS="310"
+                    VPOS="1822"
+                    WIDTH="621"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="310 1855 310 1870 930 1872 931 1855 931 1822 310 1822 310 1855"/></Shape>
+	    <String CONTENT="nous porter sur les nerfs."
+                    HPOS="310"
+                    VPOS="1822"
+                    WIDTH="621"
+                    HEIGHT="50"
+                    WC="0.9990283113259536"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>page_00002.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10547" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT10548" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10549" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10550" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT10551" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10552" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="LT4125" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4126" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4127" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3060"
+          HEIGHT="3960"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3060"
+                  HEIGHT="3960">
+        
+        <TextBlock HPOS="952"
+                   VPOS="616"
+                   WIDTH="1134"
+                   HEIGHT="2057"
+                   ID="eSc_textblock_2ecd416e"
+                   TAGREFS="BT10550">
+          <Shape><Polygon POINTS="952 616 952 2673 2086 2673 2086 616"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6f36717d"
+                    TAGREFS="LT4125"
+                    BASELINE="1259 770 1785 765" 
+                    HPOS="1257"
+                    VPOS="695"
+                    WIDTH="528"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1259 783 1761 792 1763 792 1765 792 1767 792 1785 781 1785 765 1780 710 1602 695 1600 695 1598 695 1596 695 1578 708 1554 697 1552 697 1549 697 1547 697 1545 697 1545 699 1534 708 1463 699 1461 699 1459 699 1419 710 1373 697 1371 697 1369 697 1367 697 1325 710 1285 697 1283 697 1281 697 1279 697 1276 697 1257 708 1259 770"/></Shape>
+	    <String CONTENT="J.-P. BASTID"
+                    HPOS="1257"
+                    VPOS="695"
+                    WIDTH="528"
+                    HEIGHT="97"
+                    WC="0.987808515628179"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a93144ec"
+                    TAGREFS="LT4125"
+                    BASELINE="1157 1207 1884 1207" 
+                    HPOS="1157"
+                    VPOS="1146"
+                    WIDTH="727"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1871 1161 1523 1161 1485 1146 1483 1146 1481 1146 1384 1159 1371 1148 1371 1146 1369 1146 1367 1146 1188 1146 1186 1146 1184 1146 1182 1146 1171 1150 1157 1201 1157 1207 1157 1227 1884 1227 1884 1207 1882 1177 1871 1161"/></Shape>
+	    <String CONTENT="Méchoui-massacre"
+                    HPOS="1157"
+                    VPOS="1146"
+                    WIDTH="727"
+                    HEIGHT="81"
+                    WC="0.97206089777105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a91819cb"
+                    TAGREFS="LT4125"
+                    BASELINE="1525 1828 1640 1828" 
+                    HPOS="1525"
+                    VPOS="1771"
+                    WIDTH="115"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1525 1828 1525 1843 1587 1859 1589 1859 1591 1859 1640 1843 1640 1828 1637 1771 1525 1784 1525 1828"/></Shape>
+	    <String CONTENT="nrf"
+                    HPOS="1525"
+                    VPOS="1771"
+                    WIDTH="115"
+                    HEIGHT="88"
+                    WC="0.9970535834630331"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c886c54"
+                    TAGREFS="LT4125"
+                    BASELINE="1301 2549 1747 2545" 
+                    HPOS="1298"
+                    VPOS="2486"
+                    WIDTH="449"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1301 2549 1301 2567 1745 2565 1747 2545 1743 2494 1331 2486 1329 2486 1327 2486 1298 2497 1301 2549"/></Shape>
+	    <String CONTENT="GALLIMARD"
+                    HPOS="1298"
+                    VPOS="2486"
+                    WIDTH="449"
+                    HEIGHT="81"
+                    WC="0.9987079699834188"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
