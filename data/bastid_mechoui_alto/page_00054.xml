@@ -34,24 +34,6 @@
           <Shape><Polygon POINTS="2708 325 2708 2987 333 3018 348 325"/></Shape>
           
           
-          <TextLine ID="eSc_line_6ee7cd75"
-                    TAGREFS="LT4125"
-                    BASELINE="477 422 2676 418" 
-                    HPOS="475"
-                    VPOS="374"
-                    WIDTH="2201"
-                    HEIGHT="63">
-            <Shape><Polygon POINTS="477 437 2674 435 2676 418 2672 374 475 374 477 422"/></Shape>
-	    <String CONTENT="Le patriarche, d’un geste de la main, fait comprendre qu’il est d’accord."
-                    HPOS="475"
-                    VPOS="374"
-                    WIDTH="2201"
-                    HEIGHT="63"
-                    WC="0.9991252316187506"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_c47017c4"
                     TAGREFS="LT4125"
                     BASELINE="372 506 2679 510" 
@@ -66,6 +48,24 @@
                     WIDTH="2310"
                     HEIGHT="77"
                     WC="0.9911886998164801"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6ee7cd75"
+                    TAGREFS="LT4125"
+                    BASELINE="477 422 2676 418" 
+                    HPOS="475"
+                    VPOS="374"
+                    WIDTH="2201"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="477 437 2674 435 2676 418 2672 374 475 374 477 422"/></Shape>
+	    <String CONTENT="Le patriarche, d’un geste de la main, fait comprendre qu’il est d’accord."
+                    HPOS="475"
+                    VPOS="374"
+                    WIDTH="2201"
+                    HEIGHT="63"
+                    WC="0.9991252316187506"></String>
           </TextLine>
 
           
@@ -500,12 +500,6 @@
           </TextLine>
 
           
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
           
           <TextLine ID="eSc_line_7c703184"
                     TAGREFS="LT4125"
@@ -525,6 +519,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>
