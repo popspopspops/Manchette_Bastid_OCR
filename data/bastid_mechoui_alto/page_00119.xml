@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>page_00119.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10547" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT10548" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10549" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10550" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT10551" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT10552" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="LT4125" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4126" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4127" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3060"
+          HEIGHT="3960"
+          PHYSICAL_IMG_NR="115"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3060"
+                  HEIGHT="3960">
+        
+        <TextBlock HPOS="923"
+                   VPOS="592"
+                   WIDTH="1209"
+                   HEIGHT="162"
+                   ID="block_0"
+                   TAGREFS="BT10547">
+          <Shape><Polygon POINTS="2132 592 2132 754 923 754 923 592"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7b39b70c"
+                    TAGREFS="LT4126"
+                    BASELINE="959 719 2108 719" 
+                    HPOS="959"
+                    VPOS="613"
+                    WIDTH="1149"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="959 737 2108 737 2108 719 2108 629 1510 629 1411 613 1408 613 1406 613 1353 629 959 629 959 719"/></Shape>
+	    <String CONTENT="QUATRIEME PARTIE"
+                    HPOS="959"
+                    VPOS="613"
+                    WIDTH="1149"
+                    HEIGHT="124"
+                    WC="0.9836565479636192"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
