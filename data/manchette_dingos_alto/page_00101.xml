@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>page_00101.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT11002" LABEL="MaineZone" DESCRIPTION="block type MaineZone"/><OtherTag ID="BT11004" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT11005" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT11006" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT11009" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT11010" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="LT4328" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4329" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4330" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3301"
+          PHYSICAL_IMG_NR="96"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3301">
+        
+        <TextBlock HPOS="279.98675537109375"
+                   VPOS="264.30426025390625"
+                   WIDTH="1978.2869262695312"
+                   HEIGHT="1219.1260375976562"
+                   ID="block_0"
+                   TAGREFS="BT11009">
+          <Shape><Polygon POINTS="279.987 264.304 2258.27 264.304 2258.27 1483.43 279.987 1483.43 279.987 264.304"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT4328"
+                    BASELINE="308 344 2232 344" 
+                    HPOS="308"
+                    VPOS="298"
+                    WIDTH="1924"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="308 344 308 361 2232 361 2232 344 2232 309 2201 298 2199 298 2197 298 2195 298 2151 309 2128 298 2126 298 2124 298 2122 298 2076 309 1988 298 1986 298 1878 309 1823 298 1821 298 1240 309 1163 298 1161 298 919 309 895 298 893 298 820 298 818 298 757 309 651 298 649 298 647 298 620 309 557 298 555 298 554 298 552 298 533 309 508 300 506 300 504 300 383 309 330 298 328 298 326 298 324 298 308 308 308 344"/></Shape>
+	    <String CONTENT="du pont. La jeune fille se meurtrit en se raccrochant à la surface de la"
+                    HPOS="308"
+                    VPOS="298"
+                    WIDTH="1924"
+                    HEIGHT="63"
+                    WC="0.9949300044203457"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT4328"
+                    BASELINE="310 421 2230 414" 
+                    HPOS="308"
+                    VPOS="366"
+                    WIDTH="1922"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="310 421 310 443 401 432 2228 429 2230 414 2227 379 2063 379 2040 366 2038 366 2036 366 2034 366 2032 366 2014 377 1865 370 1863 370 1713 379 1689 368 1687 368 1619 368 1618 368 1564 379 1526 368 1524 368 1522 368 1520 368 1489 381 1357 381 1320 368 1319 368 1317 368 1247 381 1199 370 1197 370 1095 370 1093 370 1091 370 1064 381 975 370 974 370 909 381 887 370 886 370 884 370 834 379 790 370 788 370 720 381 601 372 599 372 598 372 570 383 498 372 497 372 308 385 310 421"/></Shape>
+	    <String CONTENT="passerelle. Tout vibrait autour d’elle et dans sa tête. Elle se retrouva à quatre"
+                    HPOS="308"
+                    VPOS="366"
+                    WIDTH="1922"
+                    HEIGHT="77"
+                    WC="0.9956590346543186"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT4328"
+                    BASELINE="306 497 2232 487" 
+                    HPOS="302"
+                    VPOS="445"
+                    WIDTH="1928"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="305 495 305 514 2227 506 2230 486 2222 445 302 451 305 495"/></Shape>
+	    <String CONTENT="pattes, rampant au-dessus du bouillonnement, cherchant désespérément Peter"
+                    HPOS="302"
+                    VPOS="445"
+                    WIDTH="1928"
+                    HEIGHT="69"
+                    WC="0.999432706987703"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT4328"
+                    BASELINE="310 563 2230 563" 
+                    HPOS="310"
+                    VPOS="515"
+                    WIDTH="1920"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="310 577 2228 583 2230 563 2230 526 1728 515 1726 515 1724 515 1687 524 1643 515 1641 515 1590 524 1550 515 1548 515 1546 515 1441 524 1397 515 1396 515 1304 524 1240 515 1238 515 1236 515 1199 526 961 526 853 515 851 515 686 524 665 515 664 515 539 515 537 515 376 524 335 515 333 515 332 515 330 515 310 524 310 563"/></Shape>
+	    <String CONTENT="du regard. Elle entendit le garçonnet l’appeler et le vit, déjà sur l’autre rive,"
+                    HPOS="310"
+                    VPOS="515"
+                    WIDTH="1920"
+                    HEIGHT="68"
+                    WC="0.9928592706010455"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT4328"
+                    BASELINE="313 632 1008 636" 
+                    HPOS="311"
+                    VPOS="590"
+                    WIDTH="697"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="313 632 311 645 1005 649 1008 636 1008 601 986 590 985 590 983 590 313 596 313 632"/></Shape>
+	    <String CONTENT="qui sautillait impatiemment."
+                    HPOS="311"
+                    VPOS="590"
+                    WIDTH="697"
+                    HEIGHT="59"
+                    WC="0.9988391718694142"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT4328"
+                    BASELINE="376 717 975 713" 
+                    HPOS="374"
+                    VPOS="663"
+                    WIDTH="601"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="376 717 376 726 535 726 543 728 572 735 574 735 576 735 577 735 592 728 596 726 605 728 647 737 649 737 974 728 975 713 968 665 937 680 908 667 898 663 897 663 895 663 893 663 875 669 827 680 777 680 770 671 763 665 763 663 761 663 759 663 757 663 755 663 728 673 724 674 720 673 702 663 700 663 698 663 697 663 695 663 695 665 684 674 682 676 673 674 618 665 616 665 614 665 612 665 612 667 601 676 596 682 583 678 550 669 548 669 546 669 544 669 543 669 530 680 528 682 526 680 504 665 502 665 500 665 462 665 460 665 458 665 456 665 456 667 440 682 440 684 374 684 376 717"/></Shape>
+	    <String CONTENT="— Tu te dépêches, dis?"
+                    HPOS="374"
+                    VPOS="663"
+                    WIDTH="601"
+                    HEIGHT="74"
+                    WC="0.9963312670588493"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT4328"
+                    BASELINE="374 794 2232 790" 
+                    HPOS="372"
+                    VPOS="744"
+                    WIDTH="1860"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="374 794 374 808 2230 805 2232 790 2228 755 2146 744 2144 744 2142 744 2109 753 2065 744 2063 744 1970 753 1964 755 1498 755 1496 753 1478 744 1476 744 1474 744 1348 753 1298 755 1223 751 1076 746 1075 746 1073 746 1049 751 1034 755 999 751 944 746 942 746 856 751 796 755 777 751 752 746 750 746 708 751 675 755 645 751 609 746 607 746 372 750 374 794"/></Shape>
+	    <String CONTENT="Le pont bascula et Julie se jeta en avant. Elle se retrouva agenouillée dans"
+                    HPOS="372"
+                    VPOS="744"
+                    WIDTH="1860"
+                    HEIGHT="64"
+                    WC="0.9969122502710912"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT4328"
+                    BASELINE="310 865 2232 865" 
+                    HPOS="310"
+                    VPOS="823"
+                    WIDTH="1922"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="310 865 310 880 2232 880 2232 865 2232 823 310 823 310 865"/></Shape>
+	    <String CONTENT="la boue de la rive. Derrière elle, la passerelle se renversait. Une extrémité"
+                    HPOS="310"
+                    VPOS="823"
+                    WIDTH="1922"
+                    HEIGHT="57"
+                    WC="0.9939110182225704"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT4328"
+                    BASELINE="310 938 2230 935" 
+                    HPOS="308"
+                    VPOS="889"
+                    WIDTH="1922"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="510 926 500 900 308 894 310 938 310 951 2228 948 2230 935 2227 902 1869 902 1867 900 1841 889 1840 889 1838 889 1836 889 1807 900 1803 902 1658 902 1654 898 1634 889 1632 889 1630 889 1629 889 1590 898 1588 898 1579 898 1421 889 1419 889 1322 898 1267 902 1243 896 1212 891 1210 891 1181 896 1157 904 1082 904 1071 896 1058 891 1056 891 1054 891 996 896 935 902 891 896 854 891 678 891 676 891 675 891 665 894 656 900 603 894 563 891 561 891 559 891 557 891 552 894 537 902 517 900 510 926"/></Shape>
+	    <String CONTENT="heurta le flot. Tout l’assemblage vira, se mit dans le sens du coupant et se"
+                    HPOS="308"
+                    VPOS="889"
+                    WIDTH="1922"
+                    HEIGHT="62"
+                    WC="0.9951697164460233"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT4328"
+                    BASELINE="310 1010 2230 1010" 
+                    HPOS="310"
+                    VPOS="962"
+                    WIDTH="1920"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="310 1010 310 1030 2230 1023 2230 1010 2230 975 1948 962 1946 962 1891 973 1788 962 1786 962 1785 962 1761 975 1656 975 1610 962 1608 962 1607 962 1605 962 1603 962 1585 973 1474 964 1473 964 1385 973 1361 962 1359 962 1357 962 1252 971 1214 962 1212 962 1210 962 1098 973 924 962 922 962 843 973 803 962 801 962 799 962 798 962 796 962 776 975 719 975 667 962 665 962 535 973 478 962 476 962 475 962 432 973 379 962 377 962 310 973 310 1010"/></Shape>
+	    <String CONTENT="précipita soudain dans l’écume, rebondissant sur les rochers, éclatant, se"
+                    HPOS="310"
+                    VPOS="962"
+                    WIDTH="1920"
+                    HEIGHT="68"
+                    WC="0.9995356078271742"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT4328"
+                    BASELINE="311 1081 2139 1081" 
+                    HPOS="311"
+                    VPOS="1034"
+                    WIDTH="1828"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="311 1081 311 1098 2139 1098 2139 1081 2139 1045 2089 1034 2087 1034 2085 1034 2045 1043 1647 1034 1645 1034 1541 1043 1504 1034 1502 1034 1500 1034 1458 1043 1418 1034 1416 1034 1414 1034 1412 1034 1381 1045 1029 1045 994 1034 992 1034 990 1034 724 1043 664 1034 662 1034 552 1043 489 1034 487 1034 405 1043 332 1034 330 1034 328 1034 311 1041 311 1081"/></Shape>
+	    <String CONTENT="démembrant, disparaissant à une vitesse confondante. L’obscurité l’avala."
+                    HPOS="311"
+                    VPOS="1034"
+                    WIDTH="1828"
+                    HEIGHT="64"
+                    WC="0.9915836641663"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT4328"
+                    BASELINE="376 1162 2230 1162" 
+                    HPOS="376"
+                    VPOS="1113"
+                    WIDTH="1854"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="376 1162 376 1177 2230 1177 2230 1162 2230 1127 2140 1127 2140 1126 2113 1113 2111 1113 2041 1113 2040 1113 2038 1113 2014 1126 2012 1127 1931 1127 1928 1126 1909 1113 1907 1113 1906 1113 1862 1113 1860 1113 1858 1113 1856 1113 1838 1124 1836 1126 1832 1124 1796 1113 1794 1113 1792 1113 1790 1113 1761 1124 1755 1127 1700 1127 1695 1124 1673 1113 1671 1113 1669 1113 1601 1122 1574 1113 1572 1113 1570 1113 1568 1113 1550 1124 1544 1126 1539 1124 1515 1113 1513 1113 1441 1113 1440 1113 1438 1113 1419 1122 1414 1126 1396 1122 1361 1116 1359 1116 1284 1122 1230 1126 1223 1122 1210 1113 1208 1113 1207 1113 1205 1113 1203 1113 1179 1122 1170 1124 1161 1122 1133 1113 1131 1113 1130 1113 1128 1113 1106 1120 1093 1127 988 1127 975 1120 961 1113 959 1113 878 1113 876 1113 875 1113 873 1113 862 1120 851 1126 748 1126 737 1118 728 1113 726 1113 724 1113 722 1113 720 1113 704 1118 687 1126 673 1118 658 1113 656 1113 654 1113 653 1113 636 1118 618 1126 588 1118 563 1113 561 1113 532 1118 493 1126 462 1118 442 1113 440 1113 438 1113 376 1116 376 1162"/></Shape>
+	    <String CONTENT="Maculée de boue, Julie gravit la pente. Elle brûlait de fièvre. Elle ne"
+                    HPOS="376"
+                    VPOS="1113"
+                    WIDTH="1854"
+                    HEIGHT="64"
+                    WC="0.9962762513676205"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT4328"
+                    BASELINE="310 1234 2230 1230" 
+                    HPOS="308"
+                    VPOS="1184"
+                    WIDTH="1922"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="510 1225 500 1199 498 1199 429 1186 427 1186 308 1199 310 1234 310 1250 2228 1250 2230 1230 2225 1192 2140 1195 2117 1192 2080 1184 2078 1184 2040 1192 2019 1195 2006 1192 1983 1184 1981 1184 1979 1184 1977 1184 1959 1192 1950 1197 1495 1197 1489 1193 1463 1186 1462 1186 1460 1186 1344 1195 1331 1195 1326 1195 1280 1184 1278 1184 1276 1184 1252 1195 1247 1197 1243 1195 1218 1186 1216 1186 1214 1186 1080 1197 1060 1197 1045 1197 957 1186 955 1186 908 1197 904 1197 900 1197 832 1186 632 1186 631 1186 629 1186 603 1199 517 1199 510 1225"/></Shape>
+	    <String CONTENT="savait plus où était Peter. Elle n’était plus soutenue que par une seule idée; à"
+                    HPOS="308"
+                    VPOS="1184"
+                    WIDTH="1922"
+                    HEIGHT="66"
+                    WC="0.9909572012284222"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    TAGREFS="LT4328"
+                    BASELINE="308 1305 2227 1302" 
+                    HPOS="306"
+                    VPOS="1258"
+                    WIDTH="1921"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="308 1305 308 1322 2223 1325 2227 1302 2221 1265 1792 1267 1785 1265 1759 1258 1757 1258 1755 1258 1753 1258 1739 1265 1735 1267 1717 1265 1638 1258 1636 1258 1586 1267 1577 1267 1570 1267 1537 1258 1535 1258 1533 1258 1476 1267 1467 1267 1452 1267 1353 1258 1352 1258 1302 1267 1298 1267 1297 1267 1269 1258 1267 1258 1265 1258 1263 1258 1227 1267 1219 1269 1214 1267 1196 1259 1194 1259 1192 1259 1040 1267 1005 1269 992 1267 937 1259 935 1259 933 1259 931 1259 919 1269 915 1270 713 1270 708 1269 658 1259 656 1259 579 1269 574 1269 568 1269 478 1259 476 1259 434 1269 410 1259 409 1259 407 1259 306 1269 308 1305"/></Shape>
+	    <String CONTENT="cent mètres, cinquante mètres de là, franchi le rebord de la montagne, il n’y"
+                    HPOS="306"
+                    VPOS="1258"
+                    WIDTH="1921"
+                    HEIGHT="67"
+                    WC="0.9961631059646606"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    TAGREFS="LT4328"
+                    BASELINE="310 1379 2234 1379" 
+                    HPOS="310"
+                    VPOS="1331"
+                    WIDTH="1924"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="310 1379 310 1395 2234 1395 2234 1379 2234 1340 2212 1331 2210 1331 2208 1331 2206 1331 2164 1342 2161 1344 2091 1344 2089 1342 2071 1331 2069 1331 2067 1331 2065 1331 2063 1331 2023 1342 2019 1342 2012 1342 1909 1331 1907 1331 1841 1342 1836 1342 1829 1342 1707 1331 1706 1331 1704 1331 1678 1342 1676 1342 1636 1331 1634 1331 1632 1331 1630 1331 1610 1342 1596 1333 1594 1333 1592 1333 1590 1333 1535 1342 1533 1342 1531 1342 1495 1331 1493 1331 1491 1331 1489 1331 1449 1340 1357 1331 1355 1331 1353 1331 1352 1331 1333 1342 1324 1342 1150 1333 1148 1333 1040 1342 1036 1342 1032 1342 959 1331 957 1331 876 1342 875 1342 812 1331 810 1331 809 1331 807 1331 788 1342 759 1333 757 1333 755 1333 753 1333 717 1342 616 1331 614 1331 612 1331 583 1342 508 1331 506 1331 504 1331 471 1342 425 1331 423 1331 421 1331 310 1342 310 1379"/></Shape>
+	    <String CONTENT="aurait plus devant elle qu’un vaste tapis d’herbe et de fleurs, où se dressait"
+                    HPOS="310"
+                    VPOS="1331"
+                    WIDTH="1924"
+                    HEIGHT="64"
+                    WC="0.996969336195837"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT4328"
+                    BASELINE="311 1450 1236 1450" 
+                    HPOS="311"
+                    VPOS="1401"
+                    WIDTH="925"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="311 1450 311 1468 1236 1468 1236 1450 1236 1413 1210 1404 1208 1404 1207 1404 1205 1404 1177 1413 1157 1401 1155 1401 1153 1401 1152 1401 1150 1401 1124 1413 1120 1413 1014 1412 1005 1402 1005 1401 1003 1401 1001 1401 999 1401 933 1413 928 1413 922 1413 884 1404 882 1404 880 1404 854 1413 851 1413 849 1413 831 1401 829 1401 827 1401 781 1401 779 1401 777 1401 776 1401 765 1412 744 1401 742 1401 741 1401 739 1401 713 1412 708 1415 592 1415 587 1412 574 1401 572 1401 570 1401 568 1401 566 1401 543 1412 541 1412 532 1402 532 1401 530 1401 528 1401 526 1401 478 1410 462 1413 451 1410 421 1401 420 1401 383 1401 381 1401 379 1401 377 1401 377 1402 368 1410 366 1413 359 1410 337 1401 335 1401 333 1401 332 1401 311 1408 311 1450"/></Shape>
+	    <String CONTENT="la Tour Maure, où Hartog l’attendait."
+                    HPOS="311"
+                    VPOS="1401"
+                    WIDTH="925"
+                    HEIGHT="67"
+                    WC="0.9765291323787287"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

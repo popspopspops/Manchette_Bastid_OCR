@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>page_00091.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT11002" LABEL="MaineZone" DESCRIPTION="block type MaineZone"/><OtherTag ID="BT11004" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT11005" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT11006" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT11009" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT11010" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="LT4328" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4329" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4330" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3301"
+          PHYSICAL_IMG_NR="86"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3301">
+        
+        <TextBlock HPOS="280.1142578125"
+                   VPOS="276.2257080078125"
+                   WIDTH="1979.2021484375"
+                   HEIGHT="996.14892578125"
+                   ID="block_0"
+                   TAGREFS="BT11009">
+          <Shape><Polygon POINTS="280.114 276.226 2259.32 276.226 2259.32 1272.37 280.114 1272.37 280.114 276.226"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT4328"
+                    BASELINE="416 342 886 344" 
+                    HPOS="414"
+                    VPOS="298"
+                    WIDTH="472"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="416 342 414 353 476 366 478 366 480 366 504 357 532 366 533 366 535 366 884 355 886 344 886 311 748 311 748 309 737 300 737 298 735 298 733 298 731 298 730 298 698 309 697 311 605 311 605 309 594 300 594 298 592 298 590 298 588 298 587 298 557 309 555 309 554 309 526 298 524 298 522 298 416 308 416 342"/></Shape>
+	    <String CONTENT="— C’est pas à nous."
+                    HPOS="414"
+                    VPOS="298"
+                    WIDTH="472"
+                    HEIGHT="68"
+                    WC="0.9988624006509781"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT4328"
+                    BASELINE="392 425 1007 425" 
+                    HPOS="392"
+                    VPOS="379"
+                    WIDTH="615"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="392 425 392 438 614 449 616 449 1007 438 1007 425 1007 388 843 379 842 379 840 379 838 379 838 381 829 388 825 392 818 388 787 379 785 379 783 379 781 379 779 379 779 381 770 390 766 394 620 394 616 390 587 379 585 379 583 379 581 379 548 392 546 392 544 392 526 379 524 379 522 379 521 379 519 379 491 388 465 379 464 379 462 379 460 379 458 379 458 381 445 392 445 394 392 394 392 425"/></Shape>
+	    <String CONTENT="— Monte, nom de Dieu!"
+                    HPOS="392"
+                    VPOS="379"
+                    WIDTH="615"
+                    HEIGHT="70"
+                    WC="0.9964115818341573"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT4328"
+                    BASELINE="376 502 2230 507" 
+                    HPOS="374"
+                    VPOS="452"
+                    WIDTH="1856"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="376 502 374 517 2227 524 2230 507 2230 465 2214 456 2212 456 2210 456 2208 456 1911 465 1814 467 1801 463 1772 456 1770 456 1768 456 1700 463 1662 467 1652 463 1640 456 1638 456 1636 456 1557 462 1513 465 1504 462 1485 454 1484 454 1273 454 1271 454 1269 454 1249 460 1229 465 1216 460 1203 454 1201 454 1199 454 1157 460 1122 463 1108 458 1095 454 1093 454 1091 454 1054 458 1001 465 990 458 983 452 981 452 979 452 977 452 952 458 924 465 805 465 790 456 785 452 783 452 781 452 779 452 757 456 717 463 671 456 649 452 647 452 645 452 638 456 620 463 376 454 376 502"/></Shape>
+	    <String CONTENT="Elle empoigna Peter et le précipita à l’intérieur, claqua la portière sur lui,"
+                    HPOS="374"
+                    VPOS="452"
+                    WIDTH="1856"
+                    HEIGHT="72"
+                    WC="0.9883384471986352"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT4328"
+                    BASELINE="311 579 1801 579" 
+                    HPOS="311"
+                    VPOS="529"
+                    WIDTH="1490"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="311 579 311 592 1801 592 1801 579 1801 542 1665 529 1663 529 1607 540 1568 529 1566 529 1564 529 1563 529 1561 529 1546 542 1311 542 1273 529 1271 529 1269 529 1267 529 1265 529 1247 540 1208 529 1207 529 1205 529 1115 540 1075 529 1073 529 1071 529 1069 529 1023 540 999 529 997 529 924 529 922 529 920 529 919 529 904 540 887 531 886 531 884 531 882 531 843 540 803 529 801 529 799 529 720 540 631 529 629 529 627 529 605 540 460 531 458 531 456 531 429 540 407 529 405 529 328 529 326 529 324 529 322 529 311 537 311 579"/></Shape>
+	    <String CONTENT="fit le tour, prit le volant. Elle claquait de nouveau des dents."
+                    HPOS="311"
+                    VPOS="529"
+                    WIDTH="1490"
+                    HEIGHT="63"
+                    WC="0.9991492051631212"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT4328"
+                    BASELINE="421 658 1691 658" 
+                    HPOS="421"
+                    VPOS="612"
+                    WIDTH="1270"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="421 658 421 673 1691 673 1691 658 1691 623 1662 612 1660 612 1658 612 1656 612 1623 625 1410 625 1366 612 1364 612 1363 612 1361 612 1359 612 1346 625 1275 625 1232 612 1230 612 1229 612 1227 612 1225 612 1205 625 1098 625 1073 612 1071 612 1069 612 1067 612 1023 623 939 612 937 612 856 623 814 612 812 612 810 612 809 612 770 623 728 612 726 612 724 612 651 623 614 612 612 612 610 612 609 612 587 623 565 612 563 612 460 612 458 612 456 612 421 623 421 658"/></Shape>
+	    <String CONTENT="— Mais tu voles la voiture! s’exclama le garçonnet."
+                    HPOS="421"
+                    VPOS="612"
+                    WIDTH="1270"
+                    HEIGHT="61"
+                    WC="0.9981376379728317"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT4328"
+                    BASELINE="374 739 2234 733" 
+                    HPOS="372"
+                    VPOS="687"
+                    WIDTH="1862"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="374 739 374 753 2217 757 2219 757 2221 757 2223 757 2234 748 2234 733 2230 698 2140 687 2139 687 2030 696 2003 687 2001 687 1999 687 1997 687 1995 687 1979 698 1884 698 1843 687 1841 687 1840 687 1838 687 1818 698 1691 698 1614 687 1612 687 1537 698 1530 698 1511 698 1341 689 1339 689 1337 689 1320 698 1302 689 1300 689 1298 689 1190 698 1183 698 1177 698 1119 689 1117 689 1014 698 990 700 975 698 922 691 920 691 849 698 831 702 504 702 500 698 484 691 482 691 480 691 372 698 374 739"/></Shape>
+	    <String CONTENT="Julie passa en première en grimaçant. Elle avait l’impression qu’une dent"
+                    HPOS="372"
+                    VPOS="687"
+                    WIDTH="1862"
+                    HEIGHT="70"
+                    WC="0.9951156401634216"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT4328"
+                    BASELINE="311 810 1262 806" 
+                    HPOS="310"
+                    VPOS="761"
+                    WIDTH="952"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="311 810 311 825 1260 825 1262 806 1258 773 1163 773 1137 761 1135 761 1133 761 1131 761 1130 761 1130 762 1119 773 964 773 924 761 922 761 920 761 919 761 889 772 829 761 827 761 713 773 697 762 695 762 693 762 691 762 554 773 543 764 543 762 541 762 539 762 537 762 535 762 495 772 398 762 396 762 394 762 392 762 376 773 332 762 330 762 328 762 326 762 324 762 310 772 311 810"/></Shape>
+	    <String CONTENT="de fourche était plantée dans son bras."
+                    HPOS="310"
+                    VPOS="761"
+                    WIDTH="952"
+                    HEIGHT="64"
+                    WC="0.9889546240248331"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT4328"
+                    BASELINE="381 885 1484 891" 
+                    HPOS="379"
+                    VPOS="839"
+                    WIDTH="1105"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="381 885 379 896 748 909 750 909 1482 902 1484 891 1482 860 1408 843 1269 843 1267 843 1265 843 1263 843 1263 845 1249 858 1188 858 1166 858 1139 843 1137 843 1135 843 1062 856 1060 856 908 843 906 843 904 843 902 843 902 845 893 854 840 856 810 856 805 856 752 839 750 839 702 839 700 839 698 839 697 839 697 841 682 854 682 856 533 856 532 854 497 839 495 839 493 839 491 839 458 854 454 854 381 854 381 885"/></Shape>
+	    <String CONTENT="— On va se faire mettre en prison, dit Peter."
+                    HPOS="379"
+                    VPOS="839"
+                    WIDTH="1105"
+                    HEIGHT="70"
+                    WC="0.9974104974004957"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT4328"
+                    BASELINE="372 970 2232 966" 
+                    HPOS="370"
+                    VPOS="918"
+                    WIDTH="1862"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="372 970 372 982 2212 988 2214 988 2216 988 2217 988 2232 979 2232 966 2230 929 2194 918 2192 918 2190 918 2113 927 1975 918 1973 918 1926 927 1893 918 1891 918 1889 918 1887 918 1885 918 1869 929 1671 929 1636 918 1634 918 1632 918 1570 927 1476 918 1474 918 1379 927 1341 918 1339 918 1337 918 1335 918 1302 929 1298 929 1297 929 1280 920 1278 920 1144 920 1142 920 1141 920 1139 920 1126 929 1124 929 1111 929 1036 920 1034 920 1032 920 1003 929 997 929 992 929 955 920 953 920 915 929 908 929 862 929 614 920 612 920 576 929 568 929 559 929 510 920 508 920 370 927 372 970"/></Shape>
+	    <String CONTENT="Un des deux sapeurs fit signe à Julie de se hâter de passer. La jeune fille"
+                    HPOS="370"
+                    VPOS="918"
+                    WIDTH="1862"
+                    HEIGHT="70"
+                    WC="0.9929578420403716"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT4328"
+                    BASELINE="310 1037 2227 1041" 
+                    HPOS="308"
+                    VPOS="992"
+                    WIDTH="1919"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="310 1037 308 1050 321 1059 322 1059 324 1059 326 1059 2225 1052 2227 1041 2223 1004 2030 1006 2005 1004 1926 993 1924 993 1803 1004 1764 1006 1746 1004 1689 993 1687 993 1495 1004 1432 1006 1416 1004 1366 993 1364 993 1313 1004 1298 1006 1293 1004 1269 992 1267 992 1194 992 1192 992 1190 992 1188 992 1170 1003 1128 992 1126 992 1124 992 1122 992 1086 1003 889 992 887 992 886 992 862 1004 860 1004 856 1004 812 992 810 992 809 992 807 992 785 1004 781 1006 660 1006 651 1004 590 992 588 992 532 1004 524 1004 511 1004 414 992 412 992 410 992 381 1004 377 1004 310 1004 310 1037"/></Shape>
+	    <String CONTENT="accéléra, fila sur le boulevard. Elle vira au premier carrefour qui se"
+                    HPOS="308"
+                    VPOS="992"
+                    WIDTH="1919"
+                    HEIGHT="67"
+                    WC="0.9896865346365504"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT4328"
+                    BASELINE="310 1115 2228 1109" 
+                    HPOS="308"
+                    VPOS="1063"
+                    WIDTH="1920"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="310 1115 310 1135 2227 1126 2228 1109 2225 1074 2071 1074 2054 1063 2052 1063 2051 1063 2049 1063 2047 1063 2016 1072 1854 1063 1852 1063 1803 1072 1766 1063 1764 1063 1762 1063 1761 1063 1759 1063 1742 1074 1552 1074 761 1067 759 1067 757 1067 755 1067 741 1076 720 1067 719 1067 717 1067 576 1076 557 1067 555 1067 374 1067 372 1067 308 1078 310 1115"/></Shape>
+	    <String CONTENT="présentait, jeta la 2 CV dans une route étroite et sinueuse. Au-dessus des toits"
+                    HPOS="308"
+                    VPOS="1063"
+                    WIDTH="1920"
+                    HEIGHT="72"
+                    WC="0.9887209025824942"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT4328"
+                    BASELINE="311 1186 2228 1182" 
+                    HPOS="310"
+                    VPOS="1137"
+                    WIDTH="1918"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="311 1201 2228 1199 2228 1182 2225 1148 1720 1137 1718 1137 1717 1137 1696 1148 1421 1148 1372 1137 1370 1137 1265 1148 431 1138 429 1138 427 1138 405 1148 328 1138 326 1138 324 1138 322 1138 310 1146 311 1186"/></Shape>
+	    <String CONTENT="des dernières maisons, des montagnes rondes et vertes obstruaient l’horizon."
+                    HPOS="310"
+                    VPOS="1137"
+                    WIDTH="1918"
+                    HEIGHT="64"
+                    WC="0.9923890519451786"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT4328"
+                    BASELINE="315 1252 944 1256" 
+                    HPOS="313"
+                    VPOS="1206"
+                    WIDTH="631"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="315 1252 313 1270 733 1281 735 1281 942 1272 944 1256 942 1225 801 1221 801 1219 790 1210 790 1208 788 1208 787 1208 785 1208 783 1208 752 1219 741 1223 731 1217 711 1208 709 1208 673 1208 671 1208 669 1208 667 1208 667 1210 660 1215 658 1219 651 1215 627 1206 625 1206 623 1206 621 1206 620 1206 620 1208 612 1215 605 1223 434 1223 315 1208 315 1252"/></Shape>
+	    <String CONTENT="Bien, pensa Julie, bien..."
+                    HPOS="313"
+                    VPOS="1206"
+                    WIDTH="631"
+                    HEIGHT="75"
+                    WC="0.9994742022110865"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

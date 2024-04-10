@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>page_00084.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT11002" LABEL="MaineZone" DESCRIPTION="block type MaineZone"/><OtherTag ID="BT11004" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT11005" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT11006" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT11009" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT11010" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="LT4328" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4329" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4330" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3301"
+          PHYSICAL_IMG_NR="79"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3301">
+        
+        <TextBlock HPOS="292.9847106933594"
+                   VPOS="267.1674499511719"
+                   WIDTH="1968.5130920410156"
+                   HEIGHT="724.4507141113281"
+                   ID="block_0"
+                   TAGREFS="BT11009">
+          <Shape><Polygon POINTS="292.985 267.167 2261.5 267.167 2261.5 991.618 292.985 991.618 292.985 267.167"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT4328"
+                    BASELINE="399 339 2232 346" 
+                    HPOS="398"
+                    VPOS="282"
+                    WIDTH="1834"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="399 339 398 352 462 363 860 364 862 364 2230 359 2232 346 2232 311 2190 289 2188 289 2186 289 2089 309 2084 309 2082 309 2043 289 2041 289 2040 289 2038 289 1977 308 1961 311 1951 306 1920 291 1918 291 1917 291 1915 291 1913 291 1889 306 1884 308 1559 304 1557 304 1495 313 1438 298 1410 291 1408 291 1407 291 1405 291 1383 297 1339 309 1287 295 1263 289 1262 289 1260 289 1258 289 1247 295 1230 304 1212 295 1203 289 1201 289 1199 289 1197 289 1185 295 1150 306 1097 293 1087 291 1086 291 1084 291 1082 291 1082 293 1051 309 825 308 796 297 794 297 792 297 728 311 592 311 543 308 504 284 502 284 500 284 399 282 399 339"/></Shape>
+	    <String CONTENT="— Nous nous retrouverons dans le bar-tabac que vous venez de voir sur le"
+                    HPOS="398"
+                    VPOS="282"
+                    WIDTH="1834"
+                    HEIGHT="82"
+                    WC="0.9973853511942757"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT4328"
+                    BASELINE="308 418 2230 418" 
+                    HPOS="308"
+                    VPOS="370"
+                    WIDTH="1922"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="308 418 308 434 2230 434 2230 418 2230 381 2001 381 2001 379 1979 370 1977 370 1975 370 1891 379 1884 379 1880 379 1851 370 1849 370 1847 370 1773 379 1762 381 1654 381 1651 379 1638 370 1636 370 1634 370 1632 370 1574 377 1561 381 1271 381 1263 377 1241 370 1240 370 1238 370 1201 377 1186 379 1155 377 1069 370 1067 370 1018 377 996 379 974 377 928 370 926 370 924 370 902 375 891 379 880 375 856 370 854 370 853 370 818 375 798 379 761 375 698 370 697 370 695 370 673 375 660 379 651 375 638 370 636 370 634 370 574 375 526 379 308 375 308 418"/></Shape>
+	    <String CONTENT="boulevard. Il s’appelle Les Fleurs. Dans un quart d’heure. N’oubliez pas ma"
+                    HPOS="308"
+                    VPOS="370"
+                    WIDTH="1922"
+                    HEIGHT="64"
+                    WC="0.9953459525108337"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT4328"
+                    BASELINE="313 491 493 491" 
+                    HPOS="313"
+                    VPOS="441"
+                    WIDTH="180"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="313 491 313 504 493 504 493 491 493 458 379 441 377 441 313 456 313 491"/></Shape>
+	    <String CONTENT="valise."
+                    HPOS="313"
+                    VPOS="441"
+                    WIDTH="180"
+                    HEIGHT="63"
+                    WC="0.9986783521515983"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT4328"
+                    BASELINE="379 568 1306 572" 
+                    HPOS="377"
+                    VPOS="520"
+                    WIDTH="929"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="379 568 377 579 462 581 473 592 475 592 476 592 478 592 887 585 917 594 919 594 920 594 1304 583 1306 572 1304 539 1175 535 1146 522 1144 522 1027 522 1025 522 1023 522 1021 522 1007 533 964 522 963 522 961 522 959 522 924 537 922 537 920 537 898 522 897 522 895 522 893 522 891 522 889 522 873 537 871 537 820 535 772 535 759 522 759 520 757 520 755 520 704 520 702 520 700 520 698 520 698 522 686 535 664 524 662 524 660 524 543 535 533 535 532 535 511 520 510 520 508 520 462 520 460 520 458 520 456 520 456 522 443 535 442 535 379 535 379 568"/></Shape>
+	    <String CONTENT="— Un quart d’heure! gémit Nénesse."
+                    HPOS="377"
+                    VPOS="520"
+                    WIDTH="929"
+                    HEIGHT="74"
+                    WC="0.9925000766913096"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT4328"
+                    BASELINE="381 651 1086 647" 
+                    HPOS="379"
+                    VPOS="601"
+                    WIDTH="707"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="381 651 381 662 581 671 583 671 620 662 627 662 634 662 691 673 693 673 695 673 719 662 722 662 753 662 920 671 922 671 1084 662 1086 647 1082 616 742 601 741 601 739 601 737 601 737 603 724 616 678 603 676 603 675 603 537 616 475 603 473 603 471 603 469 603 469 605 456 618 379 618 381 651"/></Shape>
+	    <String CONTENT="— Au revoir, dit Thompson."
+                    HPOS="379"
+                    VPOS="601"
+                    WIDTH="707"
+                    HEIGHT="72"
+                    WC="0.9982186120290023"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT4328"
+                    BASELINE="376 731 2230 728" 
+                    HPOS="374"
+                    VPOS="678"
+                    WIDTH="1856"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="376 746 2228 744 2230 728 2227 693 2157 693 2157 691 2128 678 2126 678 2124 678 2122 678 2087 691 2023 678 2021 678 2019 678 1990 691 1988 691 1915 678 1865 678 1863 678 1862 678 1860 678 1840 691 1838 693 1660 693 1656 691 1638 678 1636 678 1634 678 1632 678 1581 689 1574 693 1491 693 1485 689 1465 678 1463 678 1462 678 1460 678 1430 689 1427 691 1423 689 1401 678 1399 678 1397 678 1396 678 1353 689 1352 689 1317 678 1315 678 1313 678 1311 678 1309 678 1295 689 1289 693 1280 689 1256 680 1254 680 1252 680 1157 689 1128 691 1119 689 1091 680 1089 680 1087 680 1045 689 1020 695 922 695 911 687 895 680 893 680 891 680 853 687 827 693 814 687 796 680 794 680 792 680 790 680 765 687 753 691 746 687 730 680 728 680 726 680 724 680 702 687 691 691 680 687 662 680 660 680 658 680 601 687 555 693 517 687 475 680 473 680 374 685 376 731"/></Shape>
+	    <String CONTENT="Il descendit de la Simca et fendit la foule à grands coups d’épaule. Coco"
+                    HPOS="374"
+                    VPOS="678"
+                    WIDTH="1856"
+                    HEIGHT="68"
+                    WC="0.9995759057998658"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT4328"
+                    BASELINE="311 803 834 803" 
+                    HPOS="311"
+                    VPOS="757"
+                    WIDTH="523"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="311 803 311 821 834 821 834 803 834 768 787 757 785 757 783 757 425 768 333 757 332 757 330 757 328 757 311 766 311 803"/></Shape>
+	    <String CONTENT="demeurait immobile."
+                    HPOS="311"
+                    VPOS="757"
+                    WIDTH="523"
+                    HEIGHT="64"
+                    WC="0.9823386700529801"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT4328"
+                    BASELINE="374 876 1034 880" 
+                    HPOS="372"
+                    VPOS="830"
+                    WIDTH="662"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="374 876 372 887 458 889 473 902 475 902 476 902 478 902 598 893 638 900 640 900 642 900 643 900 651 893 658 898 658 900 660 900 662 900 664 900 715 893 726 902 728 902 730 902 865 904 867 904 869 904 871 904 871 902 882 893 1032 893 1034 880 1034 849 1010 832 1008 832 1007 832 1005 832 1003 832 959 843 948 834 948 832 946 832 944 832 898 832 897 832 895 832 893 832 893 834 876 850 856 850 709 850 708 849 678 830 676 830 675 830 673 830 594 841 559 830 557 830 555 830 554 830 552 830 552 832 533 847 475 830 473 830 471 830 469 830 467 830 467 832 453 847 451 847 374 847 374 876"/></Shape>
+	    <String CONTENT="— On fout le camp, dit-il."
+                    HPOS="372"
+                    VPOS="830"
+                    WIDTH="662"
+                    HEIGHT="74"
+                    WC="0.9884563569839184"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT4328"
+                    BASELINE="379 959 2019 960" 
+                    HPOS="377"
+                    VPOS="911"
+                    WIDTH="1642"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="379 959 377 973 554 984 555 984 2017 979 2019 960 2019 926 1977 911 1975 911 1865 911 1863 911 1862 911 1860 911 1841 924 1755 911 1753 911 1663 924 1570 915 1568 915 1566 915 1537 924 1506 911 1504 911 1502 911 1500 911 1463 924 1430 911 1429 911 1427 911 1319 922 1286 911 1284 911 1282 911 1280 911 1278 911 1260 924 1214 911 1212 911 1210 911 1142 924 1141 924 1139 924 1104 911 1102 911 1062 911 1060 911 1058 911 1056 911 1038 924 1034 924 955 911 911 911 909 911 908 911 906 911 887 924 886 926 755 926 753 924 728 911 726 911 724 911 722 911 684 924 680 926 535 926 532 924 508 911 506 911 504 911 379 922 379 959"/></Shape>
+	    <String CONTENT="— Non, soupira son frère. C’est le chef. Et c’est un maître. Obéis."
+                    HPOS="377"
+                    VPOS="911"
+                    WIDTH="1642"
+                    HEIGHT="73"
+                    WC="0.9983432165213993"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
