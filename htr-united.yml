@@ -19,8 +19,8 @@ characters:
   - o
   - d
   - c
-  - m
   - p
+  - m
   - .
   - ́
   - ','
@@ -36,8 +36,8 @@ characters:
   - —
   - L
   - x
-  - j
   - I
+  - j
   - '-'
   - y
   - E
@@ -45,28 +45,28 @@ characters:
   - C
   - M
   - P
-  - A
-  - z
   - T
+  - z
+  - A
   - S
-  - '!'
   - D
+  - '!'
   - '?'
-  - "'"
   - ̧
+  - "'"
   - B
-  - O
   - V
+  - O
   - U
-  - R
   - N
   - F
+  - R
+  - H
   - G
   - Q
-  - ;
   - k
+  - ;
   - ':'
-  - H
   - ̈
   - œ
   - '1'
@@ -80,13 +80,13 @@ characters:
   - Y
   - w
   - «
+  - »
   - '9'
   - Z
-  - »
   - “
-  - '5'
   - '3'
   - K
+  - '5'
   - W
   - X
   - '8'
@@ -98,6 +98,7 @@ characters:
   - –
   - '*'
   - °
+  - '&'
   mode: NFD
 description: >-
   Collecte des textes de JP Manchette et JP Bastid, dans le cadre du certficat
@@ -124,13 +125,13 @@ time:
 title: Manchette_Bastid_OCR
 url: https://github.com/popspopspops/Manchette_Bastid_OCR
 volume:
-- count: 381088
+- count: 423962
   metric: characters
-- count: 256
+- count: 288
   metric: files
-- count: 7500
+- count: 8315
   metric: lines
 - count: 25
   metric: pages
-- count: 265
+- count: 298
   metric: regions
