@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>page_00124.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT11002" LABEL="MaineZone" DESCRIPTION="block type MaineZone"/><OtherTag ID="BT11004" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT11005" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT11006" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT11009" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT11010" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="LT4328" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4329" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4330" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3301"
+          PHYSICAL_IMG_NR="119"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3301">
+        
+        <TextBlock HPOS="298.4976806640625"
+                   VPOS="280.4759216308594"
+                   WIDTH="1954.2584228515625"
+                   HEIGHT="529.4607849121094"
+                   ID="block_0"
+                   TAGREFS="BT11009">
+          <Shape><Polygon POINTS="298.498 280.476 2252.76 280.476 2252.76 809.937 298.498 809.937 298.498 280.476"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT4328"
+                    BASELINE="306 346 2228 342" 
+                    HPOS="304"
+                    VPOS="295"
+                    WIDTH="1924"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="306 346 306 361 2227 361 2228 342 2225 309 1972 309 1884 295 1882 295 1880 295 1832 308 1792 295 1790 295 1788 295 1786 295 1755 309 1678 309 1651 295 1649 295 1647 295 1645 295 1607 304 1577 295 1575 295 1574 295 1572 295 1531 308 1429 295 1427 295 1350 308 1232 297 1230 297 1229 297 1205 309 1146 297 1082 297 1080 297 1078 297 1047 309 922 297 920 297 919 297 878 309 834 297 832 297 831 297 829 297 805 309 645 309 576 297 574 297 572 297 532 309 418 297 416 297 304 311 306 346"/></Shape>
+	    <String CONTENT="carabine. Le magasin était plein. Sa carabine à la main, Thompson se"
+                    HPOS="304"
+                    VPOS="295"
+                    WIDTH="1924"
+                    HEIGHT="66"
+                    WC="0.9915262273379735"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT4328"
+                    BASELINE="308 419 2234 414" 
+                    HPOS="306"
+                    VPOS="370"
+                    WIDTH="1928"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="308 434 2232 432 2234 414 2232 381 2197 370 2195 370 2194 370 2192 370 2162 379 1865 370 1863 370 1788 379 1728 370 1726 370 1680 379 1634 370 1632 370 1520 381 1227 372 1225 372 1223 372 1205 381 1186 372 1185 372 1183 372 522 383 372 374 370 374 306 385 308 419"/></Shape>
+	    <String CONTENT="retourna en souriant. À ce moment, il aperçut entre les branches, au ras du"
+                    HPOS="306"
+                    VPOS="370"
+                    WIDTH="1928"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT4328"
+                    BASELINE="311 493 2230 489" 
+                    HPOS="310"
+                    VPOS="441"
+                    WIDTH="1920"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="311 493 311 504 2228 500 2230 489 2227 454 2173 441 2172 441 2106 452 2067 441 2065 441 2063 441 2017 451 1946 441 1944 441 1942 441 1940 441 1920 454 1748 454 1687 441 1685 441 1684 441 1647 452 1515 441 1513 441 1511 441 1484 452 1443 441 1441 441 1440 441 1438 441 1414 454 1232 454 1179 443 1177 443 1175 443 1135 454 1043 443 1042 443 1040 443 1014 454 972 443 970 443 968 443 898 454 810 443 809 443 733 454 700 443 698 443 697 443 487 454 442 443 440 443 438 443 436 443 434 443 416 454 372 443 370 443 368 443 310 456 311 493"/></Shape>
+	    <String CONTENT="sol, à cinquante mètres de lui, le visage de Peter. Le tueur frémit. Une"
+                    HPOS="310"
+                    VPOS="441"
+                    WIDTH="1920"
+                    HEIGHT="63"
+                    WC="0.9985498078664143"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT4328"
+                    BASELINE="308 563 2232 563" 
+                    HPOS="308"
+                    VPOS="518"
+                    WIDTH="1924"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="308 563 308 574 2230 575 2232 563 2232 524 308 518 308 563"/></Shape>
+	    <String CONTENT="hémorragie se déclara dans son estomac. Simultanément, il épaulait et"
+                    HPOS="308"
+                    VPOS="518"
+                    WIDTH="1924"
+                    HEIGHT="57"
+                    WC="0.9940641383602195"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT4328"
+                    BASELINE="308 636 2228 636" 
+                    HPOS="308"
+                    VPOS="586"
+                    WIDTH="1920"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="308 636 308 656 2228 654 2228 636 2228 597 2181 586 2179 586 2177 586 2126 599 2043 599 2023 586 2021 586 2019 586 2017 586 1950 599 1814 599 1762 586 1761 586 1759 586 1757 586 1737 599 1588 599 1465 586 1463 586 1462 586 1460 586 1440 599 1311 599 1269 586 1267 586 1265 586 1263 586 1262 586 1245 597 1130 597 1106 586 1104 586 972 586 970 586 968 586 944 599 886 599 825 586 823 586 821 586 820 586 799 599 713 599 627 586 625 586 623 586 581 597 539 586 537 586 535 586 533 586 487 599 308 599 308 636"/></Shape>
+	    <String CONTENT="pressait la détente. Le soleil levant faisait allègrement évaporer la rosée,"
+                    HPOS="308"
+                    VPOS="586"
+                    WIDTH="1920"
+                    HEIGHT="70"
+                    WC="0.9974872186779976"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT4328"
+                    BASELINE="310 709 2234 702" 
+                    HPOS="308"
+                    VPOS="656"
+                    WIDTH="1926"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="310 709 310 731 2234 718 2234 702 2230 667 1785 667 1755 656 1753 656 1751 656 1750 656 1706 667 1287 658 1286 658 1284 658 1282 658 1267 669 1249 660 1247 660 1245 660 1054 669 893 660 891 660 889 660 865 669 790 660 788 660 673 671 588 662 587 662 308 673 310 709"/></Shape>
+	    <String CONTENT="provoquant une légère distorsion de la lumière. Au lieu d’arriver exactement"
+                    HPOS="308"
+                    VPOS="656"
+                    WIDTH="1926"
+                    HEIGHT="75"
+                    WC="0.9851597879506364"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT4328"
+                    BASELINE="311 777 1874 777" 
+                    HPOS="311"
+                    VPOS="729"
+                    WIDTH="1563"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="311 777 311 794 1873 795 1874 777 1874 740 1827 729 1825 729 1823 729 1746 742 1550 742 1518 729 1517 729 1515 729 1513 729 1511 729 1493 742 1357 742 1313 729 1311 729 1309 729 1308 729 1306 729 1287 740 1227 729 1225 729 1223 729 1199 740 1170 729 1168 729 1166 729 1164 729 1163 729 1148 740 1109 729 1108 729 1106 729 1104 729 1102 729 1087 740 1071 731 1069 731 1067 731 1065 731 1032 740 996 729 994 729 992 729 990 729 952 740 889 729 887 729 886 729 884 729 865 740 831 729 829 729 827 729 825 729 823 729 807 742 709 742 675 729 673 729 671 729 669 729 623 740 581 729 579 729 577 729 515 740 436 729 434 729 432 729 431 729 416 740 311 740 311 777"/></Shape>
+	    <String CONTENT="au milieu du visage de l’enfant, la balle lui arracha une oreille."
+                    HPOS="311"
+                    VPOS="729"
+                    WIDTH="1563"
+                    HEIGHT="66"
+                    WC="0.9966338592948336"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

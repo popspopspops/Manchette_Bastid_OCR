@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>page_00104.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT11002" LABEL="MaineZone" DESCRIPTION="block type MaineZone"/><OtherTag ID="BT11004" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT11005" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT11006" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT11009" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT11010" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="LT4328" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4329" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4330" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3301"
+          PHYSICAL_IMG_NR="99"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3301">
+        
+        <TextBlock HPOS="288.5843811035156"
+                   VPOS="264.3729553222656"
+                   WIDTH="1968.5342712402344"
+                   HEIGHT="698.3127136230469"
+                   ID="block_0"
+                   TAGREFS="BT11009">
+          <Shape><Polygon POINTS="288.584 264.373 2257.12 264.373 2257.12 962.686 288.584 962.686 288.584 264.373"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT4328"
+                    BASELINE="306 346 2238 346" 
+                    HPOS="306"
+                    VPOS="298"
+                    WIDTH="1932"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="306 363 2238 363 2238 346 2238 309 1843 298 1841 298 1786 308 1737 298 1735 298 1733 298 1709 309 1493 309 1383 298 1381 298 1302 308 1164 298 1163 298 1053 308 1021 298 1020 298 1018 298 895 308 845 298 843 298 842 298 812 308 765 298 763 298 620 308 533 298 532 298 530 298 528 298 511 309 401 309 341 298 339 298 337 298 306 308 306 346"/></Shape>
+	    <String CONTENT="chromo. Il mesurait cinquante centimètres de long, au moins. Julie poussa un"
+                    HPOS="306"
+                    VPOS="298"
+                    WIDTH="1932"
+                    HEIGHT="65"
+                    WC="0.9946854966027396"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT4328"
+                    BASELINE="306 418 2232 418" 
+                    HPOS="306"
+                    VPOS="372"
+                    WIDTH="1926"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="306 418 306 432 2232 432 2232 418 2232 383 2186 372 2184 372 2137 381 1924 372 1922 372 1920 372 1900 383 1707 383 1654 372 1652 372 1651 372 1630 383 1513 383 1462 372 1460 372 1458 372 1423 383 1205 383 1146 372 1144 372 1142 372 1141 372 1124 383 986 383 838 372 836 372 834 372 794 381 752 372 750 372 627 381 559 372 557 372 476 381 366 372 365 372 306 381 306 418"/></Shape>
+	    <String CONTENT="cri étranglé, recula, heurta une chaise et sentit ses cheveux se hérisser. Le"
+                    HPOS="306"
+                    VPOS="372"
+                    WIDTH="1926"
+                    HEIGHT="60"
+                    WC="0.9905720248818397"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT4328"
+                    BASELINE="311 500 2230 487" 
+                    HPOS="305"
+                    VPOS="429"
+                    WIDTH="1922"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="308 497 308 511 2225 508 2227 486 2222 445 1999 445 1982 429 1979 429 1977 429 1974 429 1971 429 1968 429 1949 442 1908 429 1905 429 1902 429 1740 445 1415 431 1412 431 1349 445 1308 431 1305 431 1302 431 1299 431 1241 448 872 434 870 434 751 451 721 437 718 437 338 437 335 437 333 437 330 437 305 451 308 497"/></Shape>
+	    <String CONTENT="siège lui arrivait au milieu du torse, et la table était presque à la hauteur de"
+                    HPOS="305"
+                    VPOS="429"
+                    WIDTH="1922"
+                    HEIGHT="82"
+                    WC="0.9938268726130566"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT4328"
+                    BASELINE="313 563 614 563" 
+                    HPOS="313"
+                    VPOS="529"
+                    WIDTH="301"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="313 563 313 581 614 581 614 563 614 529 313 529 313 563"/></Shape>
+	    <String CONTENT="son menton."
+                    HPOS="313"
+                    VPOS="529"
+                    WIDTH="301"
+                    HEIGHT="52"
+                    WC="0.9975287209857594"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT4328"
+                    BASELINE="436 643 1412 645" 
+                    HPOS="434"
+                    VPOS="594"
+                    WIDTH="978"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="436 643 434 652 476 663 478 663 1410 654 1412 645 1410 607 1297 594 1295 594 1293 594 1251 605 1221 594 1219 594 1218 594 1168 605 1142 594 1141 594 1095 594 1093 594 1091 594 1089 594 1089 596 1082 603 1075 597 1075 596 1073 596 1071 596 1069 596 1027 605 1001 594 999 594 997 594 996 594 953 605 950 607 917 607 917 605 906 596 906 594 904 594 902 594 900 594 898 594 876 605 875 607 777 607 776 605 750 594 748 594 746 594 684 605 678 605 673 605 625 594 623 594 621 594 579 605 574 607 533 607 532 605 522 596 522 594 521 594 519 594 517 594 436 603 436 643"/></Shape>
+	    <String CONTENT="-C’est le château du géant! hurla Peter."
+                    HPOS="434"
+                    VPOS="594"
+                    WIDTH="978"
+                    HEIGHT="69"
+                    WC="0.9773838122685751"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT4328"
+                    BASELINE="372 722 2230 718" 
+                    HPOS="370"
+                    VPOS="673"
+                    WIDTH="1860"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="372 722 372 737 2228 733 2230 718 2228 685 2201 673 2199 673 2197 673 2195 673 2159 684 2120 673 2118 673 2117 673 2062 685 1862 685 1827 673 1825 673 1823 673 1821 673 1783 685 1718 685 1698 673 1696 673 1695 673 1693 673 1630 684 1607 674 1605 674 1603 674 1542 684 1513 673 1511 673 1509 673 1507 673 1473 682 1419 673 1418 673 1416 673 1386 684 1377 684 1196 676 1194 676 1192 676 1166 684 1159 685 1155 684 1141 674 1139 674 1137 674 1135 674 1060 684 1040 687 986 687 981 684 968 674 966 674 964 674 963 674 898 684 878 687 620 687 607 684 568 674 566 674 565 674 530 684 519 685 508 684 482 674 480 674 478 674 370 682 372 722"/></Shape>
+	    <String CONTENT="Julie, les yeux agrandis par la terreur, pivota et vit un homme sortir de"
+                    HPOS="370"
+                    VPOS="673"
+                    WIDTH="1860"
+                    HEIGHT="64"
+                    WC="0.993483933683944"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT4328"
+                    BASELINE="311 794 2228 790" 
+                    HPOS="310"
+                    VPOS="744"
+                    WIDTH="1918"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="311 794 311 808 2227 806 2228 790 2225 755 2159 744 2157 744 2040 753 2036 755 1906 755 1904 753 1885 744 1884 744 1882 744 1880 744 1852 753 1851 753 1847 753 1779 744 1777 744 1695 753 1687 755 1480 755 1476 753 1460 744 1458 744 1456 744 1311 753 1256 757 1153 757 1146 751 1137 746 1135 746 1133 746 1131 746 1093 751 1071 755 1043 751 996 746 994 746 992 746 970 751 957 755 950 751 937 746 935 746 933 746 931 746 908 751 891 755 853 751 794 746 792 746 757 751 731 755 689 751 634 746 632 746 577 751 530 755 310 751 311 794"/></Shape>
+	    <String CONTENT="l’ombre, à l’autre bout de la salle insensée. Il portait un bleu de travail. Des"
+                    HPOS="310"
+                    VPOS="744"
+                    WIDTH="1918"
+                    HEIGHT="64"
+                    WC="0.9997939351128369"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT4328"
+                    BASELINE="310 863 2230 863" 
+                    HPOS="310"
+                    VPOS="817"
+                    WIDTH="1920"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="310 863 310 883 2230 883 2230 863 2230 830 1522 817 1520 817 1518 817 1517 817 1496 830 1394 830 1353 817 1352 817 1350 817 1286 828 1225 817 1223 817 1221 817 1197 830 1012 830 992 819 990 819 988 819 904 828 864 817 862 817 860 817 858 817 820 830 693 830 629 817 627 817 471 828 366 817 365 817 310 828 310 863"/></Shape>
+	    <String CONTENT="mèches jaunâtres pendaient sur son front large. C’était Fuentès. Julie essaya"
+                    HPOS="310"
+                    VPOS="817"
+                    WIDTH="1920"
+                    HEIGHT="66"
+                    WC="0.9952649930377065"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT4328"
+                    BASELINE="311 938 1414 938" 
+                    HPOS="311"
+                    VPOS="893"
+                    WIDTH="1103"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="311 953 1412 955 1414 938 1414 904 1166 893 1164 893 1005 902 990 893 988 893 986 893 985 893 911 902 840 893 838 893 438 902 401 893 399 893 398 893 396 893 376 902 332 893 330 893 328 893 311 900 311 938"/></Shape>
+	    <String CONTENT="de faire un pas en arrière et se sentit tomber."
+                    HPOS="311"
+                    VPOS="893"
+                    WIDTH="1103"
+                    HEIGHT="62"
+                    WC="0.9984680563211441"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

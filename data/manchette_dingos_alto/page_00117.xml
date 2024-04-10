@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>page_00117.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT11002" LABEL="MaineZone" DESCRIPTION="block type MaineZone"/><OtherTag ID="BT11004" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT11005" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT11006" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT11009" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT11010" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="LT4328" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4329" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4330" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3301"
+          PHYSICAL_IMG_NR="112"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3301">
+        
+        <TextBlock HPOS="286.6017761230469"
+                   VPOS="272.2571105957031"
+                   WIDTH="1974.0202941894531"
+                   HEIGHT="1095.5224304199219"
+                   ID="block_0"
+                   TAGREFS="BT11009">
+          <Shape><Polygon POINTS="286.602 272.257 2260.62 272.257 2260.62 1367.78 286.602 1367.78 286.602 272.257"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT4328"
+                    BASELINE="388 341 2227 344" 
+                    HPOS="387"
+                    VPOS="297"
+                    WIDTH="1840"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="388 341 387 353 519 366 521 368 675 368 675 366 676 366 678 366 693 357 742 366 744 366 1012 357 1113 366 1115 366 1693 359 1821 368 1823 368 2225 357 2227 344 2225 311 2028 298 2027 298 1964 309 1962 309 1955 309 1753 298 1693 298 1691 298 1689 298 1687 298 1669 309 1649 298 1647 298 1645 298 1507 308 1462 298 1460 298 1458 298 1456 298 1441 308 1364 298 1363 298 1361 298 1322 308 1229 297 1227 297 1082 306 1027 297 1025 297 1023 297 1021 297 1003 308 1001 308 944 297 942 297 878 308 873 309 533 309 530 308 506 297 504 297 502 297 388 306 388 341"/></Shape>
+	    <String CONTENT="— Pouvons-nous parler tranquillement? demanda Thompson. Pouvons-"
+                    HPOS="387"
+                    VPOS="297"
+                    WIDTH="1840"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT4328"
+                    BASELINE="310 418 2084 414" 
+                    HPOS="308"
+                    VPOS="370"
+                    WIDTH="1776"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="310 418 310 434 2082 430 2084 414 2076 370 2041 379 1951 370 1939 370 1937 370 1935 370 1933 370 1917 381 1812 381 1783 372 1775 370 1773 370 1772 370 1759 372 1726 379 1702 372 1693 370 1691 370 1689 370 1687 370 1685 370 1682 372 1671 379 1643 374 1629 370 1627 370 1625 370 1616 374 1599 381 1306 381 1278 375 1232 370 1230 370 1179 377 1144 381 1135 377 1122 372 1120 372 1119 372 708 381 647 381 642 381 585 372 583 372 521 381 458 372 456 372 454 372 453 372 436 383 308 383 310 418"/></Shape>
+	    <String CONTENT="nous discuter quelque part, plusieurs heures, sans craindre les curieux?"
+                    HPOS="308"
+                    VPOS="370"
+                    WIDTH="1776"
+                    HEIGHT="64"
+                    WC="0.9961549300286505"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT4328"
+                    BASELINE="385 496 2228 498" 
+                    HPOS="383"
+                    VPOS="452"
+                    WIDTH="1845"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="385 496 383 509 469 520 471 520 2227 517 2228 498 2227 462 1348 452 1346 452 1344 452 1320 462 1315 465 1043 465 1032 462 983 452 981 452 930 462 919 463 908 462 856 452 854 452 853 452 851 452 836 462 831 465 515 465 508 462 467 452 465 452 464 452 462 452 460 452 445 462 442 463 385 463 385 496"/></Shape>
+	    <String CONTENT="— Je ne veux pas discuter avec vous plusieurs heures, dit Hartog. Je veux"
+                    HPOS="383"
+                    VPOS="452"
+                    WIDTH="1845"
+                    HEIGHT="68"
+                    WC="0.9950348351099719"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT4328"
+                    BASELINE="311 574 1491 570" 
+                    HPOS="310"
+                    VPOS="524"
+                    WIDTH="1181"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="311 585 1489 583 1491 570 1487 539 1419 528 1418 528 1416 528 1383 539 1313 539 1304 529 1304 528 1302 528 1300 528 1298 528 1197 535 1153 526 1152 526 1150 526 1148 526 1135 537 1060 524 1058 524 992 537 900 524 898 524 897 524 895 524 895 526 878 539 801 526 750 526 748 526 746 526 744 526 728 539 649 526 647 526 544 539 526 529 524 529 522 529 409 539 333 529 332 529 330 529 310 539 311 574"/></Shape>
+	    <String CONTENT="que vous partiez. Vous deviez les tuer et.., et..."
+                    HPOS="310"
+                    VPOS="524"
+                    WIDTH="1181"
+                    HEIGHT="61"
+                    WC="0.9992941963672638"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT4328"
+                    BASELINE="372 652 1441 647" 
+                    HPOS="370"
+                    VPOS="601"
+                    WIDTH="1071"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="372 652 372 665 1440 660 1441 647 1438 612 1179 601 1177 601 1175 601 1139 610 1109 601 1108 601 1106 601 1104 601 1071 612 825 603 823 603 821 603 820 603 820 605 810 612 700 605 698 605 697 605 695 605 695 607 686 614 377 605 376 605 374 605 372 605 372 607 370 607 372 652"/></Shape>
+	    <String CONTENT="Le rousseau tapa du pied contre les dalles."
+                    HPOS="370"
+                    VPOS="601"
+                    WIDTH="1071"
+                    HEIGHT="64"
+                    WC="0.9992189601410267"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT4328"
+                    BASELINE="420 729 2227 733" 
+                    HPOS="418"
+                    VPOS="682"
+                    WIDTH="1809"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="420 729 418 739 473 750 475 750 1062 744 1302 742 2223 751 2227 733 2225 695 2021 684 2019 684 1876 693 1867 693 1863 693 1812 684 1810 684 1808 684 1807 684 1794 693 1792 695 1695 695 1691 693 1651 684 1649 684 1647 684 1645 684 1630 693 1627 693 1581 684 1579 684 1530 693 1524 693 1517 693 1473 684 1471 684 1355 693 1333 693 1330 693 1306 682 1304 682 1302 682 1247 691 1245 693 1065 693 1064 691 1032 682 1031 682 1029 682 420 689 420 729"/></Shape>
+	    <String CONTENT="— Je vais les tuer, dit Thompson d’une voix très lasse. Je veux les tuer,"
+                    HPOS="418"
+                    VPOS="682"
+                    WIDTH="1809"
+                    HEIGHT="69"
+                    WC="0.9982366843803508"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT4328"
+                    BASELINE="310 805 2228 799" 
+                    HPOS="308"
+                    VPOS="753"
+                    WIDTH="1920"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="310 805 310 819 2227 816 2228 799 2225 766 2172 753 2170 753 2168 753 2135 764 2014 753 2012 753 2010 753 2008 753 1988 766 1871 766 1814 753 1812 753 1810 753 1770 764 1707 753 1706 753 1704 753 1702 753 1684 764 1665 757 1663 757 1662 757 1553 766 1440 755 1438 755 1359 766 1319 755 1317 755 1315 755 1313 755 1311 755 1291 768 1062 768 997 755 996 755 994 755 992 755 974 766 761 757 759 757 757 757 755 757 737 768 706 757 704 757 702 757 467 768 361 757 359 757 357 757 308 770 310 805"/></Shape>
+	    <String CONTENT="même si c’est la dernière chose que je fais. Justement, j’ai besoin de parler"
+                    HPOS="308"
+                    VPOS="753"
+                    WIDTH="1920"
+                    HEIGHT="66"
+                    WC="0.9969550363625153"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT4328"
+                    BASELINE="313 876 1353 872" 
+                    HPOS="311"
+                    VPOS="828"
+                    WIDTH="1042"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="313 876 313 889 1352 889 1353 872 1350 839 1300 828 1298 828 1297 828 1263 839 941 839 895 828 893 828 818 839 596 830 594 830 592 830 590 830 590 832 581 839 554 832 552 832 550 832 311 841 313 876"/></Shape>
+	    <String CONTENT="avec vous. J’ai besoin de renseignements."
+                    HPOS="311"
+                    VPOS="828"
+                    WIDTH="1042"
+                    HEIGHT="61"
+                    WC="0.9857917209950889"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT4328"
+                    BASELINE="438 949 2232 953" 
+                    HPOS="436"
+                    VPOS="905"
+                    WIDTH="1796"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="438 949 436 960 482 971 484 971 2230 970 2232 953 2232 918 2190 907 2188 907 2186 907 1751 916 1720 916 1718 916 1706 907 1704 907 1702 907 1700 907 1698 907 1663 916 1660 916 1658 916 1614 907 1612 907 1610 907 1574 916 1572 916 1570 916 1544 907 1542 907 1541 907 1423 916 1405 916 1396 916 1333 905 1331 905 1330 905 1302 916 1263 916 1141 916 1139 915 1120 905 1119 905 1117 905 1073 915 1071 915 1069 915 972 905 970 905 968 905 966 905 952 915 935 905 933 905 931 905 878 915 876 915 873 915 821 905 820 905 818 905 785 915 781 916 528 916 524 915 511 905 510 905 508 905 506 905 438 913 438 949"/></Shape>
+	    <String CONTENT="—Je vous ai donné tous les renseignements dont vous aviez besoin,"
+                    HPOS="436"
+                    VPOS="905"
+                    WIDTH="1796"
+                    HEIGHT="66"
+                    WC="0.9951472499153831"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT4328"
+                    BASELINE="308 1026 2230 1023" 
+                    HPOS="306"
+                    VPOS="977"
+                    WIDTH="1924"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="308 1026 308 1041 2230 1036 2230 1023 2225 988 2106 988 2102 988 2069 977 2067 977 2065 977 2063 977 2062 977 2045 988 2041 990 1907 990 1904 988 1863 977 1862 977 1860 977 1812 988 1810 988 1807 988 1764 977 1762 977 1761 977 1759 977 1757 977 1739 988 1737 990 1515 990 1509 988 1390 977 1388 977 1386 977 1385 977 1366 988 1284 979 1282 979 1280 979 1251 988 1131 979 1130 979 1128 979 1108 990 1060 990 876 990 869 990 794 979 792 979 689 988 544 979 543 979 306 990 308 1026"/></Shape>
+	    <String CONTENT="murmura Hartog d’une voix aiguë. Partez. Allez-vous-en. Je n’ai rien à vous"
+                    HPOS="306"
+                    VPOS="977"
+                    WIDTH="1924"
+                    HEIGHT="64"
+                    WC="0.9856566415204631"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT4328"
+                    BASELINE="311 1098 442 1098" 
+                    HPOS="311"
+                    VPOS="1047"
+                    WIDTH="131"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="311 1098 311 1111 442 1111 442 1098 442 1067 337 1047 335 1047 333 1047 332 1047 311 1061 311 1098"/></Shape>
+	    <String CONTENT="dire."
+                    HPOS="311"
+                    VPOS="1047"
+                    WIDTH="131"
+                    HEIGHT="64"
+                    WC="0.9953228235244751"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT4328"
+                    BASELINE="379 1173 2228 1179" 
+                    HPOS="377"
+                    VPOS="1126"
+                    WIDTH="1851"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="379 1173 377 1186 473 1199 475 1199 563 1190 577 1199 579 1199 581 1199 583 1199 961 1190 1306 1201 1308 1201 1586 1192 1729 1203 1731 1203 1792 1193 1935 1203 1937 1203 2227 1192 2228 1179 2228 1146 2078 1129 2076 1129 2016 1138 1966 1129 1964 1129 1962 1129 1937 1140 1895 1129 1893 1129 1891 1129 1889 1129 1865 1142 1841 1129 1840 1129 1838 1129 1781 1142 1702 1131 1700 1131 1698 1131 1665 1140 1608 1127 1607 1127 1605 1127 1577 1137 1480 1127 1478 1127 1476 1127 1452 1140 1249 1140 1229 1131 1227 1131 1225 1131 1223 1131 1188 1140 1100 1127 1098 1127 1097 1127 1049 1140 994 1126 992 1126 990 1126 988 1126 961 1138 897 1126 895 1126 799 1138 709 1126 708 1126 706 1126 673 1138 640 1126 638 1126 636 1126 634 1126 598 1138 566 1126 565 1126 563 1126 561 1126 522 1138 476 1126 475 1126 473 1126 471 1126 469 1126 447 1140 379 1140 379 1173"/></Shape>
+	    <String CONTENT="— Il s’agit d’un point d’architecture, monsieur Hartog. Il s’agit d’une..."
+                    HPOS="377"
+                    VPOS="1126"
+                    WIDTH="1851"
+                    HEIGHT="77"
+                    WC="0.9991190602650514"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT4328"
+                    BASELINE="310 1250 1829 1250" 
+                    HPOS="310"
+                    VPOS="1203"
+                    WIDTH="1519"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="310 1250 310 1267 1827 1267 1829 1250 1829 1214 1808 1203 1807 1203 1805 1203 1803 1203 1766 1212 1735 1203 1733 1203 1731 1203 1729 1203 1696 1212 1638 1203 1636 1203 1564 1212 1251 1203 1249 1203 1197 1212 1164 1203 1163 1203 1161 1203 1067 1212 974 1203 972 1203 970 1203 952 1212 919 1203 917 1203 915 1203 913 1203 911 1203 897 1214 717 1214 645 1203 643 1203 585 1212 539 1203 537 1203 535 1203 533 1203 517 1214 310 1214 310 1250"/></Shape>
+	    <String CONTENT="construction. Une sorte de labyrinthe. Dans le Massif central."
+                    HPOS="310"
+                    VPOS="1203"
+                    WIDTH="1519"
+                    HEIGHT="64"
+                    WC="0.9997626716090787"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    TAGREFS="LT4328"
+                    BASELINE="376 1327 1344 1324" 
+                    HPOS="374"
+                    VPOS="1278"
+                    WIDTH="970"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="376 1327 376 1346 1342 1346 1344 1324 1341 1292 1293 1292 1278 1280 1278 1278 1276 1278 1275 1278 1273 1278 1271 1278 1241 1291 1212 1278 1210 1278 1208 1278 1207 1278 1174 1289 1139 1278 1137 1278 1135 1278 1133 1278 1131 1278 1131 1280 1120 1289 1108 1278 1106 1278 1104 1278 1053 1278 1051 1278 1049 1278 1021 1292 961 1292 818 1292 816 1292 792 1280 790 1280 788 1280 787 1280 737 1292 733 1294 614 1294 614 1292 587 1280 585 1280 583 1280 526 1292 524 1292 491 1280 489 1280 487 1280 486 1280 451 1291 381 1280 379 1280 377 1280 376 1280 376 1281 374 1281 376 1327"/></Shape>
+	    <String CONTENT="Hartog le regarda comme s’il était fou."
+                    HPOS="374"
+                    VPOS="1278"
+                    WIDTH="970"
+                    HEIGHT="68"
+                    WC="0.9990022197365761"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>page_00111.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT11002" LABEL="MaineZone" DESCRIPTION="block type MaineZone"/><OtherTag ID="BT11004" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT11005" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT11006" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT11009" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT11010" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="LT4328" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4329" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4330" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3301"
+          PHYSICAL_IMG_NR="106"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3301">
+        
+        <TextBlock HPOS="286.2939453125"
+                   VPOS="249.09715270996094"
+                   WIDTH="1971.158203125"
+                   HEIGHT="778.1023101806641"
+                   ID="block_0"
+                   TAGREFS="BT11009">
+          <Shape><Polygon POINTS="286.294 249.097 2257.45 249.097 2257.45 1027.2 286.294 1027.2 286.294 249.097"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT4328"
+                    BASELINE="308 348 2232 342" 
+                    HPOS="306"
+                    VPOS="297"
+                    WIDTH="1926"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="308 348 308 361 390 370 392 370 640 361 654 361 658 361 711 370 713 370 924 361 944 370 946 370 948 370 1196 359 1208 359 1229 359 1588 366 1590 366 1592 366 1610 357 1612 357 1634 366 1636 366 1638 366 1823 357 1829 357 1854 366 1856 366 1858 368 2016 368 2016 366 2017 366 2036 357 2210 366 2212 366 2214 366 2216 366 2232 355 2232 342 2230 309 2186 297 2184 297 2183 297 2181 297 2159 309 2157 309 2137 309 1970 300 1968 300 1838 309 1788 297 1786 297 1785 297 1656 309 1592 298 1590 298 1522 311 1520 311 1502 300 1500 300 1498 300 1421 298 1419 298 1418 298 1381 311 1381 313 1311 313 1230 313 1205 298 1203 298 1201 298 1142 308 1102 298 1100 298 1098 298 950 313 946 313 917 300 915 300 913 300 836 313 728 300 726 300 658 313 634 300 632 300 631 300 570 309 478 300 476 300 306 315 308 348"/></Shape>
+	    <String CONTENT="arpentait la pièce et ponctuait son récit de grands gestes et de"
+                    HPOS="306"
+                    VPOS="297"
+                    WIDTH="1926"
+                    HEIGHT="73"
+                    WC="0.9931150223269607"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT4328"
+                    BASELINE="310 419 653 419" 
+                    HPOS="310"
+                    VPOS="375"
+                    WIDTH="343"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="310 419 310 434 653 434 653 419 653 386 596 375 594 375 394 385 348 375 346 375 344 375 310 385 310 419"/></Shape>
+	    <String CONTENT="ricanements."
+                    HPOS="310"
+                    VPOS="375"
+                    WIDTH="343"
+                    HEIGHT="59"
+                    WC="0.9970885167519251"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT4328"
+                    BASELINE="370 533 2234 528" 
+                    HPOS="368"
+                    VPOS="480"
+                    WIDTH="1866"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="370 533 370 548 2232 548 2234 528 2230 495 2161 480 2159 480 2157 480 2106 493 2106 495 1984 495 1983 493 1959 480 1957 480 1955 480 1953 480 1917 493 1915 493 1856 480 1854 480 1792 493 1788 493 1785 493 1700 480 1698 480 1696 480 1671 493 1630 480 1629 480 1627 480 1625 480 1623 480 1605 493 1599 495 1520 495 1518 493 1496 482 1495 482 1493 482 1491 482 1456 493 1447 495 1434 493 1383 482 1381 482 1379 482 1346 493 1335 496 1249 496 1240 493 1218 484 1216 484 1214 484 1177 491 1163 482 1161 482 1159 482 1157 482 1047 491 988 496 948 491 893 484 891 484 889 484 864 491 843 496 820 491 792 485 790 485 788 485 766 491 750 496 588 496 563 491 532 484 530 484 497 491 469 496 443 491 416 484 414 484 412 484 368 489 370 533"/></Shape>
+	    <String CONTENT="Le plus marrant, c’est que Hartog soit jaloux de Fuentès. Je ne m’en"
+                    HPOS="368"
+                    VPOS="480"
+                    WIDTH="1866"
+                    HEIGHT="68"
+                    WC="0.9998027760049571"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT4328"
+                    BASELINE="308 599 2228 603" 
+                    HPOS="306"
+                    VPOS="566"
+                    WIDTH="1922"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="308 599 306 612 326 623 328 623 330 623 1170 616 1269 625 1271 625 2227 616 2228 603 2227 566 308 566 308 599"/></Shape>
+	    <String CONTENT="doutais pas. Il est jaloux, ça se voit gros comme une maison. Il a pris des"
+                    HPOS="306"
+                    VPOS="566"
+                    WIDTH="1922"
+                    HEIGHT="59"
+                    WC="0.9856110905346117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT4328"
+                    BASELINE="310 678 2230 671" 
+                    HPOS="308"
+                    VPOS="623"
+                    WIDTH="1922"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="310 678 310 698 2228 685 2230 671 2227 638 1988 623 1986 623 1984 623 1959 638 1801 638 1764 623 1762 623 1761 623 1759 623 1757 623 1733 640 1574 640 1548 625 1546 625 1544 625 1542 625 1506 638 1159 627 1157 627 1155 627 1130 641 1018 641 990 627 988 627 986 627 898 636 842 627 840 627 785 638 653 629 651 629 579 641 539 629 537 629 535 629 484 640 343 629 341 629 339 629 308 641 310 678"/></Shape>
+	    <String CONTENT="photos de ce labyrinthe à la con. Il les a mises dans ses dossiers. Et le jour"
+                    HPOS="308"
+                    VPOS="623"
+                    WIDTH="1922"
+                    HEIGHT="75"
+                    WC="0.9963559198983108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT4328"
+                    BASELINE="310 750 2234 746" 
+                    HPOS="308"
+                    VPOS="696"
+                    WIDTH="1926"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="310 750 310 759 851 770 853 770 933 761 939 761 2232 761 2234 746 2230 709 1997 696 1995 696 1994 696 1970 709 1821 709 1794 696 1792 696 1790 696 1788 696 1742 707 1684 696 1682 696 1568 707 1513 696 1511 696 1509 696 1465 707 1407 696 1405 696 1403 696 1401 696 1385 707 1366 696 1364 696 1363 696 1295 696 1293 696 1207 709 1025 698 1023 698 1021 698 997 709 959 698 957 698 955 698 953 698 952 698 931 711 840 711 776 698 774 698 772 698 770 698 750 711 601 711 537 698 535 698 533 698 532 698 515 709 396 709 354 698 352 698 350 698 348 698 308 711 310 750"/></Shape>
+	    <String CONTENT="où vous lui avez dit que la bâtisse était belle, il a prétendu que c’était son"
+                    HPOS="308"
+                    VPOS="696"
+                    WIDTH="1926"
+                    HEIGHT="74"
+                    WC="0.9959517781992993"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT4328"
+                    BASELINE="310 821 1179 816" 
+                    HPOS="308"
+                    VPOS="768"
+                    WIDTH="871"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="310 821 310 832 1168 838 1170 838 1172 838 1174 838 1174 836 1175 836 1179 830 1179 816 1174 773 1042 779 1031 775 1016 768 1014 768 1012 768 1010 768 1008 768 997 775 992 779 981 775 957 768 955 768 953 768 952 768 950 768 950 770 942 775 939 781 902 781 891 777 862 770 860 770 858 770 810 777 792 781 783 779 759 770 757 770 755 770 753 770 752 770 752 772 742 779 741 783 596 783 594 781 561 772 559 772 557 772 555 772 554 772 554 773 544 783 543 784 471 784 469 783 410 772 409 772 308 784 310 821"/></Shape>
+	    <String CONTENT="ermitage. Le con. La tête de bœuf!"
+                    HPOS="308"
+                    VPOS="768"
+                    WIDTH="871"
+                    HEIGHT="70"
+                    WC="0.998316422530583"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT4328"
+                    BASELINE="372 929 2228 924" 
+                    HPOS="370"
+                    VPOS="878"
+                    WIDTH="1858"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="372 944 2227 942 2228 924 2225 878 2179 878 2177 878 2175 878 2173 878 2153 891 2032 878 2017 878 2016 878 2014 878 2010 880 1975 891 1946 880 1940 878 1939 878 1937 878 1935 878 1929 880 1896 893 1526 893 1493 883 1491 883 1489 883 1487 883 1485 883 1484 883 1460 893 1432 883 1419 880 1418 880 1416 880 1414 880 1403 883 1385 893 1361 885 1346 880 1344 880 1342 880 1341 880 1330 885 1317 893 1170 893 1150 887 1130 880 1128 880 1126 880 1087 887 1054 893 1010 887 957 882 955 882 953 882 930 889 908 894 886 889 860 882 858 882 856 882 854 882 825 889 803 894 766 889 706 882 629 882 627 882 625 882 623 882 609 891 603 894 594 891 568 882 566 882 565 882 458 891 385 882 383 882 381 882 379 882 370 887 372 929"/></Shape>
+	    <String CONTENT="Fuentès éclata de rire, puis se mit à tousser on aurait dit qu’il"
+                    HPOS="370"
+                    VPOS="878"
+                    WIDTH="1858"
+                    HEIGHT="66"
+                    WC="0.9894256118465873"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT4328"
+                    BASELINE="310 999 1027 997" 
+                    HPOS="308"
+                    VPOS="955"
+                    WIDTH="719"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="310 999 310 1014 1025 1014 1027 997 1023 966 926 955 924 955 781 964 750 955 748 955 746 955 744 955 742 955 742 957 733 966 631 966 590 955 588 955 587 955 487 964 458 955 456 955 454 955 308 966 310 999"/></Shape>
+	    <String CONTENT="n’arriverait pas à s’arrêter."
+                    HPOS="308"
+                    VPOS="955"
+                    WIDTH="719"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

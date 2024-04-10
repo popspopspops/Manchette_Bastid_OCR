@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>page_00114.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT11002" LABEL="MaineZone" DESCRIPTION="block type MaineZone"/><OtherTag ID="BT11004" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT11005" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT11006" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT11009" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT11010" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="LT4328" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4329" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4330" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2550"
+          HEIGHT="3301"
+          PHYSICAL_IMG_NR="109"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2550"
+                  HEIGHT="3301">
+        
+        <TextBlock HPOS="297.06396484375"
+                   VPOS="265.2514953613281"
+                   WIDTH="1961.349365234375"
+                   HEIGHT="649.8122863769531"
+                   ID="block_0"
+                   TAGREFS="BT11009">
+          <Shape><Polygon POINTS="297.064 265.251 2258.41 265.251 2258.41 915.064 297.064 915.064 297.064 265.251"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT4328"
+                    BASELINE="374 346 2069 346" 
+                    HPOS="374"
+                    VPOS="295"
+                    WIDTH="1695"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="374 363 2069 363 2069 346 2069 308 1944 308 1920 295 1918 295 1917 295 1816 306 1781 295 1779 295 1777 295 1775 295 1753 304 1717 295 1715 295 1713 295 1711 295 1709 295 1691 308 1575 308 1557 295 1555 295 1553 295 1491 295 1489 295 1487 295 1485 295 1469 308 1412 308 1381 295 1379 295 1377 295 1375 295 1374 295 1357 306 1287 295 1286 295 1284 295 1240 306 1208 295 1207 295 1205 295 1203 295 1201 295 1183 308 1122 308 1089 295 1087 295 1086 295 1084 295 1042 306 1007 295 1005 295 1003 295 1001 295 999 295 983 308 711 308 686 295 684 295 682 295 594 306 522 295 521 295 519 295 497 306 473 295 471 295 392 295 390 295 388 295 387 295 374 302 374 346"/></Shape>
+	    <String CONTENT="Julie l’imagina torse nu, fendant des bûches. L’image était plaisante."
+                    HPOS="374"
+                    VPOS="295"
+                    WIDTH="1695"
+                    HEIGHT="68"
+                    WC="0.9948537424206734"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT4328"
+                    BASELINE="427 423 2128 429" 
+                    HPOS="425"
+                    VPOS="375"
+                    WIDTH="1703"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="427 423 425 436 2124 441 2128 429 2126 392 2054 379 2052 379 1957 390 1955 390 1931 379 1929 379 1928 379 1845 388 1812 379 1810 379 1808 379 1807 379 1768 390 1766 390 1762 390 1724 379 1722 379 1720 379 1654 390 1645 390 1638 390 1559 377 1557 377 1555 377 1533 388 1509 377 1507 377 1506 377 1364 388 1361 388 1359 388 1326 377 1324 377 1322 377 1320 377 1286 388 1284 388 1249 377 1247 377 1245 377 1197 388 1194 388 1192 388 1142 377 1141 377 1139 377 1100 388 1095 388 1091 388 1043 377 1042 377 1040 377 999 388 994 388 990 388 964 375 963 375 961 375 959 375 924 386 843 375 842 375 761 386 759 386 757 386 730 375 728 375 726 375 724 375 697 386 695 388 579 388 577 386 561 375 559 375 557 375 555 375 554 375 533 386 532 386 528 386 482 375 480 375 427 385 427 423"/></Shape>
+	    <String CONTENT="— Je descendrai demain, dit-elle. Je descendrai demain chez les flics."
+                    HPOS="425"
+                    VPOS="375"
+                    WIDTH="1703"
+                    HEIGHT="66"
+                    WC="0.9996741362980434"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT4328"
+                    BASELINE="396 504 2228 504" 
+                    HPOS="393"
+                    VPOS="453"
+                    WIDTH="1834"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="393 503 393 519 2222 522 2227 503 2222 453 393 462 393 503"/></Shape>
+	    <String CONTENT="— Jirai avec vous, dit Fuentès. Vous allez vous fourrer dans un sacré"
+                    HPOS="393"
+                    VPOS="453"
+                    WIDTH="1834"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT4328"
+                    BASELINE="310 579 2227 575" 
+                    HPOS="308"
+                    VPOS="529"
+                    WIDTH="1919"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="310 579 310 599 377 592 451 601 458 601 460 601 462 601 464 601 491 592 937 597 1219 601 1221 601 1269 596 1315 590 1355 596 1392 599 1394 599 1425 594 1456 590 2060 590 2063 590 2080 599 2082 599 2084 599 2227 588 2227 575 2225 540 2201 529 2199 529 2197 529 2122 539 1902 529 1900 529 1816 539 1779 529 1777 529 1775 529 1773 529 1750 540 1528 540 1447 529 1445 529 1377 539 1359 529 1357 529 1355 529 1263 540 1175 531 1174 531 792 540 744 531 742 531 741 531 713 540 579 531 577 531 576 531 544 540 495 531 493 531 491 531 462 540 352 531 350 531 348 531 308 542 310 579"/></Shape>
+	    <String CONTENT="pétrin, le temps de tout leur expliquer, et qu’ils vous croient. Est-ce qu’ils"
+                    HPOS="308"
+                    VPOS="529"
+                    WIDTH="1919"
+                    HEIGHT="72"
+                    WC="0.9954639371437363"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT4328"
+                    BASELINE="315 651 2228 651" 
+                    HPOS="315"
+                    VPOS="614"
+                    WIDTH="1913"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="315 651 315 665 2228 665 2228 651 2228 614 315 614 315 651"/></Shape>
+	    <String CONTENT="vont vous croire? De toute façon, vous aurez besoin de quelqu’un. Je vous"
+                    HPOS="315"
+                    VPOS="614"
+                    WIDTH="1913"
+                    HEIGHT="51"
+                    WC="0.9973496383911854"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT4328"
+                    BASELINE="313 722 816 722" 
+                    HPOS="313"
+                    VPOS="687"
+                    WIDTH="503"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="313 722 313 739 816 739 816 722 816 687 313 687 313 722"/></Shape>
+	    <String CONTENT="trouverai un avocat."
+                    HPOS="313"
+                    VPOS="687"
+                    WIDTH="503"
+                    HEIGHT="52"
+                    WC="0.998135381937027"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT4328"
+                    BASELINE="388 803 2078 803" 
+                    HPOS="385"
+                    VPOS="761"
+                    WIDTH="1691"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="385 800 385 822 2076 822 2076 800 2076 761 385 761 385 800"/></Shape>
+	    <String CONTENT="— Je n’ai plus peur d’aller trouver les flics, remarqua la jeune fille."
+                    HPOS="385"
+                    VPOS="761"
+                    WIDTH="1691"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT4328"
+                    BASELINE="376 880 2159 880" 
+                    HPOS="376"
+                    VPOS="832"
+                    WIDTH="1783"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="376 880 376 898 2157 900 2159 880 2159 845 1882 845 1878 843 1856 832 1854 832 1706 832 1704 832 1702 832 1684 841 1678 843 1671 841 1640 832 1638 832 1636 832 1586 841 1568 845 1469 845 1460 839 1443 832 1441 832 1440 832 1438 832 1412 839 1396 843 1374 839 1335 832 1333 832 1302 839 1280 843 1256 838 1221 832 1219 832 1218 832 1201 838 1186 843 1174 838 1161 832 1159 832 1157 832 1155 832 1137 838 1117 843 1018 838 963 834 961 834 959 834 950 836 937 841 928 836 922 832 920 832 919 832 917 832 893 836 865 841 836 836 814 832 812 832 810 832 809 832 803 836 792 843 779 836 772 832 770 832 768 832 766 832 757 836 733 843 654 834 625 832 623 832 621 832 614 834 587 843 376 834 376 880"/></Shape>
+	    <String CONTENT="À cent mètres de là, Peter jouait dans les fleurs et braillait joyeusement."
+                    HPOS="376"
+                    VPOS="832"
+                    WIDTH="1783"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
