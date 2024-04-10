@@ -19,8 +19,8 @@ characters:
   - o
   - d
   - c
-  - p
   - m
+  - p
   - .
   - ́
   - ','
@@ -44,52 +44,52 @@ characters:
   - J
   - C
   - M
+  - P
   - A
   - z
-  - P
-  - S
-  - "'"
   - T
+  - S
+  - '!'
   - D
   - '?'
-  - '!'
+  - "'"
   - ̧
   - B
   - O
-  - R
   - V
   - U
+  - R
   - N
-  - G
   - F
-  - ;
+  - G
   - Q
+  - ;
   - k
   - ':'
   - H
   - ̈
   - œ
-  - ¬
   - '1'
-  - '2'
+  - ¬
   - '0'
+  - '2'
   - (
   - )
   - '6'
-  - Y
   - '4'
+  - Y
   - w
   - «
-  - »
-  - “
   - '9'
   - Z
-  - K
-  - '3'
+  - »
+  - “
   - '5'
+  - '3'
+  - K
   - W
-  - '8'
   - X
+  - '8'
   - '7'
   - ”
   -  
@@ -124,13 +124,13 @@ time:
 title: Manchette_Bastid_OCR
 url: https://github.com/popspopspops/Manchette_Bastid_OCR
 volume:
-- count: 340602
+- count: 381088
   metric: characters
-- count: 230
+- count: 256
   metric: files
-- count: 6730
+- count: 7500
   metric: lines
 - count: 25
   metric: pages
-- count: 239
+- count: 265
   metric: regions
