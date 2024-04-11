@@ -30,74 +30,80 @@ characters:
   - b
   - f
   - h
-  - ̀
   - q
+  - ̀
   - ̂
+  - j
+  - x
   - —
   - L
-  - x
-  - j
   - I
   - '-'
+  - C
+  - J
   - y
   - E
-  - J
-  - C
+  - P
   - M
   - A
   - z
-  - P
-  - T
-  - S
-  - "'"
-  - D
   - '!'
-  - ̧
+  - T
   - '?'
-  - B
-  - O
+  - ̧
+  - S
+  - D
   - R
-  - N
+  - ¬
+  - O
+  - B
   - V
+  - "'"
+  - N
   - U
   - F
-  - Q
-  - H
-  - k
-  - G
-  - ;
   - ':'
-  - ̈
-  - œ
-  - ¬
+  - Q
+  - k
+  - H
   - '1'
-  - '0'
-  - '2'
-  - (
-  - )
-  - Y
-  - '4'
-  - '6'
-  - «
-  - w
-  - »
-  - '9'
-  - Z
+  - ;
   - “
-  - '3'
-  - K
-  - '5'
-  - W
-  - X
-  - '8'
-  - '7'
-  - ”
-  - /
   - –
-  -  
+  - G
+  - œ
+  - '2'
+  - ̈
+  - '4'
+  - (
+  - '0'
+  - )
   - '"'
-  - '*'
+  - '7'
+  - '6'
+  - '9'
+  - '3'
+  - Y
+  - '5'
+  - '8'
+  - K
+  - ”
+  - Z
+  - w
+  - X
+  - «
+  - »
+  - W
   - °
+  - '*'
+  - /
+  - ̃
+  -  
+  - ⟦
+  - ⟧
+  - ¡
+  - Œ
+  - æ
   - '&'
   mode: NFD
 description: >-
@@ -125,13 +131,13 @@ time:
 title: Manchette_Bastid_OCR
 url: https://github.com/popspopspops/Manchette_Bastid_OCR
 volume:
-- count: 487828
+- count: 763071
   metric: characters
-- count: 330
+- count: 602
   metric: files
-- count: 9557
+- count: 17405
   metric: lines
 - count: 25
   metric: pages
-- count: 339
+- count: 856
   metric: regions
