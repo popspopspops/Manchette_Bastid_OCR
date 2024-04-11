@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>page_00175.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10605" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT10606" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10607" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10608" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT10609" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/>
+    <OtherTag ID="LT4159" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4160" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4161" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2977"
+          HEIGHT="4210"
+          PHYSICAL_IMG_NR="172"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2977"
+                  HEIGHT="4210">
+        
+        <TextBlock HPOS="480.8234558105469"
+                   VPOS="419.56256103515625"
+                   WIDTH="1944.9409484863281"
+                   HEIGHT="684.3871459960938"
+                   ID="block_0"
+                   TAGREFS="BT10605">
+          <Shape><Polygon POINTS="480.823 419.563 2425.76 419.563 2425.76 1103.95 480.823 1103.95 480.823 419.563"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4231c56a"
+                    TAGREFS="LT4161"
+                    BASELINE="505 549 2384 554" 
+                    HPOS="503"
+                    VPOS="481"
+                    WIDTH="1881"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="505 549 503 563 669 582 671 582 854 568 952 580 954 580 1011 568 1444 568 1572 584 1575 584 1577 584 1631 570 1802 570 1823 584 1825 584 1827 584 1830 584 2382 568 2384 554 2382 500 2218 484 2216 484 2106 498 2101 500 1799 500 1795 498 1769 484 1767 484 1764 484 1762 484 1713 498 1708 498 1694 498 1565 484 1563 484 1343 495 1341 495 1305 481 1303 481 1301 481 1298 481 1249 495 1163 481 1160 481 1158 481 1111 495 1078 481 1076 481 1074 481 1071 481 1020 495 1018 495 966 481 964 481 961 481 959 481 917 493 875 481 872 481 870 481 868 481 826 495 821 498 648 498 643 495 603 481 601 481 599 481 596 481 594 481 578 495 575 495 505 495 505 549"/></Shape>
+	    <String CONTENT="cchapper à la destruction! Il y a de quoi se réjouir."
+                    HPOS="503"
+                    VPOS="481"
+                    WIDTH="1881"
+                    HEIGHT="103"
+                    WC="0.991361945325678"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d6834f1a"
+                    TAGREFS="LT4161"
+                    BASELINE="512 650 1034 654" 
+                    HPOS="510"
+                    VPOS="584"
+                    WIDTH="524"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="512 650 510 671 519 678 521 678 524 678 526 678 744 668 802 682 805 682 807 682 1032 668 1034 654 1032 605 931 591 929 591 926 591 894 601 858 587 856 587 854 587 573 601 533 584 531 584 528 584 526 584 524 584 512 594 512 650"/></Shape>
+	    <String CONTENT="Je me réjouis."
+                    HPOS="510"
+                    VPOS="584"
+                    WIDTH="524"
+                    HEIGHT="98"
+                    WC="0.9993675231933594"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd9375a9"
+                    TAGREFS="LT4161"
+                    BASELINE="596 757 2033 757" 
+                    HPOS="596"
+                    VPOS="692"
+                    WIDTH="1437"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="596 757 596 769 1041 783 1043 783 2033 769 2033 757 2033 708 1598 708 1530 692 1528 692 1525 692 1523 692 1507 708 889 708 617 692 615 692 613 692 610 692 596 701 596 757"/></Shape>
+	    <String CONTENT="Ouvrez vos yeux, anges de mon cœur."
+                    HPOS="596"
+                    VPOS="692"
+                    WIDTH="1437"
+                    HEIGHT="91"
+                    WC="0.9867006182670593"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_baff43d9"
+                    TAGREFS="LT4161"
+                    BASELINE="596 858 2380 858" 
+                    HPOS="596"
+                    VPOS="790"
+                    WIDTH="1784"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="596 858 596 874 1062 874 1078 886 1081 886 1083 886 1085 886 1209 874 1647 874 1713 886 1715 886 2380 872 2380 858 2380 809 2260 790 2258 790 2256 790 2188 809 1963 809 1928 790 1926 790 1923 790 1830 809 1418 809 1383 790 1380 790 1378 790 1270 804 1221 790 1219 790 1217 790 1214 790 1172 809 1011 809 842 790 840 790 837 790 807 806 758 790 755 790 753 790 751 790 706 804 620 790 617 790 615 790 613 790 596 802 596 858"/></Shape>
+	    <String CONTENT="Cette ferme qui brûle m’en rappelle une autre."
+                    HPOS="596"
+                    VPOS="790"
+                    WIDTH="1784"
+                    HEIGHT="96"
+                    WC="0.9901783935567166"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f38cd86"
+                    TAGREFS="LT4161"
+                    BASELINE="521 956 2377 961" 
+                    HPOS="521"
+                    VPOS="891"
+                    WIDTH="1856"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="521 956 521 979 1865 979 1914 991 1916 991 1919 991 1921 991 1956 979 2375 979 2377 961 2375 912 2221 893 2218 893 2059 909 2047 909 1916 909 1867 909 1848 893 1846 893 1844 893 1799 893 1797 893 1795 893 1792 893 1774 909 1771 909 1493 909 1490 907 1451 891 1448 891 1446 891 1444 891 1401 907 1399 907 1191 907 1165 907 1135 891 1132 891 1130 891 992 905 966 909 662 909 655 905 638 891 636 891 634 891 631 891 521 902 521 956"/></Shape>
+	    <String CONTENT="A bien y regarder, une ferme en feu, c’est beau"
+                    HPOS="521"
+                    VPOS="891"
+                    WIDTH="1856"
+                    HEIGHT="100"
+                    WC="0.9851467913769661"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f59fa0a9"
+                    TAGREFS="LT4161"
+                    BASELINE="507 1057 1598 1064" 
+                    HPOS="505"
+                    VPOS="996"
+                    WIDTH="1093"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="507 1057 505 1075 947 1094 950 1094 1088 1082 1107 1082 1212 1082 1214 1085 1228 1096 1231 1096 1233 1096 1235 1096 1596 1087 1598 1064 1591 996 1551 1012 1518 996 1516 996 1514 996 1511 996 1500 996 1406 1010 1390 998 1390 996 1387 996 1385 996 1383 996 1380 996 1373 998 1336 1010 507 1008 507 1057"/></Shape>
+	    <String CONTENT="comme une prison qui brûle!"
+                    HPOS="505"
+                    VPOS="996"
+                    WIDTH="1093"
+                    HEIGHT="100"
+                    WC="0.9809950590133667"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>page_00214.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10605" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT10606" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10607" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10608" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT10609" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/>
+    <OtherTag ID="LT4159" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4160" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4161" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2977"
+          HEIGHT="4210"
+          PHYSICAL_IMG_NR="211"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2977"
+                  HEIGHT="4210">
+        
+        <TextBlock HPOS="753.8768310546875"
+                   VPOS="339.511474609375"
+                   WIDTH="1962.9439697265625"
+                   HEIGHT="647.0643920898438"
+                   ID="block_0"
+                   TAGREFS="BT10605">
+          <Shape><Polygon POINTS="753.877 339.511 2716.82 339.511 2716.82 986.576 753.877 986.576 753.877 339.511"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f6f61ad5"
+                    TAGREFS="LT4161"
+                    BASELINE="893 432 2703 458" 
+                    HPOS="888"
+                    VPOS="354"
+                    WIDTH="1811"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="891 431 888 445 2439 487 2443 487 2696 470 2699 456 2699 399 2657 378 2654 378 2650 378 2274 392 2250 392 2243 392 2152 368 2148 368 2144 368 1941 385 1741 364 1737 364 1734 364 1692 385 1660 361 1657 361 1653 361 1649 361 1646 361 1597 382 1495 361 1492 361 1488 361 1421 382 1414 382 1232 382 1225 378 1144 354 1140 354 1137 354 891 371 891 431"/></Shape>
+	    <String CONTENT="– Moi, non. Pas de danger! Mais vous, peut¬"
+                    HPOS="888"
+                    VPOS="354"
+                    WIDTH="1811"
+                    HEIGHT="133"
+                    WC="0.9667960252872733"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1cb637c6"
+                    TAGREFS="LT4161"
+                    BASELINE="788 535 2700 558" 
+                    HPOS="786"
+                    VPOS="467"
+                    WIDTH="1914"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="788 535 786 549 1085 568 1088 568 1312 558 1338 558 1341 558 1357 570 1359 570 1362 570 1364 570 1472 561 1490 561 1549 563 1935 580 1937 580 2040 570 2073 568 2089 570 2125 580 2127 580 2129 582 2698 582 2700 558 2700 507 2651 488 2649 488 2647 488 2525 507 2515 507 2483 507 2249 493 2246 493 2244 493 2207 502 2204 502 2199 502 2127 481 2125 481 2122 481 2120 481 2061 500 2057 500 1909 488 1907 488 1771 498 1745 498 1743 498 1703 477 1701 477 1699 477 1696 477 1638 493 1420 474 1418 474 1415 474 1413 474 1387 493 1385 493 1378 493 1296 472 1294 472 1099 488 1088 488 1085 488 1053 470 1050 470 1048 470 959 486 954 486 950 486 812 467 809 467 807 467 805 467 788 477 788 535"/></Shape>
+	    <String CONTENT="être. Je préfère foutre le camp... Tu as raison, la"
+                    HPOS="786"
+                    VPOS="467"
+                    WIDTH="1914"
+                    HEIGHT="115"
+                    WC="0.9839371851196995"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70dd2c60"
+                    TAGREFS="LT4161"
+                    BASELINE="793 645 2698 666" 
+                    HPOS="793"
+                    VPOS="575"
+                    WIDTH="1905"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="793 645 793 671 985 661 1064 673 1083 675 1085 675 1146 673 1366 666 1465 675 1511 680 1514 680 1621 678 1811 671 1869 678 1919 685 1921 685 2696 682 2698 666 2696 612 2614 594 2611 594 2532 610 2527 610 2525 610 2490 591 2487 591 2485 591 2319 608 2302 608 1933 605 1930 603 1914 589 1912 589 1909 589 1907 589 1905 589 1862 603 1855 603 1678 603 1671 601 1600 582 1598 582 1596 582 1467 598 1455 598 1453 598 1427 580 1425 580 1422 580 1420 580 1418 580 1359 596 1357 596 1355 596 1217 577 1214 577 1102 594 1095 594 1088 594 1004 575 1001 575 999 575 954 591 793 591 793 645"/></Shape>
+	    <String CONTENT="psy. Ce putain de môme c’est pas ma vie. C’est la"
+                    HPOS="793"
+                    VPOS="575"
+                    WIDTH="1905"
+                    HEIGHT="110"
+                    WC="0.9757178807258606"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e24533a"
+                    TAGREFS="LT4161"
+                    BASELINE="791 746 1287 750" 
+                    HPOS="788"
+                    VPOS="675"
+                    WIDTH="499"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="791 746 788 760 1282 764 1287 750 1284 699 1209 699 1209 696 1167 678 1165 678 1088 678 1085 678 1083 678 1041 696 1018 685 1015 685 1013 685 851 692 812 675 809 675 807 675 805 675 802 675 802 678 791 689 791 746"/></Shape>
+	    <String CONTENT="tienne. Ciao."
+                    HPOS="788"
+                    VPOS="675"
+                    WIDTH="499"
+                    HEIGHT="89"
+                    WC="0.9973645072716933"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_503ca21f"
+                    TAGREFS="LT4161"
+                    BASELINE="875 849 2686 872" 
+                    HPOS="872"
+                    VPOS="778"
+                    WIDTH="1814"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="875 849 872 870 1781 895 1783 895 2684 893 2686 872 2686 818 2600 802 2597 802 2595 802 2593 802 2574 816 2572 816 2438 816 2434 811 2405 797 2403 797 2352 797 2349 797 2347 797 2345 797 2328 811 2321 813 2239 813 2232 809 2216 795 2214 795 2211 795 2209 795 2207 795 2167 806 2150 811 1965 811 1942 802 1907 792 1905 792 1902 792 1846 802 1806 806 1741 806 1727 799 1708 788 1706 788 1703 788 1563 795 1444 802 1427 792 1413 783 1411 783 1408 783 1406 783 1338 790 1268 799 1228 788 1198 781 1195 781 1193 781 1191 781 1172 788 1144 797 1074 797 1062 785 1055 781 1055 778 1053 778 1050 778 1048 778 875 781 875 849"/></Shape>
+	    <String CONTENT="Et il sort en claquant la porte qui rebondit contre"
+                    HPOS="872"
+                    VPOS="778"
+                    WIDTH="1814"
+                    HEIGHT="117"
+                    WC="0.9939310539002512"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e9376743"
+                    TAGREFS="LT4161"
+                    BASELINE="779 951 1355 958" 
+                    HPOS="777"
+                    VPOS="881"
+                    WIDTH="578"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="779 951 777 972 1350 979 1355 958 1355 905 1284 886 1282 886 1280 886 1277 886 1217 902 1205 905 1135 902 1132 900 1116 886 1116 884 1114 884 1111 884 1109 884 1041 898 1011 905 975 905 968 895 954 884 954 881 952 881 950 881 947 881 945 881 908 893 887 900 861 893 823 881 821 881 819 881 779 888 779 951"/></Shape>
+	    <String CONTENT="le chambranle."
+                    HPOS="777"
+                    VPOS="881"
+                    WIDTH="578"
+                    HEIGHT="98"
+                    WC="0.9785954824515751"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

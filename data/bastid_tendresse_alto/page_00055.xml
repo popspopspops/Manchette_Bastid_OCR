@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>page_00055.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10605" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT10606" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10607" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10608" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT10609" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/>
+    <OtherTag ID="LT4159" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4160" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4161" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2977"
+          HEIGHT="4210"
+          PHYSICAL_IMG_NR="52"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2977"
+                  HEIGHT="4210">
+        
+        <TextBlock HPOS="1290"
+                   VPOS="1002"
+                   WIDTH="1122"
+                   HEIGHT="838"
+                   ID="block_0"
+                   TAGREFS="BT10605">
+          <Shape><Polygon POINTS="2412 1002 2405 1840 1290 1840 1290 1002"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_dcb65933"
+                    TAGREFS="LT4160"
+                    BASELINE="1383 1134 1462 1127" 
+                    HPOS="1380"
+                    VPOS="1099"
+                    WIDTH="85"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1380 1120 1383 1134 1383 1157 1465 1157 1462 1127 1455 1099 1383 1103 1380 1120"/></Shape>
+	    <String CONTENT="II"
+                    HPOS="1380"
+                    VPOS="1099"
+                    WIDTH="85"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2541e601"
+                    TAGREFS="LT4160"
+                    BASELINE="1570 1457 2321 1461" 
+                    HPOS="1568"
+                    VPOS="1396"
+                    WIDTH="753"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1570 1457 1568 1473 2317 1478 2321 1461 2319 1412 2146 1398 2143 1398 2141 1398 2089 1412 2085 1412 2078 1412 2003 1398 2001 1398 1998 1398 1996 1398 1996 1400 1982 1412 1909 1412 1820 1412 1774 1396 1771 1396 1769 1396 1767 1396 1736 1412 1638 1412 1596 1396 1593 1396 1591 1396 1589 1396 1586 1396 1570 1438"/></Shape>
+	    <String CONTENT="Le vaisseau des pirates"
+                    HPOS="1568"
+                    VPOS="1396"
+                    WIDTH="753"
+                    HEIGHT="82"
+                    WC="0.996494710445404"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e67d278d"
+                    TAGREFS="LT4160"
+                    BASELINE="1572 1557 2359 1562" 
+                    HPOS="1570"
+                    VPOS="1494"
+                    WIDTH="789"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1572 1557 1570 1571 2354 1576 2359 1562 2359 1510 2333 1496 2331 1496 2328 1496 2249 1508 2202 1496 2199 1496 2197 1496 2139 1508 2136 1510 1984 1510 1982 1508 1970 1496 1968 1496 1965 1496 1963 1496 1736 1506 1715 1506 1713 1506 1689 1494 1687 1494 1685 1494 1572 1503 1572 1557"/></Shape>
+	    <String CONTENT="Découvrant ses sabords"
+                    HPOS="1570"
+                    VPOS="1494"
+                    WIDTH="789"
+                    HEIGHT="82"
+                    WC="0.99232512453328"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b4faff3b"
+                    TAGREFS="LT4160"
+                    BASELINE="1572 1655 2204 1655" 
+                    HPOS="1572"
+                    VPOS="1592"
+                    WIDTH="632"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1572 1655 1572 1674 2204 1674 2204 1655 2204 1609 2033 1609 1979 1592 1977 1592 1975 1592 1972 1592 1970 1592 1970 1595 1956 1609 1727 1609 1603 1592 1600 1592 1598 1592 1572 1604 1572 1655"/></Shape>
+	    <String CONTENT="Canonnera le port."
+                    HPOS="1572"
+                    VPOS="1592"
+                    WIDTH="632"
+                    HEIGHT="82"
+                    WC="0.9690137472417619"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_949a3f4e"
+                    TAGREFS="LT4160"
+                    BASELINE="1839 1805 2363 1800" 
+                    HPOS="1837"
+                    VPOS="1747"
+                    WIDTH="526"
+                    HEIGHT="77">
+            <Shape><Polygon POINTS="1839 1805 1839 1824 2361 1821 2363 1800 2356 1747 1837 1749 1839 1805"/></Shape>
+	    <String CONTENT="BERTOLT BRECHT"
+                    HPOS="1837"
+                    VPOS="1747"
+                    WIDTH="526"
+                    HEIGHT="77"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

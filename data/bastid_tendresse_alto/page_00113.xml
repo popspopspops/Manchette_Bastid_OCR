@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>page_00113.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT10605" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT10606" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT10607" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT10608" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT10609" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/>
+    <OtherTag ID="LT4159" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT4160" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT4161" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2977"
+          HEIGHT="4210"
+          PHYSICAL_IMG_NR="110"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2977"
+                  HEIGHT="4210">
+        
+        <TextBlock HPOS="406.207275390625"
+                   VPOS="417.685546875"
+                   WIDTH="1877.75634765625"
+                   HEIGHT="423.75177001953125"
+                   ID="block_0"
+                   TAGREFS="BT10605">
+          <Shape><Polygon POINTS="406.207 417.686 2283.96 417.686 2283.96 841.437 406.207 841.437 406.207 417.686"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_93b61d7d"
+                    TAGREFS="LT4161"
+                    BASELINE="421 495 2277 500" 
+                    HPOS="418"
+                    VPOS="428"
+                    WIDTH="1859"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="2272 446 1380 446 1376 444 1348 428 1345 428 1343 428 655 442 601 442 599 442 580 428 578 428 575 428 461 428 458 428 456 428 421 439 421 495 418 509 449 526 451 526 454 526 456 526 486 514 510 526 512 526 514 526 798 514 891 526 894 526 1261 514 1268 514 1275 514 1495 528 1497 528 2274 516 2277 500 2274 449 2272 446"/></Shape>
+	    <String CONTENT="d’elle, cette frappée de Yolaine, nue comme un ver,"
+                    HPOS="418"
+                    VPOS="428"
+                    WIDTH="1859"
+                    HEIGHT="100"
+                    WC="0.9792871486682159"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc260eb3"
+                    TAGREFS="LT4161"
+                    BASELINE="428 603 2272 603" 
+                    HPOS="428"
+                    VPOS="530"
+                    WIDTH="1844"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="428 603 428 622 2272 622 2272 603 2272 549 2188 530 2185 530 2183 530 2129 547 2050 535 2047 535 1734 547 1671 530 1668 530 1666 530 1664 530 1607 547 1549 530 1547 530 1544 530 1542 530 1539 530 1516 549 1425 549 1406 533 1404 533 1401 533 1399 533 1397 533 1352 544 1305 530 1303 530 1301 530 1298 530 1245 547 1224 530 1221 530 1219 530 1217 530 1158 542 1144 530 1142 530 1139 530 1022 530 1020 530 1018 530 968 547 912 530 910 530 908 530 905 530 903 530 884 547 638 547 585 530 582 530 580 530 578 530 545 549 428 549 428 603"/></Shape>
+	    <String CONTENT="qui plaque son lard blafard et sa foufoune contre les"
+                    HPOS="428"
+                    VPOS="530"
+                    WIDTH="1844"
+                    HEIGHT="92"
+                    WC="0.9939608202790314"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f235f6c5"
+                    TAGREFS="LT4161"
+                    BASELINE="430 701 2265 711" 
+                    HPOS="428"
+                    VPOS="629"
+                    WIDTH="1837"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="430 701 428 718 451 732 454 732 456 732 561 734 564 734 697 720 1029 736 1032 736 1163 722 1254 736 1256 736 1364 725 2260 727 2265 711 2263 652 2108 636 2106 636 2104 636 2101 636 2082 650 2075 654 1930 654 1921 650 1877 636 1874 636 1872 636 1869 636 1867 636 1851 650 1848 652 1839 650 1783 633 1781 633 1778 633 1776 633 1774 633 1752 650 1750 650 1692 633 1689 633 1687 633 1685 633 1682 633 1661 650 1659 652 1654 650 1626 636 1624 636 1621 636 1539 650 1518 652 1497 650 1413 633 1411 633 1408 633 1406 633 1385 650 1380 652 1319 652 1315 647 1273 631 1270 631 1200 631 1198 631 1195 631 1193 631 1172 647 1167 652 954 652 950 647 917 631 915 631 912 631 800 647 793 647 791 647 753 629 751 629 748 629 746 629 704 647 702 647 430 647 430 701"/></Shape>
+	    <String CONTENT="vVitrages du salon qui dégoulinent de la bave d’au"
+                    HPOS="428"
+                    VPOS="629"
+                    WIDTH="1837"
+                    HEIGHT="107"
+                    WC="0.9757152678919774"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef43e14d"
+                    TAGREFS="LT4161"
+                    BASELINE="428 811 1432 811" 
+                    HPOS="428"
+                    VPOS="743"
+                    WIDTH="1004"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="428 811 428 832 1432 832 1432 811 1432 764 1338 764 1289 743 1287 743 1284 743 1282 743 1280 743 1261 757 1027 757 929 743 926 743 924 743 922 743 922 746 903 760 879 743 877 743 875 743 872 743 746 762 720 750 718 750 716 750 636 762 622 750 620 750 617 750 458 750 456 750 454 750 428 762 428 811"/></Shape>
+	    <String CONTENT="moins un cent d’escargots..."
+                    HPOS="428"
+                    VPOS="743"
+                    WIDTH="1004"
+                    HEIGHT="89"
+                    WC="0.9827655106782913"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
