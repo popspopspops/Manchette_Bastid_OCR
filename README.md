@@ -1,5 +1,5 @@
 # Manchette_Bastid_OCR
- Collecte des textes de JP Manchette et JP Bastid, dans le cadre du certficat en humanités numériques
+ Collecte des textes de JP Manchette et JP Bastid, dans le cadre du certficat en humanités numériques. Seuls des échantillons des livres sont présents.
 
  # Documents du dossier data 
 
